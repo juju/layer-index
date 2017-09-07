@@ -1,8 +1,5 @@
 {
   "id": "docker",
-  "lastModified": {
-    "$date": 1441206396561
-  },
   "name": "Docker",
   "repo": "https://github.com/juju-solutions/layer-docker.git",
   "summary": "Layer to deliver and install Docker on Ubuntu, Debian, Centos hosts."

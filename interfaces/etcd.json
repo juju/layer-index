@@ -1,8 +1,5 @@
 {
   "id": "etcd",
-  "lastModified": {
-    "$date": 1444232412957
-  },
   "name": "etcd",
   "repo": "https://github.com/juju-solutions/interface-etcd",
   "summary": "Interface for relating to etcd"

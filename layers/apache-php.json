@@ -1,8 +1,5 @@
 {
   "id": "apache-php",
-  "lastModified": {
-    "$date": 1440103728643
-  },
   "name": "Apache PHP base layer",
   "repo": "https://github.com/juju-solutions/layer-apache-php.git",
   "summary": "Configurable base for Apache PHP charms"

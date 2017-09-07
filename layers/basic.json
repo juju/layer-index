@@ -1,8 +1,5 @@
 {
   "id": "basic",
-  "lastModified": {
-    "$date": 1444845181997
-  },
   "name": "Basic Layer",
   "repo": "https://github.com/juju-solutions/layer-basic.git",
   "summary": "Base layer for charms with the Reactive framework"

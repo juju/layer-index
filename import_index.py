@@ -10,6 +10,7 @@ for layer_type in ('layers', 'interfaces'):
     for layer in data:
         layer.pop('_id', None)
         layer.pop('lastmodified', None)
+        layer.pop('lastModified', None)
         layer.pop('owner', None)
         layer.pop('version', None)
         dest = Path('{}/{}.json'.format(layer_type, layer['id']))

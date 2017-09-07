@@ -1,8 +1,5 @@
 {
   "id": "pgsql",
-  "lastModified": {
-    "$date": 1441919276280
-  },
   "name": "pgsql",
   "repo": "https://git.launchpad.net/interface-pgsql",
   "summary": "Postgresql database client interface"

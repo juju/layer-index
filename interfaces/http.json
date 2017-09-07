@@ -1,8 +1,5 @@
 {
   "id": "http",
-  "lastModified": {
-    "$date": 1440103717371
-  },
   "name": "http",
   "repo": "https://github.com/juju-solutions/interface-http.git",
   "summary": "HTTP Relation Stub"
