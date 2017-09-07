@@ -1,0 +1,6 @@
+{
+  "id": "munin-node",
+  "name": "munin-node",
+  "repo": "https://github.com/freyes/interface-munin-node",
+  "summary": "munin-node relation"
+}

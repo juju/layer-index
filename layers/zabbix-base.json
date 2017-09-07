@@ -1,0 +1,6 @@
+{
+  "id": "zabbix-base",
+  "name": "zabbix-base",
+  "repo": "https://github.com/jamesbeedy/layer-zabbix-base",
+  "summary": "Reactive base layer for zabbix charms"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "elastic-beats",
+  "name": "elastic-beats",
+  "repo": "https://github.com/juju-solutions/interface-elastic-beats",
+  "summary": "Interface for elastic beats"
+}

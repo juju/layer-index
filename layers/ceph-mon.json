@@ -1,0 +1,6 @@
+{
+  "id": "ceph-mon",
+  "name": "EXPERIMENTAL Ceph Mon layer",
+  "repo": "https://github.com/ChrisMacNaughton/juju-layer-ceph-mon",
+  "summary": "EXPERIMENTAL Ceph Mon layer"
+}

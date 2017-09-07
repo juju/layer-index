@@ -1,0 +1,6 @@
+{
+  "id": "puppet-base",
+  "name": "puppet-base",
+  "repo": "https://github.com/jamesbeedy/layer-puppet-base.git",
+  "summary": "Base layer for puppet4"
+}

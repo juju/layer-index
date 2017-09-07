@@ -1,0 +1,6 @@
+{
+  "id": "basic-auth-check",
+  "name": "basic-auth-check",
+  "repo": "https://github.com/CanonicalLtd/juju-interface-basic-auth-check",
+  "summary": "Interface for the basic-auth-service to validate HTTP Basic-Auth credentials"
+}

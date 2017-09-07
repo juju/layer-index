@@ -1,0 +1,6 @@
+{
+  "id": "namenode-cluster",
+  "name": "namenode-cluster",
+  "repo": "https://github.com/juju-solutions/interface-namenode-cluster.git",
+  "summary": "Interface layer for running Apache Hadoop NameNode as HA"
+}

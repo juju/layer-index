@@ -1,0 +1,6 @@
+{
+  "id": "haproxy-core",
+  "name": "haproxy-core",
+  "repo": "https://github.com/juju-solutions/layer-haproxy-core.git",
+  "summary": "A reactive layer that delivers a minimal haproxy layer to use in other application layers."
+}

@@ -1,0 +1,6 @@
+{
+  "id": "jenkins-extension",
+  "name": "jenkins-extension",
+  "repo": "https://github.com/juju-solutions/interface-jenkins-extension.git",
+  "summary": "Admin interface to the jenkins master"
+}

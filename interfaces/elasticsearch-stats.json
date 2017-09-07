@@ -1,0 +1,6 @@
+{
+  "id": "elasticsearch-stats",
+  "name": "Elasticsearch Stats",
+  "repo": "https://github.com/jamesbeedy/interface-elasticsearch-stats.git",
+  "summary": "Interface for integrating with metrics gathering layers "
+}

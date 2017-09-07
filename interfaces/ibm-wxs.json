@@ -1,0 +1,6 @@
+{
+  "id": "ibm-wxs",
+  "name": "ibm-wxs",
+  "repo": "https://launchpad.net/~ibmcharmers/interface-ibm-wxs/trunk",
+  "summary": "This interface layer handles the communication between  IBM WXS Catalog charm and other consumer charms, such as IBM WXS Container and IBM WXS Client"
+}

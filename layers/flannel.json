@@ -1,0 +1,6 @@
+{
+  "id": "flannel",
+  "name": "Flannel",
+  "repo": "https://github.com/juju-solutions/layer-flannel",
+  "summary": "Flannel Overlay Network layer for docker"
+}

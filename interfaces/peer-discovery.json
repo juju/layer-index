@@ -1,0 +1,6 @@
+{
+  "id": "peer-discovery",
+  "name": "peer-discovery",
+  "repo": "https://github.com/tbaumann/charm-interface-peer-discovery",
+  "summary": "[proposal] simple interface to discover all peers of a charm through peer relation"
+}

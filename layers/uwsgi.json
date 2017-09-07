@@ -1,0 +1,6 @@
+{
+  "id": "uwsgi",
+  "name": "uWSGI",
+  "repo": "https://github.com/marcoceppi/layer-uwsgi",
+  "summary": "uWSGI layer"
+}

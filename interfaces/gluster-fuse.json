@@ -1,0 +1,6 @@
+{
+  "id": "gluster-fuse",
+  "name": "gluster-fuse",
+  "repo": "https://github.com/cholcombe973/juju-interface-gluster-fuse",
+  "summary": "Distributed posix storage provided by GlusterFS"
+}

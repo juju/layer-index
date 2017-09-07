@@ -1,0 +1,6 @@
+{
+  "id": "hbase",
+  "name": "hbase",
+  "repo": "https://github.com/juju-solutions/interface-hbase.git",
+  "summary": "This interface layer handles the communication between Apache HBase and its clients"
+}

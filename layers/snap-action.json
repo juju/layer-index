@@ -1,0 +1,6 @@
+{
+  "id": "snap-action",
+  "name": "snap-action",
+  "repo": "https://github.com/lutostag/layer-snap-action.git",
+  "summary": "Perform snap commands via an action"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "flume-agent",
+  "name": "flume-agent",
+  "repo": "https://github.com/juju-solutions/interface-flume-agent.git",
+  "summary": "Interface layer for communication between Apache Flume charms"
+}

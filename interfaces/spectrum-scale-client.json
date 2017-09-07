@@ -1,0 +1,6 @@
+{
+  "id": "spectrum-scale-client",
+  "name": "spectrum-scale-client",
+  "repo": "https://code.launchpad.net/~ibmcharmers/interface-spectrum-scale-client/trunk",
+  "summary": "Basic interface required for communication between Spectrum Scale client and IBM Cinder SpectrumScale (driver for gpfs)"
+}

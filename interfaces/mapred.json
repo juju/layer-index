@@ -1,0 +1,6 @@
+{
+  "id": "mapred",
+  "name": "mapred",
+  "repo": "https://github.com/juju-solutions/interface-mapred.git",
+  "summary": "Interface for the YARN client protocol"
+}

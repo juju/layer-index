@@ -1,0 +1,6 @@
+{
+  "id": "db2",
+  "name": "db2",
+  "repo": "https://launchpad.net/~ibmcharmers/interface-ibm-db2/trunk",
+  "summary": "This interface layer handles the communication between  IBM DB2 and Consumer charms."
+}

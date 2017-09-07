@@ -1,0 +1,6 @@
+{
+  "id": "juju-info",
+  "name": "juju-info",
+  "repo": "https://github.com/juju-solutions/interface-juju-info.git",
+  "summary": "Implied interface for subordinates with special behavior. This is not a substitute for a proper relationship interface. "
+}

@@ -1,0 +1,6 @@
+{
+  "id": "elixir",
+  "name": "Elixir",
+  "repo": "https://github.com/battlemidget/juju-layer-elixir.git",
+  "summary": "Runtime layer for Elixir applications"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "nginx-stats",
+  "name": "NGINX Stats",
+  "repo": "https://github.com/silph-io/interface-nginx-stats",
+  "summary": "NGINX stats/status protocol"
+}

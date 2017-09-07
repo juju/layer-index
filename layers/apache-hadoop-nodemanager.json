@@ -1,0 +1,6 @@
+{
+  "id": "apache-hadoop-nodemanager",
+  "name": "Apache Hadoop NodeManager",
+  "repo": "https://github.com/juju-solutions/layer-apache-hadoop-nodemanager.git",
+  "summary": "Base / charm layer for the NodeManager component of Hadoop"
+}

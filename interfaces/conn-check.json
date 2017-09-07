@@ -1,0 +1,6 @@
+{
+  "id": "conn-check",
+  "name": "conn-check",
+  "repo": "https://git.launchpad.net/~ubuntuone-hackers/conn-check/+git/interface-conn-check",
+  "summary": "conn-check interface"
+}

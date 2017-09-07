@@ -1,0 +1,6 @@
+{
+  "id": "grafana-source",
+  "name": "grafana-source",
+  "repo": "https://git.launchpad.net/interface-grafana-source",
+  "summary": "Grafana source"
+}

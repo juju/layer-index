@@ -1,0 +1,6 @@
+{
+  "id": "openstack-api",
+  "name": "OpenStack API layer",
+  "repo": "https://github.com/openstack/charm-layer-openstack-api",
+  "summary": "OpenStack API layer"
+}

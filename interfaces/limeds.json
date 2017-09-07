@@ -1,0 +1,6 @@
+{
+  "id": "limeds",
+  "name": "limeds",
+  "repo": "https://github.com/tengu-team/interface-limeds",
+  "summary": "Interface to connect to LimeDS"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "midonet-api",
+  "name": "MidoNet API",
+  "repo": "https://github.com/celebdor/interface-midonet-api.git",
+  "summary": "MidoNet API interface between provider and consuming charms"
+}

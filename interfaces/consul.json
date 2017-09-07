@@ -1,0 +1,6 @@
+{
+  "id": "consul",
+  "name": "consul",
+  "repo": "https://github.com/juju-solutions/interface-consul",
+  "summary": "Hashicorp Consul"
+}

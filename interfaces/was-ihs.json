@@ -1,0 +1,6 @@
+{
+  "id": "was-ihs",
+  "name": "was-ihs",
+  "repo": "https://code.launchpad.net/~ibmcharmers/interface-ibm-was-ihs/trunk",
+  "summary": "This Interface handles the communication between IBM WAS Base/IBM WAS ND and IBM Http Server"
+}

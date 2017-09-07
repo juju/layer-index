@@ -1,0 +1,6 @@
+{
+  "id": "bind-rndc",
+  "name": "BIND RNDC interface",
+  "repo": "https://github.com/openstack/charm-interface-bind-rndc",
+  "summary": "BIND RNDC interface"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "apache-flume-base",
+  "name": "Apache Flume Base",
+  "repo": "https://github.com/juju-solutions/layer-apache-flume-base.git",
+  "summary": "Base layer for Apache Flume charms"
+}

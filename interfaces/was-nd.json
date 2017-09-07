@@ -1,0 +1,6 @@
+{
+  "id": "was-nd",
+  "name": "was-nd",
+  "repo": "https://code.launchpad.net/~ibmcharmers/interface-ibm-was-nd/trunk",
+  "summary": "This interface handles the communication between IBM WAS ND DM and other consumer charms."
+}

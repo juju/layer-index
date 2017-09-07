@@ -1,0 +1,6 @@
+{
+  "id": "hadoop-rest",
+  "name": "hadoop-rest",
+  "repo": "https://github.com/juju-solutions/interface-hadoop-rest",
+  "summary": "Interface layer for connecting to hadoop-plugin without installation"
+}

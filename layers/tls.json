@@ -1,0 +1,6 @@
+{
+  "id": "tls",
+  "name": "tls",
+  "repo": "https://github.com/juju-solutions/layer-tls",
+  "summary": "The tls charm layer creates certificates and keys for each peer unit of a charm."
+}

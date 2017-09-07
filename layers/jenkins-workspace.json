@@ -1,0 +1,6 @@
+{
+  "id": "jenkins-workspace",
+  "name": "Jenkins Workspace",
+  "repo": "https://github.com/juju-solutions/layer-jenkins-workspace",
+  "summary": "Configure Jenkins with workspace snapshots"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "docker-image-host",
+  "name": "docker-image-host",
+  "repo": "https://github.com/tengu-team/interface-docker-image-host",
+  "summary": "Interface to send image to docker host"
+}

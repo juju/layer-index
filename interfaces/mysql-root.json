@@ -1,0 +1,6 @@
+{
+  "id": "mysql-root",
+  "name": "mysql-root",
+  "repo": "https://github.com/juju-solutions/interface-mysql-root.git",
+  "summary": "Administrative MySQL interface with admin access granted to connected applications"
+}

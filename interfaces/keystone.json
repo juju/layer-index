@@ -1,0 +1,6 @@
+{
+  "id": "keystone",
+  "name": "keystone",
+  "repo": "https://github.com/openstack/charm-interface-keystone",
+  "summary": "Keystone interface"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "hadoop-ganglia",
+  "name": "hadoop-ganglia",
+  "repo": "https://github.com/juju-solutions/layer-hadoop-ganglia.git",
+  "summary": "Base layer for adding Ganglia support to Hadoop core charms"
+}

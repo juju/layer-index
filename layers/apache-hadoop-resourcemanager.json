@@ -1,0 +1,6 @@
+{
+  "id": "apache-hadoop-resourcemanager",
+  "name": "Apache Hadoop ResourceManager",
+  "repo": "https://github.com/juju-solutions/layer-apache-hadoop-resourcemanager.git",
+  "summary": "Charm layer for the ResourceManager component of Hadoop"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "public-address",
+  "name": "public-address",
+  "repo": "https://github.com/juju-solutions/interface-public-address",
+  "summary": "Simple relation that provides the providers public-address and a port"
+}

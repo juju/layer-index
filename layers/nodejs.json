@@ -1,0 +1,6 @@
+{
+  "id": "nodejs",
+  "name": "NodeJS",
+  "repo": "https://github.com/battlemidget/juju-layer-node.git",
+  "summary": "Runtime layer for NodeJS applications"
+}

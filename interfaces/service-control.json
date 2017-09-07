@@ -1,0 +1,6 @@
+{
+  "id": "service-control",
+  "name": "service-control",
+  "repo": "https://github.com/openstack/charm-interface-service-control",
+  "summary": "This interface is used for a charm to request a restart of a service managed by another charm."
+}

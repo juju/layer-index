@@ -1,0 +1,6 @@
+{
+  "id": "ceph-mds",
+  "name": "ceph-mds",
+  "repo": "https://github.com/openstack/charm-interface-ceph-mds",
+  "summary": "CephFS interface to the MDS relation on ceph-mon"
+}

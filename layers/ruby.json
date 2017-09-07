@@ -1,0 +1,6 @@
+{
+  "id": "ruby",
+  "name": "Ruby",
+  "repo": "https://github.com/battlemidget/juju-layer-ruby.git",
+  "summary": "Build layer for Ruby applications"
+}

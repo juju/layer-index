@@ -1,0 +1,6 @@
+{
+  "id": "rsyslog",
+  "name": "Rsyslog layer",
+  "repo": "https://bazaar.launchpad.net/~canonical-sysadmins/canonical-is-charms/layer-rsyslog/files",
+  "summary": "This rsyslog layer will enable rsyslog and enable building additional logging configuration."
+}

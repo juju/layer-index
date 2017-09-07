@@ -1,0 +1,6 @@
+{
+  "id": "java",
+  "name": "Oracle Java",
+  "repo": "https://github.com/jamesbeedy/juju-layer-java",
+  "summary": "Juju layer for Oracle Java"
+}

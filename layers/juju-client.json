@@ -1,0 +1,9 @@
+{
+  "id": "juju-client",
+  "lastModified": {
+    "$date": 1444927816681
+  },
+  "name": "juju-client",
+  "repo": "https://github.com/tengu-team/layer-juju-client.git",
+  "summary": "Layer for Charms which depend on Juju CLI being installed in active Model "
+}

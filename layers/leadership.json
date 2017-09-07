@@ -1,0 +1,6 @@
+{
+  "id": "leadership",
+  "name": "Leadership layer",
+  "repo": "https://git.launchpad.net/layer-leadership",
+  "summary": "Help reactive framework charms deal with Juju leadership"
+}

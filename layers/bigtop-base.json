@@ -1,0 +1,6 @@
+{
+  "id": "bigtop-base",
+  "name": "Apache Bigtop Base Layer",
+  "repo": "https://github.com/juju-solutions/layer-apache-bigtop-base.git",
+  "summary": "Base layer for charms needing Apache Bigtop "
+}

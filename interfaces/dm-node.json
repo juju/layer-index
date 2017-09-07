@@ -1,0 +1,6 @@
+{
+  "id": "dm-node",
+  "name": "dm-node",
+  "repo": "https://code.launchpad.net/~ibmcharmers/interface-ibm-dm-node/trunk",
+  "summary": "This interface handles the comunication between IBM WAS ND DM and IBM WAS ND Node charms"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "hacluster",
+  "name": "hacluster",
+  "repo": "https://github.com/openstack/charm-interface-hacluster.git",
+  "summary": "hacluster interface for relations with hacluster subordinate charm"
+}

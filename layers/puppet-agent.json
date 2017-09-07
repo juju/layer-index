@@ -1,0 +1,6 @@
+{
+  "id": "puppet-agent",
+  "name": "Puppet-agent",
+  "repo": "https://github.com/jamesbeedy/layer-puppet-agent.git",
+  "summary": "Puppet-agent layer - supports puppet 3 & 4."
+}

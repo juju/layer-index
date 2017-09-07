@@ -1,0 +1,6 @@
+{
+  "id": "manila-plugin",
+  "name": "manila-plugin",
+  "repo": "https://github.com/openstack/charm-interface-manila-plugin",
+  "summary": "manila-plugin: configuration plugin to allow manila plugins to configure the manila service"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "dfs-slave",
+  "name": "dfs-slave",
+  "repo": "https://github.com/juju-solutions/interface-dfs-slave.git",
+  "summary": "Interface layer for the DataNode <-> NameNode protocol"
+}

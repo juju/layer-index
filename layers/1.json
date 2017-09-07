@@ -1,0 +1,6 @@
+{
+  "id": "1",
+  "name": "lxd-proxy",
+  "repo": "https://github.com/jamesbeedy/layer-lxd-proxy",
+  "summary": "iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju"
+}

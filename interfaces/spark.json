@@ -1,0 +1,6 @@
+{
+  "id": "spark",
+  "name": "spark",
+  "repo": "https://github.com/juju-solutions/interface-spark.git",
+  "summary": "Interface layer for the spark interface protocol"
+}

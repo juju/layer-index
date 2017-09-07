@@ -1,0 +1,6 @@
+{
+  "id": "gnocchi",
+  "name": "gnocchi",
+  "repo": "https://github.com/openstack-charmers/charm-interface-gnocchi",
+  "summary": "Gnocchi Metrics Service interface"
+}

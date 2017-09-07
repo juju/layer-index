@@ -1,0 +1,6 @@
+{
+  "id": "zookeeper-quorum",
+  "name": "zookeeper quorum",
+  "repo": "https://github.com/juju-solutions/interface-zookeeper-quorum.git",
+  "summary": "This interface layer handles the communication among Apache Zookeeper peers"
+}

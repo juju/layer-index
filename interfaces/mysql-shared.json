@@ -1,0 +1,6 @@
+{
+  "id": "mysql-shared",
+  "name": "mysql-shared",
+  "repo": "https://github.com/openstack/charm-interface-mysql-shared",
+  "summary": "MySQL Shared Database interface"
+}

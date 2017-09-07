@@ -1,0 +1,6 @@
+{
+  "id": "openstack-ha",
+  "name": "openstack-ha",
+  "repo": "https://github.com/openstack/charm-interface-openstack-ha",
+  "summary": "Interface for managing information with peers in the same OpenStack service"
+}

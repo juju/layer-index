@@ -1,0 +1,6 @@
+{
+  "id": "odl-controller-api",
+  "name": "odl-controller-api",
+  "repo": "https://github.com/openstack/charm-interface-odl-controller-api",
+  "summary": "Interface for intergrating with an OpenDayLight Controller RESTful API"
+}

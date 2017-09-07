@@ -1,0 +1,6 @@
+{
+  "id": "apache-hadoop-plugin",
+  "name": "apache-hadoop-plugin",
+  "repo": "https://github.com/juju-solutions/layer-apache-hadoop-plugin.git",
+  "summary": "Simplified connection point for Apache Hadoop platform"
+}

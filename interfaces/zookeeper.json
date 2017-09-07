@@ -1,0 +1,6 @@
+{
+  "id": "zookeeper",
+  "name": "zookeeper",
+  "repo": "https://github.com/juju-solutions/interface-zookeeper.git",
+  "summary": "This interface layer handles the communication between Apache Zookeeper and its clients"
+}

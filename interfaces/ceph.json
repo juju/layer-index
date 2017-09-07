@@ -1,0 +1,6 @@
+{
+  "id": "ceph",
+  "name": "ceph",
+  "repo": "https://github.com/ChrisMacNaughton/juju-interface-ceph",
+  "summary": "ceph mon peer interface"
+}

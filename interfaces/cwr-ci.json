@@ -1,0 +1,6 @@
+{
+  "id": "cwr-ci",
+  "name": "cwr-ci",
+  "repo": "https://github.com/juju-solutions/interface-cwr-ci.git",
+  "summary": "Interface for relating to Cloud Weather Report (part of the Juju CI system)"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "apache-bigtop-gateway",
+  "name": "apache-bigtop-gateway",
+  "repo": "https://github.com/juju-solutions/layer-apache-bigtop-gateway",
+  "summary": "Base layer for Gateway node from Apache Big Top"
+}

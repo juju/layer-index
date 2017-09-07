@@ -1,0 +1,6 @@
+{
+  "id": "ibm-was-nd",
+  "name": "IBM WAS ND",
+  "repo": "https://code.launchpad.net/~ibmcharmers/charms/trusty/layer-ibm-was-nd/trunk",
+  "summary": "Charm layer for IBM WAS ND DM and WAS ND Node charms"
+}

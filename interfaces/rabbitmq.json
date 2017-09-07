@@ -1,0 +1,6 @@
+{
+  "id": "rabbitmq",
+  "name": "rabbitmq",
+  "repo": "https://github.com/openstack/charm-interface-rabbitmq",
+  "summary": "RabbitMQ AMQP interface"
+}

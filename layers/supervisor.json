@@ -1,0 +1,6 @@
+{
+  "id": "supervisor",
+  "name": "Supervisor",
+  "repo": "https://github.com/jamesbeedy/layer-supervisor",
+  "summary": "Layer for Supervisor"
+}

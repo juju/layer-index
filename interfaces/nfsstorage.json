@@ -1,0 +1,6 @@
+{
+  "id": "nfsstorage",
+  "name": "nfsstorage",
+  "repo": "https://launchpad.net/~ibmcharmers/interface-ibm-nfsstorage/trunk",
+  "summary": "This interface layer handles the communication between LSF/Spectrum Symphony Storage which is acting as a NFS Server and NFS Clients like Platform LSF Master, Spectrum Symphony Master."
+}

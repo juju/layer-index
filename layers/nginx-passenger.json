@@ -1,0 +1,6 @@
+{
+  "id": "nginx-passenger",
+  "name": "Nginx-Passenger",
+  "repo": "https://github.com/jamesbeedy/layer-nginx-passenger",
+  "summary": "Reactive layer for nginx-passenger"
+}

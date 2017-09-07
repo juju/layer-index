@@ -1,0 +1,9 @@
+{
+  "id": "mysql",
+  "lastModified": {
+    "$date": 1440106007813
+  },
+  "name": "mysql",
+  "repo": "https://github.com/johnsca/juju-relation-mysql.git",
+  "summary": "Standard MySQL interface with generated, per-service databases"
+}

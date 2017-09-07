@@ -1,0 +1,6 @@
+{
+  "id": "https",
+  "name": "https",
+  "repo": "https://code.launchpad.net/~ibmcharmers/interface-https/trunk",
+  "summary": " Basic HTTPS interface"
+}

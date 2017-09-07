@@ -1,0 +1,6 @@
+{
+  "id": "influxdb-api",
+  "name": "influxdb-api",
+  "repo": "https://github.com/ChrisMacNaughton/interface-influxdb-api.git",
+  "summary": "InfluxDB Query Interface"
+}

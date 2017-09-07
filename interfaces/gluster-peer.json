@@ -1,0 +1,6 @@
+{
+  "id": "gluster-peer",
+  "name": "gluster-peer",
+  "repo": "https://github.com/wolsen/charm-interface-gluster-peer",
+  "summary": "Peer interface for glusterfs nodes"
+}

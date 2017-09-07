@@ -1,0 +1,6 @@
+{
+  "id": "giraph",
+  "name": "giraph",
+  "repo": "https://github.com/juju-solutions/interface-giraph",
+  "summary": "This interface handles the communication between Apache Giraph and its clients"
+}

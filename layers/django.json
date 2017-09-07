@@ -1,0 +1,6 @@
+{
+  "id": "django",
+  "name": "Django",
+  "repo": "https://github.com/marcoceppi/layer-django.git",
+  "summary": "Django / GUNICORN"
+}

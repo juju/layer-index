@@ -1,0 +1,6 @@
+{
+  "id": "nagios",
+  "name": "Nagios Layer",
+  "repo": "https://git.launchpad.net/nagios-layer",
+  "summary": "Provide boilerplate required to relate services to the cs:nrpe subordinate"
+}

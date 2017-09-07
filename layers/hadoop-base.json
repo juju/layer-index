@@ -1,0 +1,6 @@
+{
+  "id": "hadoop-base",
+  "name": "Hadoop Base",
+  "repo": "https://github.com/juju-solutions/layer-hadoop-base.git",
+  "summary": "Base layer for a charm needing the Apache Hadoop libraries"
+}

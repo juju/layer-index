@@ -1,0 +1,6 @@
+{
+  "id": "go-binary",
+  "name": "Go Binary Base Layer",
+  "repo": "https://github.com/cloud-green/go-binary-layer",
+  "summary": "Takes a statically compiled go binary and starts it as a service"
+}

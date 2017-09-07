@@ -1,0 +1,6 @@
+{
+  "id": "kafka",
+  "name": "kafka",
+  "repo": "https://github.com/juju-solutions/interface-kafka.git",
+  "summary": "Interface layer for communication between Kafka and its clients"
+}

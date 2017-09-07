@@ -1,0 +1,6 @@
+{
+  "id": "mahout",
+  "name": "mahout",
+  "repo": "https://github.com/juju-solutions/interface-mahout",
+  "summary": "This interface layer handles the communication between Apache Mahout and its clients"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "hadoop-client",
+  "name": "hadoop-client",
+  "repo": "https://github.com/juju-solutions/layer-hadoop-client.git",
+  "summary": "Base and charm layer for Hadoop clients"
+}

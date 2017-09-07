@@ -1,0 +1,6 @@
+{
+  "id": "apache-hadoop-slave",
+  "name": "apache-hadoop-slave",
+  "repo": "https://github.com/juju-solutions/layer-apache-hadoop-slave.git",
+  "summary": "Combined slave node (DataNode + NodeManager) for Apache Hadoop"
+}

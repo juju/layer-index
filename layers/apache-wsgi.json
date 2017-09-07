@@ -1,0 +1,6 @@
+{
+  "id": "apache-wsgi",
+  "name": "Apache WSGI base layer",
+  "repo": "https://git.launchpad.net/~jacekn/charms/+source/apache-wsgi",
+  "summary": "Configurable base for Apache WSGI charms"
+}

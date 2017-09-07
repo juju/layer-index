@@ -1,0 +1,6 @@
+{
+  "id": "dfs",
+  "name": "dfs",
+  "repo": "https://github.com/juju-solutions/interface-dfs.git",
+  "summary": "Interface layer for the hdfs interface protocol"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "neutron-plugin",
+  "name": "neutron-plugin",
+  "repo": "https://github.com/openstack/charm-interface-neutron-plugin",
+  "summary": "Interface for intergrating Neutron SDN with the nova-compute charm"
+}

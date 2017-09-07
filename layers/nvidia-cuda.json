@@ -1,0 +1,6 @@
+{
+  "id": "nvidia-cuda",
+  "name": "Nvidia CUDA",
+  "repo": "https://github.com/juju-solutions/layer-nvidia-cuda",
+  "summary": "Installs CUDA and Nvidia drivers when supported GPU hardware is detected"
+}

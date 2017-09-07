@@ -1,0 +1,6 @@
+{
+  "id": "zeppelin",
+  "name": "zeppelin",
+  "repo": "https://github.com/juju-solutions/interface-zeppelin",
+  "summary": "Interface layer for interacting with charms for Apache Zeppelin"
+}

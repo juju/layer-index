@@ -1,0 +1,6 @@
+{
+  "id": "vault",
+  "name": "vault",
+  "repo": "https://github.com/ChrisMacNaughton/juju-interface-vault.git",
+  "summary": "Hashicorp Vault omterface"
+}

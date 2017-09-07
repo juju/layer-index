@@ -1,0 +1,6 @@
+{
+  "id": "swarm",
+  "name": "Docker Swarm",
+  "repo": "https://github.com/chuckbutler/layer-swarm.git",
+  "summary": "Stand alone layer, to extend docker into a Swarm cluster participant"
+}

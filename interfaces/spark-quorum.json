@@ -1,0 +1,6 @@
+{
+  "id": "spark-quorum",
+  "name": "spark quorum",
+  "repo": "https://github.com/juju-solutions/interface-spark-quorum.git",
+  "summary": "This interface layer handles the communication among Apache Spark peers"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "hadoop-nodemanager",
+  "name": "hadoop-nodemanager",
+  "repo": "https://github.com/juju-solutions/layer-hadoop-nodemanager",
+  "summary": "Base layer for NodeManager from Apache BigTop"
+}

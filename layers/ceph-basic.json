@@ -1,0 +1,6 @@
+{
+  "id": "ceph-basic",
+  "name": "EXPERIMENTAL ceph-basic",
+  "repo": "https://github.com/ChrisMacNaughton/layer-ceph-basic",
+  "summary": "EXPERIMENTAL ceph-basic layer"
+}

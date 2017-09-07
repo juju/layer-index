@@ -1,0 +1,6 @@
+{
+  "id": "mapred-slave",
+  "name": "mapred-slave",
+  "repo": "https://github.com/juju-solutions/interface-mapred-slave.git",
+  "summary": "Interface layer for the NodeManager <-> ResourceManager protocol"
+}

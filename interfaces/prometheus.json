@@ -1,0 +1,6 @@
+{
+  "id": "prometheus",
+  "name": "prometheus",
+  "repo": "https://github.com/tasdomas/juju-interface-prometheus.git",
+  "summary": "Prometheus target interface"
+}

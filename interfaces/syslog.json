@@ -1,0 +1,6 @@
+{
+  "id": "syslog",
+  "name": "syslog",
+  "repo": "https://github.com/juju-solutions/interface-syslog.git",
+  "summary": "Interface layer for the syslog protocol"
+}

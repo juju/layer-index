@@ -1,0 +1,6 @@
+{
+  "id": "openstack-principle",
+  "name": "OpenStack principle layer",
+  "repo": "https://github.com/openstack/charm-layer-openstack-principle",
+  "summary": "OpenStack principle layer"
+}

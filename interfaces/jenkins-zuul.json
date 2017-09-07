@@ -1,0 +1,6 @@
+{
+  "id": "jenkins-zuul",
+  "name": "jenkins-zuul",
+  "repo": "https://github.com/freeekanayaka/interface-jenkins-zuul.git",
+  "summary": "communication between a Jenkins master and Zuul Jenkins via the zuul interface"
+}

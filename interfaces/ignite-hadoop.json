@@ -1,0 +1,6 @@
+{
+  "id": "ignite-hadoop",
+  "name": "ignite-hadoop",
+  "repo": "https://github.com/juju-solutions/interface-ignite-hadoop",
+  "summary": "Minimal interface layer for connecting Apache Ignite-Hadoop to Apache Hadoop slave"
+}

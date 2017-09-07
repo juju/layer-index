@@ -1,0 +1,6 @@
+{
+  "id": "benchmark",
+  "name": "benchmark",
+  "repo": "https://github.com/juju-solutions/interface-benchmark.git",
+  "summary": "Interface layer for the benchmark protocol"
+}

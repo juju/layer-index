@@ -1,0 +1,6 @@
+{
+  "id": "layer-gitlab",
+  "name": "Gitlab Layer",
+  "repo": "https://github.com/jamesbeedy/layer-gitlab.git",
+  "summary": "Reactive layer for gitlab"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "java",
+  "name": "java",
+  "repo": "https://github.com/juju-solutions/interface-java.git",
+  "summary": "Interface for relating to subordinate charms providing a Java runtime or JDK"
+}

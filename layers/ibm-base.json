@@ -1,0 +1,6 @@
+{
+  "id": "ibm-base",
+  "name": "IBM Base Layer",
+  "repo": "https://code.launchpad.net/~ibmcharmers/layer-ibm-base/trunk",
+  "summary": "Base layer for IBM charms"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "kube-dns",
+  "name": "kube-dns",
+  "repo": "https://github.com/juju-solutions/interface-kube-dns.git",
+  "summary": "Kubernetes DNS Details"
+}

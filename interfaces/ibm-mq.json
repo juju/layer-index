@@ -1,0 +1,6 @@
+{
+  "id": "ibm-mq",
+  "name": "ibm-mq",
+  "repo": "https://code.launchpad.net/~ibmcharmers/interface-ibm-mq/trunk",
+  "summary": "This interface handles the communication between IBM MQ and other consumer charms."
+}

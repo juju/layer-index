@@ -1,0 +1,6 @@
+{
+  "id": "puppet",
+  "name": "Puppet Layer (deprecated)",
+  "repo": "https://github.com/juju-solutions/layer-puppet.git",
+  "summary": "Puppet layer (deprecated; use puppet-agent)"
+}

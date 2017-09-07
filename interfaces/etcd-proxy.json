@@ -1,0 +1,6 @@
+{
+  "id": "etcd-proxy",
+  "name": "etcd-proxy",
+  "repo": "https://github.com/juju-solutions/interface-etcd-proxy",
+  "summary": "Do you need etcd as a read/readwrite proxy to a cluster? use this interface."
+}

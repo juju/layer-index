@@ -1,0 +1,6 @@
+{
+  "id": "local-monitors",
+  "name": "local-monitors",
+  "repo": "https://github.com/cmars/local-monitors-interface",
+  "summary": "relation for registering nagios checks"
+}

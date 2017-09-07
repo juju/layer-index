@@ -1,0 +1,6 @@
+{
+  "id": "jenkins-slave",
+  "name": "jenkins-slave",
+  "repo": "https://github.com/freeekanayaka/interface-jenkins-slave.git",
+  "summary": "Communication between a Jenkins master and a Jenkins slave"
+}

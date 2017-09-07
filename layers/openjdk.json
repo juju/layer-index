@@ -1,0 +1,6 @@
+{
+  "id": "openjdk",
+  "name": "OpenJDK",
+  "repo": "https://github.com/juju-solutions/layer-openjdk.git",
+  "summary": "OpenJDK using the java layer"
+}

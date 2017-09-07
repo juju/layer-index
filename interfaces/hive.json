@@ -1,0 +1,6 @@
+{
+  "id": "hive",
+  "name": "hive",
+  "repo": "https://github.com/juju-solutions/interface-hive.git",
+  "summary": "Interface for relating to Apache Hive"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "buildpacks",
+  "lastModified": {
+    "$date": 1440441027972
+  },
+  "name": "Buildpacks",
+  "repo": "https://git.launchpad.net/~bcsaller/charms/+source/buildpacks",
+  "summary": "Experimental layer for using buildpacks to generate Charmed applications"
+}

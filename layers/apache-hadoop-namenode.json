@@ -1,0 +1,6 @@
+{
+  "id": "apache-hadoop-namenode",
+  "name": "Apache Hadoop NameNode",
+  "repo": "https://github.com/juju-solutions/layer-apache-hadoop-namenode.git",
+  "summary": "Charm layer for the NameNode component of Hadoop"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "layer-debug",
+  "name": "debug",
+  "repo": "https://github.com/charms/layer-debug.git",
+  "summary": "Provides a troubleshooting debug action"
+}

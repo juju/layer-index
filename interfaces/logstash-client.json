@@ -1,0 +1,6 @@
+{
+  "id": "logstash-client",
+  "name": "logstash-client",
+  "repo": "https://github.com/juju-solutions/interface-logstash-client",
+  "summary": "Interface for connecting with logstash based systems."
+}

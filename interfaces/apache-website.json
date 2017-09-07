@@ -1,0 +1,6 @@
+{
+  "id": "apache-website",
+  "name": "apache-website",
+  "repo": "https://github.com/juju-solutions/interface-apache-website.git",
+  "summary": "Interface layer for the apache-website interface protocol"
+}

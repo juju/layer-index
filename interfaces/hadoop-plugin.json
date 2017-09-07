@@ -1,0 +1,6 @@
+{
+  "id": "hadoop-plugin",
+  "name": "hadoop-plugin",
+  "repo": "https://github.com/juju-solutions/interface-hadoop-plugin.git",
+  "summary": "Interface for relating to Apache Hadoop"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "hhvm",
+  "name": "HHVM",
+  "repo": "https://github.com/battlemidget/juju-layer-hhvm",
+  "summary": "Provides HHVM and composer for php applications"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "elasticsearch",
+  "name": "elasticsearch",
+  "repo": "http://github.com/juju-solutions/interface-elasticsearch ",
+  "summary": "Interface to connect with elasticsearch."
+}

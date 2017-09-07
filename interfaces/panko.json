@@ -1,0 +1,6 @@
+{
+  "id": "panko",
+  "name": "panko",
+  "repo": "https://github.com/openstack-charmers/charm-interface-panko",
+  "summary": "Panko Event Service interface"
+}

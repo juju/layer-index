@@ -1,0 +1,6 @@
+{
+  "id": "neutron-plugin-api-subordinate",
+  "name": "neutron-plugin-api-subordinate",
+  "repo": "https://github.com/openstack/charm-interface-neutron-plugin-api-subordinate",
+  "summary": "This interface is used for a charm to send configuration information to the neutron-api principle charm and request a restart of a service managed by that charm."
+}

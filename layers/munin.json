@@ -1,0 +1,6 @@
+{
+  "id": "munin",
+  "name": "munin",
+  "repo": "https://github.com/freyes/layer-munin",
+  "summary": "munin server"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "kube-control",
+  "name": "kube-control",
+  "repo": "https://github.com/juju-solutions/interface-kube-control.git",
+  "summary": "master-worker control interface for Kubernetes"
+}

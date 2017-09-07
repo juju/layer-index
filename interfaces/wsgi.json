@@ -1,0 +1,6 @@
+{
+  "id": "wsgi",
+  "name": "wsgi",
+  "repo": "https://git.launchpad.net/~ubuntuone-hackers/charms/+source/interface-wsgi",
+  "summary": "Basic WSGI interface"
+}

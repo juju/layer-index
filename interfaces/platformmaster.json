@@ -1,0 +1,6 @@
+{
+  "id": "platformmaster",
+  "name": "platformmaster",
+  "repo": "https://launchpad.net/~ibmcharmers/interface-ibm-platformmaster/trunk",
+  "summary": "This interface layer handles the communication between Platform Master (like IBM Platform LSF, IBM Spectrum Symphony) and Platform Server/Nodes."
+}

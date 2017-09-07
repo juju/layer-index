@@ -1,0 +1,6 @@
+{
+  "id": "memcache",
+  "name": "memcache",
+  "repo": "https://github.com/jamesbeedy/interface-memcache.git",
+  "summary": "Interface for relating memcache."
+}

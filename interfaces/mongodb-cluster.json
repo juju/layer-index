@@ -1,0 +1,6 @@
+{
+  "id": "mongodb-cluster",
+  "name": "mongodb-cluster",
+  "repo": "https://github.com/tkuhlman/juju-relation-mongodb",
+  "summary": "relation to connect to a mongo database cluster"
+}

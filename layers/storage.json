@@ -1,0 +1,6 @@
+{
+  "id": "storage",
+  "name": "Storage",
+  "repo": "https://github.com/juju-solutions/layer-storage",
+  "summary": "A charm layer to handle Juju attached storage devices."
+}

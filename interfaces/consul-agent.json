@@ -1,0 +1,6 @@
+{
+  "id": "consul-agent",
+  "name": "consul-agent",
+  "repo": "https://github.com/ChrisMacNaughton/juju-interface-consul.git",
+  "summary": "Hashicorp Consul"
+}

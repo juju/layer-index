@@ -1,0 +1,6 @@
+{
+  "id": "gluster-nfs",
+  "name": "gluster-nfs",
+  "repo": "https://github.com/cholcombe973/juju-interface-gluster-client",
+  "summary": "Scale out NFS provided by GlusterFS"
+}

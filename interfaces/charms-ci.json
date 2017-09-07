@@ -1,0 +1,6 @@
+{
+  "id": "charms-ci",
+  "name": "charms-ci",
+  "repo": "https://github.com/juju-solutions/interface-charms-ci.git",
+  "summary": "Juju charms CI interface"
+}

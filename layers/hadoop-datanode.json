@@ -1,0 +1,6 @@
+{
+  "id": "hadoop-datanode",
+  "name": "hadoop-datanode",
+  "repo": "https://github.com/juju-solutions/layer-hadoop-datanode",
+  "summary": "Base layer for DataNode from Apache BigTop"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "ceph-radosgw",
+  "name": "ceph-radosgw",
+  "repo": "https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw",
+  "summary": "Ceph RadosGW interface"
+}

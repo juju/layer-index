@@ -1,0 +1,9 @@
+{
+  "id": "ovsdb-manager",
+  "lastModified": {
+    "$date": 1440103717489
+  },
+  "name": "ovsdb-manager",
+  "repo": "https://github.com/openstack/charm-interface-ovsdb-manager",
+  "summary": "Interface for relating to the OVSDB manager aspect of OpenDayLight SDN"
+}

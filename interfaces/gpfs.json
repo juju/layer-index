@@ -1,0 +1,6 @@
+{
+  "id": "gpfs",
+  "name": "gpfs",
+  "repo": "https://code.launchpad.net/~ibmcharmers/interface-ibm-gpfs/trunk",
+  "summary": "Interface layer between IBM Spectrum Scale Manager and IBM Spectrum Scale client as well as peer communication among manager/client units"
+}

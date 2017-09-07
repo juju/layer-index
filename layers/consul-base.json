@@ -1,0 +1,6 @@
+{
+  "id": "consul-base",
+  "name": "Consul Base",
+  "repo": "https://github.com/jamesbeedy/layer-consul-base",
+  "summary": "Reactive base layer for consul"
+}

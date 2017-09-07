@@ -1,0 +1,6 @@
+{
+  "id": "audit",
+  "name": "audit",
+  "repo": "https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface",
+  "summary": "Interface for use with the auditd charm"
+}

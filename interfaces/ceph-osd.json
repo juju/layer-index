@@ -1,0 +1,6 @@
+{
+  "id": "ceph-osd",
+  "name": "ceph-osd",
+  "repo": "https://github.com/ChrisMacNaughton/juju-interface-ceph-osd",
+  "summary": "ceph osd relation"
+}

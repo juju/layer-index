@@ -1,0 +1,6 @@
+{
+  "id": "ibm-im",
+  "name": "IBM IM",
+  "repo": "http://launchpad.net/~ibmcharmers/ibmlayers/layer-ibm-im",
+  "summary": "This layer provides IBM Installation Manager, which can be used to install many IBM products."
+}

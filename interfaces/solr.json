@@ -1,0 +1,6 @@
+{
+  "id": "solr",
+  "name": "solr",
+  "repo": "https://github.com/buggtb/interface-solr",
+  "summary": "Solr Charm Interface"
+}

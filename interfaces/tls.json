@@ -1,0 +1,6 @@
+{
+  "id": "tls",
+  "name": "tls",
+  "repo": "https://github.com/juju-solutions/interface-tls",
+  "summary": "The TLS interface provides a peering relationship to exchange certificates and CSR's."
+}

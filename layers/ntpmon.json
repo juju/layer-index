@@ -1,0 +1,6 @@
+{
+  "id": "ntpmon",
+  "name": "ntpmon",
+  "repo": "https://git.launchpad.net/ntpmon",
+  "summary": "NTP monitoring for telegraf"
+}

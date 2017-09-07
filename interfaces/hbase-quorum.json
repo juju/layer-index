@@ -1,0 +1,6 @@
+{
+  "id": "hbase-quorum",
+  "name": "hbase quorum",
+  "repo": "https://github.com/juju-solutions/interface-hbase-quorum.git",
+  "summary": "This interface layer handles the communication among Apache HBase peers"
+}

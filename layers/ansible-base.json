@@ -1,0 +1,6 @@
+{
+  "id": "ansible-base",
+  "name": "ansible-base",
+  "repo": "https://github.com/chuckbutler/ansible-base",
+  "summary": "Base / charm layer for charming w/ Ansible"
+}

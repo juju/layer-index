@@ -1,0 +1,6 @@
+{
+  "id": "dockerhost",
+  "name": "dockerhost",
+  "repo": "https://github.com/juju-solutions/interface-dockerhost",
+  "summary": "Docker connection information for a unit"
+}

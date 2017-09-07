@@ -1,0 +1,6 @@
+{
+  "id": "nrpe-external-master",
+  "name": "nrpe-external-master",
+  "repo": "https://github.com/cmars/nrpe-external-master-interface",
+  "summary": "relation for registering nagios checks"
+}

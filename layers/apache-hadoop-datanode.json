@@ -1,0 +1,6 @@
+{
+  "id": "apache-hadoop-datanode",
+  "name": "Apache Hadoop DataNode",
+  "repo": "https://github.com/juju-solutions/layer-apache-hadoop-datanode.git",
+  "summary": "Base / charm layer for the DataNode component of Hadoop"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "elasticsearch-base",
+  "name": "Elasticsearch Base",
+  "repo": "https://github.com/jamesbeedy/juju-layer-elasticsearch-base",
+  "summary": "Base layer for elasticsearch"
+}

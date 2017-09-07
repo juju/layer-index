@@ -1,0 +1,6 @@
+{
+  "id": "monitor",
+  "name": "monitor",
+  "repo": "https://github.com/juju-solutions/interface-monitor.git",
+  "summary": "This interface layer for monitor protocol"
+}

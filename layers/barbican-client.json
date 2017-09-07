@@ -1,0 +1,6 @@
+{
+  "id": "barbican-client",
+  "name": "Barbican Client",
+  "repo": "https://github.com/jamesbeedy/juju-layer-barbican-client",
+  "summary": "Reactive layer to help pull secrets from barbican"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "jenkins",
+  "name": "jenkins",
+  "repo": "https://github.com/jenkinsci/jenkins-charm.git",
+  "summary": "Juju charm to deploy and scale Jenkins "
+}

@@ -1,0 +1,6 @@
+{
+  "id": "lets-encrypt",
+  "name": "lets-encrypt",
+  "repo": "https://github.com/cmars/layer-lets-encrypt",
+  "summary": "Automatic Let's Encrypt registration for Juju charms, just set the fqdn"
+}
