@@ -25,7 +25,6 @@ List of Base Layers
 <!-- list-of-layers -->
 | ID | Name | Summary |
 | --- | --- | --- |
-| [1](https://github.com/jamesbeedy/layer-lxd-proxy) | lxd-proxy | iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju |
 | [ansible-base](https://github.com/chuckbutler/ansible-base) | ansible-base | Base / charm layer for charming w/ Ansible |
 | [apache-bigtop-base](https://github.com/juju-solutions/layer-apache-bigtop-base.git) | Apache Bigtop Base Layer | Base layer for charms needing Apache Bigtop  |
 | [apache-bigtop-gateway](https://github.com/juju-solutions/layer-apache-bigtop-gateway) | apache-bigtop-gateway | Base layer for Gateway node from Apache Big Top |
@@ -80,6 +79,7 @@ List of Base Layers
 | [layer-gitlab](https://github.com/jamesbeedy/layer-gitlab.git) | Gitlab Layer | Reactive layer for gitlab |
 | [leadership](https://git.launchpad.net/layer-leadership) | Leadership layer | Help reactive framework charms deal with Juju leadership |
 | [lets-encrypt](https://github.com/cmars/layer-lets-encrypt) | lets-encrypt | Automatic Let's Encrypt registration for Juju charms, just set the fqdn |
+| [lxd-proxy](https://github.com/jamesbeedy/layer-lxd-proxy) | LXD-Proxy | iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju |
 | [metrics](https://github.com/CanonicalLtd/layer-metrics) | Metrics Layer | Reactive charm layer supporting Juju metrics collection |
 | [munin](https://github.com/freyes/layer-munin) | munin | munin server |
 | [nagios](https://git.launchpad.net/nagios-layer) | Nagios Layer | Provide boilerplate required to relate services to the cs:nrpe subordinate |
