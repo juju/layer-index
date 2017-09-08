@@ -154,6 +154,7 @@ List of Interface Layers
 | [consul-agent](https://github.com/ChrisMacNaughton/juju-interface-consul.git) | consul-agent | Hashicorp Consul |
 | [consul](https://github.com/juju-solutions/interface-consul) | consul | Hashicorp Consul |
 | [cwr-ci](https://github.com/juju-solutions/interface-cwr-ci.git) | cwr-ci | Interface for relating to Cloud Weather Report (part of the Juju CI system) |
+| [db-info](https://github.com/jamesbeedy/interface-db-info) | db-info | Ease the process of application <-> application database creds transference. |
 | [db2](https://launchpad.net/~ibmcharmers/interface-ibm-db2/trunk) | db2 | This interface layer handles the communication between  IBM DB2 and Consumer charms. |
 | [dbname](https://github.com/jamesbeedy/juju-interface-dbname.git) | dbname | Interface to coordinate database name between applications. |
 | [dfs-slave](https://github.com/juju-solutions/interface-dfs-slave.git) | dfs-slave | Interface layer for the DataNode <-> NameNode protocol |
