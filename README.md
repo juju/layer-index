@@ -26,7 +26,7 @@ in a URL where the repo contents are available via HTTP/S to `charm-build`.
 For example, to build using a fork in your personal namespace in GitHub:
 
 ```
-charm build --interface-service https://raw.githubusercontent.com/johnsca/layer-index/new-layer/
+charm build --interface-service https://raw.githubusercontent.com/myuser/layer-index/mybranch/
 ```
 
 [local]: https://github.com/juju/charm-tools/blob/master/doc/source/build.md#setting-up-your-repo
