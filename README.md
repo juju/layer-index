@@ -19,6 +19,20 @@ To add or modify a layer in the index, just create a PR against this repo in
 which you have added the appropriate JSON file and run the
 [`update_readme.py`](update_readme.py) script to update the index below.
 
+If you would like to build a charm using a fork of this repo (e.g., to test a
+new layer before submitting a PR, if you have private layers or layers under
+test and don't want to use [local layers][local], etc.), you just need to pass
+in a URL where the repo contents are available via HTTP/S to `charm-build`.
+For example, to build using a fork in your personal namespace in GitHub:
+
+```
+charm build --interface-service https://raw.githubusercontent.com/johnsca/layer-index/new-layer/
+```
+
+[local]: https://github.com/juju/charm-tools/blob/master/doc/source/build.md#setting-up-your-repo
+
+
+
 List of Base Layers
 ===================
 

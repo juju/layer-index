@@ -18,4 +18,4 @@ for layer_type in ('layers', 'interfaces'):
         readme.insert(
             end, '| [{id}]({repo}) | {name} | {summary} |'.format(**layer))
 
-readme_file.write_text('\n'.join(readme))
+readme_file.write_text(''.join('{}\n'.format(l) for l in readme))
