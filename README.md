@@ -37,6 +37,7 @@ List of Base Layers
 ===================
 
 <!-- list-of-layers -->
+
 | ID | Name | Summary |
 | --- | --- | --- |
 | [ansible-base](https://github.com/chuckbutler/ansible-base) | ansible-base | Base / charm layer for charming w/ Ansible |
@@ -124,12 +125,14 @@ List of Base Layers
 | [uwsgi](https://github.com/marcoceppi/layer-uwsgi) | uWSGI | uWSGI layer |
 | [vnfproxy](https://github.com/AdamIsrael/vnfproxy.git) | vnfproxy | A layer to ease development of "proxy" charms that operate against VNF images |
 | [zabbix-base](https://github.com/jamesbeedy/layer-zabbix-base) | zabbix-base | Reactive base layer for zabbix charms |
+
 <!-- /list-of-layers -->
 
 List of Interface Layers
 ========================
 
 <!-- list-of-interfaces -->
+
 | ID | Name | Summary |
 | --- | --- | --- |
 | [apache-website](https://github.com/juju-solutions/interface-apache-website.git) | apache-website | Interface layer for the apache-website interface protocol |
@@ -252,4 +255,5 @@ List of Interface Layers
 | [zeppelin](https://github.com/juju-solutions/interface-zeppelin) | zeppelin | Interface layer for interacting with charms for Apache Zeppelin |
 | [zookeeper-quorum](https://github.com/juju-solutions/interface-zookeeper-quorum.git) | zookeeper quorum | This interface layer handles the communication among Apache Zookeeper peers |
 | [zookeeper](https://github.com/juju-solutions/interface-zookeeper.git) | zookeeper | This interface layer handles the communication between Apache Zookeeper and its clients |
+
 <!-- /list-of-interfaces -->
