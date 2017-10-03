@@ -71,6 +71,7 @@ List of Base Layers
 | [django](https://github.com/marcoceppi/layer-django.git) | Django | Django / GUNICORN |
 | [docker](https://github.com/juju-solutions/layer-docker.git) | Docker | Layer to deliver and install Docker on Ubuntu, Debian, Centos hosts. |
 | [elasticsearch-base](https://github.com/jamesbeedy/juju-layer-elasticsearch-base) | Elasticsearch Base | Base layer for elasticsearch |
+| [elasticsearch-client](https://github.com/jamesbeedy/layer-elasticsearch-client) | Elasticsearch-Client | Elasticsearch client layer |
 | [elixir](https://github.com/battlemidget/juju-layer-elixir.git) | Elixir | Runtime layer for Elixir applications |
 | [flannel](https://github.com/juju-solutions/layer-flannel) | Flannel | Flannel Overlay Network layer for docker |
 | [flask](https://github.com/IBCNServices/layer-flask) | Flask | Layer to create Flask webservers running on nginx |
@@ -96,6 +97,7 @@ List of Base Layers
 | [leadership](https://git.launchpad.net/layer-leadership) | Leadership layer | Help reactive framework charms deal with Juju leadership |
 | [lets-encrypt](https://github.com/cmars/layer-lets-encrypt) | lets-encrypt | Automatic Let's Encrypt registration for Juju charms, just set the fqdn |
 | [lxd-proxy](https://github.com/jamesbeedy/layer-lxd-proxy) | LXD-Proxy | iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju |
+| [memcache-client](https://github.com/jamesbeedy/layer-memcache-client) | Memcache-Client | Client layer for Memcache |
 | [metrics](https://github.com/CanonicalLtd/layer-metrics) | Metrics Layer | Reactive charm layer supporting Juju metrics collection |
 | [munin](https://github.com/freyes/layer-munin) | munin | munin server |
 | [nagios](https://git.launchpad.net/nagios-layer) | Nagios Layer | Provide boilerplate required to relate services to the cs:nrpe subordinate |
