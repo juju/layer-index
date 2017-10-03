@@ -1,0 +1,6 @@
+{
+  "id": "memcache-client",
+  "name": "Memcache-Client",
+  "repo": "https://github.com/jamesbeedy/layer-memcache-client",
+  "summary": "Client layer for Memcache"
+}
