@@ -117,6 +117,7 @@ List of Base Layers
 | [puppet-base](https://github.com/jamesbeedy/layer-puppet-base.git) | puppet-base | Base layer for puppet4 |
 | [puppet](https://github.com/juju-solutions/layer-puppet.git) | Puppet Layer (deprecated) | Puppet layer (deprecated; use puppet-agent) |
 | [ruby](https://github.com/battlemidget/juju-layer-ruby.git) | Ruby | Build layer for Ruby applications |
+| [slurm](https://github.com/hunt-genes/layer-slurm) | slurm | Base layer for Slurm |
 | [snap-action](https://github.com/lutostag/layer-snap-action.git) | snap-action | Perform snap commands via an action |
 | [snap](https://git.launchpad.net/layer-snap) | Snap layer | Snap layer for installing and updating Snap packages |
 | [sshproxy](https://github.com/AdamIsrael/layer-sshproxy) | sshproxy | A layer intended to ease the development of charms that need to execute commands over SSH. |
@@ -244,6 +245,7 @@ List of Interface Layers
 | [rsyslog](https://bazaar.launchpad.net/~canonical-sysadmins/canonical-is-charms/layer-rsyslog/files) | Rsyslog layer | This rsyslog layer will enable rsyslog and enable building additional logging configuration. |
 | [sdn-plugin](https://github.com/juju-solutions/interface-sdn-plugin) | sdn-plugin | An abstraction of common configurations for SDN providers, to be consumed by charms |
 | [service-control](https://github.com/openstack/charm-interface-service-control) | service-control | This interface is used for a charm to request a restart of a service managed by another charm. |
+| [slurm-cluster](https://github.com/hunt-genes/interface-slurm-cluster) | slurm-cluster | Interface layer for Slurm |
 | [solr](https://github.com/buggtb/interface-solr) | solr | Solr Charm Interface |
 | [spark-quorum](https://github.com/juju-solutions/interface-spark-quorum.git) | spark quorum | This interface layer handles the communication among Apache Spark peers |
 | [spark](https://github.com/juju-solutions/interface-spark.git) | spark | Interface layer for the spark interface protocol |

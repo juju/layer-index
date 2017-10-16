@@ -1,0 +1,6 @@
+{
+  "id": "slurm",
+  "name": "slurm",
+  "repo": "https://github.com/hunt-genes/layer-slurm",
+  "summary": "Base layer for Slurm"
+}
