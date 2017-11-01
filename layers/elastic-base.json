@@ -1,0 +1,6 @@
+{
+  "id": "elastic-base",
+  "name": "Elastic-Base",
+  "repo": "https://github.com/jamesbeedy/layer-elastic-base.git",
+  "summary": "Base layer for Elastic.co charms"
+}

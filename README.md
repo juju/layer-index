@@ -70,6 +70,7 @@ List of Base Layers
 | [debug](https://github.com/charms/layer-debug.git) | debug | Provides a troubleshooting debug action |
 | [django](https://github.com/marcoceppi/layer-django.git) | Django | Django / GUNICORN |
 | [docker](https://github.com/juju-solutions/layer-docker.git) | Docker | Layer to deliver and install Docker on Ubuntu, Debian, Centos hosts. |
+| [elastic-base](https://github.com/jamesbeedy/layer-elastic-base.git) | Elastic-Base | Base layer for Elastic.co charms |
 | [elasticsearch-base](https://github.com/jamesbeedy/juju-layer-elasticsearch-base) | Elasticsearch Base | Base layer for elasticsearch |
 | [elasticsearch-client](https://github.com/jamesbeedy/layer-elasticsearch-client) | Elasticsearch-Client | Elasticsearch client layer |
 | [elixir](https://github.com/battlemidget/juju-layer-elixir.git) | Elixir | Runtime layer for Elixir applications |
