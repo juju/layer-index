@@ -1,6 +1,6 @@
 {
   "id": "promreg-client",
   "name": "promreg-client",
-  "repo": "https://git.launchpad.net/~timkuhlman/prometheus-registration/+git/layer-promreg-client",
+  "repo": "https://git.launchpad.net/~prometheus-registration-developers/prometheus-registration/+git/layer-promreg-client",
   "summary": "A layer to aid in registering a target with Prometheus Registration"
 }

@@ -113,7 +113,7 @@ List of Base Layers
 | [openstack](https://github.com/openstack/charm-layer-openstack) | OpenStack base layer | OpenStack base layer |
 | [phalcon](https://github.com/jamesbeedy/layer-phalcon) | Phalcon | Reactive layer for installing and configuring Phalcon php web framework |
 | [postfix](https://github.com/jamesbeedy/layer-postfix.git) | Postfix | Reactive layer for postfix MTA |
-| [promreg-client](https://git.launchpad.net/~timkuhlman/prometheus-registration/+git/layer-promreg-client) | promreg-client | A layer to aid in registering a target with Prometheus Registration |
+| [promreg-client](https://git.launchpad.net/~prometheus-registration-developers/prometheus-registration/+git/layer-promreg-client) | promreg-client | A layer to aid in registering a target with Prometheus Registration |
 | [puppet-agent](https://github.com/jamesbeedy/layer-puppet-agent.git) | Puppet-agent | Puppet-agent layer - supports puppet 3 & 4. |
 | [puppet-base](https://github.com/jamesbeedy/layer-puppet-base.git) | puppet-base | Base layer for puppet4 |
 | [puppet](https://github.com/juju-solutions/layer-puppet.git) | Puppet Layer (deprecated) | Puppet layer (deprecated; use puppet-agent) |
