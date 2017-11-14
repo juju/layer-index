@@ -162,6 +162,7 @@ List of Interface Layers
 | [db-info](https://github.com/jamesbeedy/interface-db-info) | db-info | Ease the process of application <-> application database creds transference. |
 | [db2](https://launchpad.net/~ibmcharmers/interface-ibm-db2/trunk) | db2 | This interface layer handles the communication between  IBM DB2 and Consumer charms. |
 | [dbname](https://github.com/jamesbeedy/juju-interface-dbname.git) | dbname | Interface to coordinate database name between applications. |
+| [designate](https://github.com/openstack-charmers/charm-interface-designate) | designate | Designate DNS as a Service interface |
 | [dfs-slave](https://github.com/juju-solutions/interface-dfs-slave.git) | dfs-slave | Interface layer for the DataNode <-> NameNode protocol |
 | [dfs](https://github.com/juju-solutions/interface-dfs.git) | dfs | Interface layer for the hdfs interface protocol |
 | [dm-node](https://code.launchpad.net/~ibmcharmers/interface-ibm-dm-node/trunk) | dm-node | This interface handles the comunication between IBM WAS ND DM and IBM WAS ND Node charms |
