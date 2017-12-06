@@ -59,6 +59,7 @@ List of Base Layers
 | [beats-base](https://github.com/juju-solutions/layer-beats-base) | Beats Base | Base layer for Elastic Beats |
 | [bigtop-base](https://github.com/juju-solutions/layer-apache-bigtop-base.git) | Apache Bigtop Base Layer | Base layer for charms needing Apache Bigtop  |
 | [buildpacks](https://git.launchpad.net/~bcsaller/charms/+source/buildpacks) | Buildpacks | Experimental layer for using buildpacks to generate Charmed applications |
+| [caas-base](https://github.com/juju-solutions/layer-caas-base.git) | Base Layer for CAAS charms | Base layer for CAAS charms with the Reactive framework |
 | [cdk-service-kicker](https://github.com/juju-solutions/layer-cdk-service-kicker.git) | CDK Service Kicker | Installs a background service, cdk-service-kicker, for kicking cdk services. |
 | [ceph-base](https://github.com/ChrisMacNaughton/layer-ceph-base) | EXPERIMENTAL Ceph Base Layer | EXPERIMENTAL Ceph base layer |
 | [ceph-basic](https://github.com/ChrisMacNaughton/layer-ceph-basic) | EXPERIMENTAL ceph-basic | EXPERIMENTAL ceph-basic layer |
