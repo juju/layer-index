@@ -1,0 +1,6 @@
+{
+  "id": "caas-base",
+  "name": "Base Layer for CAAS charms",
+  "repo": "https://github.com/juju-solutions/layer-caas-base.git",
+  "summary": "Base layer for CAAS charms with the Reactive framework"
+}
