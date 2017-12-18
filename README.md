@@ -142,6 +142,7 @@ List of Interface Layers
 | ID | Name | Summary |
 | --- | --- | --- |
 | [apache-website](https://github.com/juju-solutions/interface-apache-website.git) | apache-website | Interface layer for the apache-website interface protocol |
+| [arangodb](https://github.com/tengu-team/interface-arangodb.git) | arangodb | Interface layer for ArangoDB |
 | [audit](https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface) | audit | Interface for use with the auditd charm |
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
 | [basic-auth-check](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
@@ -201,6 +202,7 @@ List of Interface Layers
 | [jenkins-zuul](https://github.com/freeekanayaka/interface-jenkins-zuul.git) | jenkins-zuul | communication between a Jenkins master and Zuul Jenkins via the zuul interface |
 | [juju-info](https://github.com/juju-solutions/interface-juju-info.git) | juju-info | Implied interface for subordinates with special behavior. This is not a substitute for a proper relationship interface.  |
 | [kafka](https://github.com/juju-solutions/interface-kafka.git) | kafka | Interface layer for communication between Kafka and its clients |
+| [kapacitor](https://github.com/tengu-team/interface-kapacitor.git) | kapacitor | Interface layer for Kapacitor |
 | [keystone-admin](https://git.launchpad.net/~canonical-is/charms/+source/interface-keystone-admin) | keystone-admin | keystone-admin:identity-admin interface to use shared admin API credentials |
 | [keystone-credentials](https://github.com/openstack/charm-interface-keystone-credentials) | keystone-credentials | keystone-credentials: Interface for integrating with Keystone identity credentials |
 | [keystone-domain-backend](https://github.com/openstack-charmers/charm-interface-keystone-domain-backend) | keystone-domain-backend | Interface for integration of subordinate charms providing domain specific identity backends |
