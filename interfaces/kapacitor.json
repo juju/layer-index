@@ -1,0 +1,6 @@
+{
+  "id": "kapacitor",
+  "name": "kapacitor",
+  "repo": "https://github.com/tengu-team/interface-kapacitor.git",
+  "summary": "Interface layer for Kapacitor"
+}

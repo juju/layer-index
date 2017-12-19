@@ -1,0 +1,6 @@
+{
+  "id": "arangodb",
+  "name": "arangodb",
+  "repo": "https://github.com/tengu-team/interface-arangodb.git",
+  "summary": "Interface layer for ArangoDB"
+}
