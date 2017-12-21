@@ -1,6 +1,0 @@
-{
-  "id": "postgresql-stats",
-  "name": "Postgresql Stats",
-  "repo": "https://github.com/jamesbeedy/interface-postgresql-stats.git",
-  "summary": "Interface for integrating with metrics gathering layers"
-}

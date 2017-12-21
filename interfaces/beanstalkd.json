@@ -1,6 +1,0 @@
-{
-  "id": "beanstalkd",
-  "name": "beanstalkd",
-  "repo": "https://github.com/jamesbeedy/juju-interface-beanstalkd",
-  "summary": "Reactive provides and requires interfaces for beanstalkd"
-}

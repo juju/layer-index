@@ -1,6 +1,6 @@
 {
   "id": "consul-base",
   "name": "Consul Base",
-  "repo": "https://github.com/jamesbeedy/layer-consul-base",
+  "repo": "https://github.com/omnivector-solutions/layer-consul-base",
   "summary": "Reactive base layer for consul"
 }

@@ -1,6 +1,0 @@
-{
-  "id": "redis-stats",
-  "name": "Redis Stats",
-  "repo": "https://github.com/jamesbeedy/interface-redis-stats.git",
-  "summary": "Interface to be used for integration with metrics gathering layers"
-}
