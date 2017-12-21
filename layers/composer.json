@@ -1,6 +1,0 @@
-{
-  "id": "composer",
-  "name": "PHP Composer",
-  "repo": "https://github.com/jamesbeedy/juju-layer-composer",
-  "summary": "Reactive layer for php composer"
-}
