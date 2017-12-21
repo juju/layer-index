@@ -1,6 +1,0 @@
-{
-  "id": "phalcon",
-  "name": "Phalcon",
-  "repo": "https://github.com/jamesbeedy/layer-phalcon",
-  "summary": "Reactive layer for installing and configuring Phalcon php web framework"
-}
