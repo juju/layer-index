@@ -1,0 +1,6 @@
+{
+  "id": "prometheusi-rules",
+  "name": "prometheus-rules",
+  "repo": "https://github.com/CanonicalBootStack/interface-prometheus-rules.git",
+  "summary": "Relation Stub to export Prometheus alerting rules"
+}
