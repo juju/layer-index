@@ -230,7 +230,7 @@ List of Interface Layers
 | [peer-discovery](https://github.com/tbaumann/charm-interface-peer-discovery) | peer-discovery | [proposal] simple interface to discover all peers of a charm through peer relation |
 | [pgsql](https://git.launchpad.net/interface-pgsql) | pgsql | Postgresql database client interface |
 | [platformmaster](https://launchpad.net/~ibmcharmers/interface-ibm-platformmaster/trunk) | platformmaster | This interface layer handles the communication between Platform Master (like IBM Platform LSF, IBM Spectrum Symphony) and Platform Server/Nodes. |
-| [prometheusi-rules](https://github.com/CanonicalBootStack/interface-prometheus-rules.git) | prometheus-rules | Relation Stub to export Prometheus alerting rules |
+| [prometheus-rules](https://github.com/CanonicalBootStack/interface-prometheus-rules.git) | prometheus-rules | Relation Stub to export Prometheus alerting rules |
 | [prometheus](https://git.launchpad.net/interface-prometheus) | prometheus | Prometheus target interface |
 | [public-address](https://github.com/juju-solutions/interface-public-address) | public-address | Simple relation that provides the providers public-address and a port |
 | [rabbitmq](https://github.com/openstack/charm-interface-rabbitmq) | rabbitmq | RabbitMQ AMQP interface |
