@@ -66,7 +66,7 @@ List of Base Layers
 | [charmscaler-base](https://github.com/elastisys/layer-charmscaler-base) | Charmscaler Base | Charmscaler base layer |
 | [consul-base](https://github.com/omnivector-solutions/layer-consul-base) | Consul Base | Reactive base layer for consul |
 | [coordinator](https://git.launchpad.net/layer-coordinator ) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
-| [debug](https://github.com/charms/layer-debug.git) | debug | Provides a troubleshooting debug action |
+| [debug](https://github.com/juju-solutions/layer-debug.git) | debug | Provides a troubleshooting debug action |
 | [django](https://github.com/marcoceppi/layer-django.git) | Django | Django / GUNICORN |
 | [docker](https://github.com/juju-solutions/layer-docker.git) | Docker | Layer to deliver and install Docker on Ubuntu, Debian, Centos hosts. |
 | [elastic-base](https://github.com/omnivector-solutions/layer-elastic-base.git) | Elastic-Base | Base layer for Elastic.co charms |
@@ -230,8 +230,8 @@ List of Interface Layers
 | [peer-discovery](https://github.com/tbaumann/charm-interface-peer-discovery) | peer-discovery | [proposal] simple interface to discover all peers of a charm through peer relation |
 | [pgsql](https://git.launchpad.net/interface-pgsql) | pgsql | Postgresql database client interface |
 | [platformmaster](https://launchpad.net/~ibmcharmers/interface-ibm-platformmaster/trunk) | platformmaster | This interface layer handles the communication between Platform Master (like IBM Platform LSF, IBM Spectrum Symphony) and Platform Server/Nodes. |
+| [prometheusi-rules](https://github.com/CanonicalBootStack/interface-prometheus-rules.git) | prometheus-rules | Relation Stub to export Prometheus alerting rules |
 | [prometheus](https://git.launchpad.net/interface-prometheus) | prometheus | Prometheus target interface |
-| [prometheus-rules](https://github.com/CanonicalBootStack/interface-prometheus-rules.git) | prometheus-rules | Prometheus alerting rules target interface |
 | [public-address](https://github.com/juju-solutions/interface-public-address) | public-address | Simple relation that provides the providers public-address and a port |
 | [rabbitmq](https://github.com/openstack/charm-interface-rabbitmq) | rabbitmq | RabbitMQ AMQP interface |
 | [redis](https://github.com/omnivector-solutions/interface-redis) | redis | Interface for relating to redis |
