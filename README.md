@@ -114,6 +114,7 @@ List of Base Layers
 | [snap-action](https://github.com/lutostag/layer-snap-action.git) | snap-action | Perform snap commands via an action |
 | [snap](https://git.launchpad.net/layer-snap) | Snap layer | Snap layer for installing and updating Snap packages |
 | [sshproxy](https://github.com/AdamIsrael/layer-sshproxy) | sshproxy | A layer intended to ease the development of charms that need to execute commands over SSH. |
+| [status](https://github.com/juju-solutions/layer-status) | Status management layer | Manage workload status in reactive charms |
 | [storage](https://github.com/juju-solutions/layer-storage) | Storage | A charm layer to handle Juju attached storage devices. |
 | [supervisor](https://github.com/omnivector-solutions/layer-supervisor) | Supervisor | Layer for Supervisor |
 | [swarm](https://github.com/chuckbutler/layer-swarm.git) | Docker Swarm | Stand alone layer, to extend docker into a Swarm cluster participant |

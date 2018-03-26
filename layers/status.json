@@ -1,0 +1,6 @@
+{
+  "id": "status",
+  "name": "Status management layer",
+  "repo": "https://github.com/juju-solutions/layer-status",
+  "summary": "Manage workload status in reactive charms"
+}
