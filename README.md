@@ -64,6 +64,7 @@ List of Base Layers
 | [ceph-basic](https://github.com/ChrisMacNaughton/layer-ceph-basic) | EXPERIMENTAL ceph-basic | EXPERIMENTAL ceph-basic layer |
 | [ceph-mon](https://github.com/ChrisMacNaughton/juju-layer-ceph-mon) | EXPERIMENTAL Ceph Mon layer | EXPERIMENTAL Ceph Mon layer |
 | [charmscaler-base](https://github.com/elastisys/layer-charmscaler-base) | Charmscaler Base | Charmscaler base layer |
+| [conda-api](https://github.com/omnivector-solutions/layer-conda-api) | Conda API | Conda API layer |
 | [consul-base](https://github.com/omnivector-solutions/layer-consul-base) | Consul Base | Reactive base layer for consul |
 | [coordinator](https://git.launchpad.net/layer-coordinator ) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
 | [debug](https://github.com/juju-solutions/layer-debug.git) | debug | Provides a troubleshooting debug action |
@@ -148,6 +149,7 @@ List of Interface Layers
 | [ceph-radosgw](https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw) | ceph-radosgw | Ceph RadosGW interface |
 | [ceph](https://github.com/ChrisMacNaughton/juju-interface-ceph) | ceph | ceph mon peer interface |
 | [charms-ci](https://github.com/juju-solutions/interface-charms-ci.git) | charms-ci | Juju charms CI interface |
+| [conda](https://github.com/omnivector-solutions/interface-conda) | Conda | Conda provides and requires interfaces |
 | [conn-check](https://git.launchpad.net/~ubuntuone-hackers/conn-check/+git/interface-conn-check) | conn-check | conn-check interface |
 | [consul-agent](https://github.com/ChrisMacNaughton/juju-interface-consul.git) | consul-agent | Hashicorp Consul |
 | [consul](https://github.com/juju-solutions/interface-consul) | consul | Hashicorp Consul |
