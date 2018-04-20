@@ -249,6 +249,7 @@ List of Interface Layers
 | [syslog](https://github.com/juju-solutions/interface-syslog.git) | syslog | Interface layer for the syslog protocol |
 | [tls-certificates](https://github.com/juju-solutions/interface-tls-certificates) | tls-certificates | An interface for exchanging tls certificates using provides and requres relations. |
 | [tls](https://github.com/juju-solutions/interface-tls) | tls | The TLS interface provides a peering relationship to exchange certificates and CSR's. |
+| [vault-kv](https://github.com/openstack-charmers/charm-interface-vault-kv.git) | vault-kv | Interface layer for the vault-kv protocol |
 | [vault](https://github.com/ChrisMacNaughton/juju-interface-vault.git) | vault | Hashicorp Vault omterface |
 | [was-ihs](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-ihs/trunk) | was-ihs | This Interface handles the communication between IBM WAS Base/IBM WAS ND and IBM Http Server |
 | [was-nd](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-nd/trunk) | was-nd | This interface handles the communication between IBM WAS ND DM and other consumer charms. |
