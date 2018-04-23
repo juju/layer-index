@@ -1,6 +1,6 @@
 {
   "id": "redis",
   "name": "redis",
-  "repo": "https://github.com/jamesbeedy/interface-redis",
+  "repo": "https://github.com/omnivector-solutions/interface-redis",
   "summary": "Interface for relating to redis"
 }

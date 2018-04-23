@@ -1,6 +1,6 @@
 {
   "id": "dbname",
-  "name": "dbname",
-  "repo": "https://github.com/jamesbeedy/juju-interface-dbname.git",
+  "name": "DB Name",
+  "repo": "https://github.com/omnivector-solutions/interface-dbname.git",
   "summary": "Interface to coordinate database name between applications."
 }

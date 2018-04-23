@@ -1,6 +1,0 @@
-{
-  "id": "postfix",
-  "name": "Postfix",
-  "repo": "https://github.com/jamesbeedy/layer-postfix.git",
-  "summary": "Reactive layer for postfix MTA"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "apache2",
-  "name": "Apache2",
-  "repo": "https://github.com/jamesbeedy/layer-apache2",
-  "summary": "Reactive layer for Apache webserver"
-}
