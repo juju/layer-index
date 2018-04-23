@@ -228,6 +228,7 @@ List of Interface Layers
 | [nrpe-external-master](https://github.com/cmars/nrpe-external-master-interface) | nrpe-external-master | relation for registering nagios checks |
 | [odl-controller-api](https://github.com/openstack/charm-interface-odl-controller-api) | odl-controller-api | Interface for intergrating with an OpenDayLight Controller RESTful API |
 | [openstack-ha](https://github.com/openstack/charm-interface-openstack-ha) | openstack-ha | Interface for managing information with peers in the same OpenStack service |
+| [opentsdb](https://github.com/tengu-team/interface-opentsdb.git) | opentsdb | Interface layer for OpenTSDB. |
 | [ovsdb-manager](https://github.com/openstack/charm-interface-ovsdb-manager) | ovsdb-manager | Interface for relating to the OVSDB manager aspect of OpenDayLight SDN |
 | [panko](https://github.com/openstack-charmers/charm-interface-panko) | panko | Panko Event Service interface |
 | [peer-discovery](https://github.com/tbaumann/charm-interface-peer-discovery) | peer-discovery | [proposal] simple interface to discover all peers of a charm through peer relation |

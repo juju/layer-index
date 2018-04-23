@@ -1,0 +1,6 @@
+{
+  "id": "opentsdb",
+  "name": "opentsdb",
+  "repo": "https://github.com/tengu-team/interface-opentsdb.git",
+  "summary": "Interface layer for OpenTSDB."
+}
