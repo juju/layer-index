@@ -198,6 +198,8 @@ List of Interface Layers
 | [keystone-admin](https://git.launchpad.net/~canonical-is/charms/+source/interface-keystone-admin) | keystone-admin | keystone-admin:identity-admin interface to use shared admin API credentials |
 | [keystone-credentials](https://github.com/openstack/charm-interface-keystone-credentials) | keystone-credentials | keystone-credentials: Interface for integrating with Keystone identity credentials |
 | [keystone-domain-backend](https://github.com/openstack-charmers/charm-interface-keystone-domain-backend) | keystone-domain-backend | Interface for integration of subordinate charms providing domain specific identity backends |
+| [keystone-fid-service-provider](https://github.com/dshcherb/charm-interface-keystone-fid-service-provider) | keystone-fid-service-provider | An interface to connect a federated identity provider to the Keystone charm |
+| [websso-fid-service-provider](https://github.com/dshcherb/charm-interface-websso-fid-service-provider) | websso-fid-service-provider | An interface to connect a federated identity provider to OpenStack dashboard charm |
 | [keystone](https://github.com/openstack/charm-interface-keystone) | keystone | Keystone interface |
 | [kube-control](https://github.com/juju-solutions/interface-kube-control.git) | kube-control | master-worker control interface for Kubernetes |
 | [kube-dns](https://github.com/juju-solutions/interface-kube-dns.git) | kube-dns | Kubernetes DNS Details |
