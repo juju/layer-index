@@ -136,10 +136,11 @@ List of Interface Layers
 | [apache-website](https://github.com/juju-solutions/interface-apache-website.git) | apache-website | Interface layer for the apache-website interface protocol |
 | [arangodb](https://github.com/tengu-team/interface-arangodb.git) | arangodb | Interface layer for ArangoDB |
 | [audit](https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface) | audit | Interface for use with the auditd charm |
+| [aws](https://github.com/juju-solutions/interface-aws.git) | aws | Interface layer for connecting to the AWS integration charm |
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
 | [basic-auth-check](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
 | [benchmark](https://github.com/juju-solutions/interface-benchmark.git) | benchmark | Interface layer for the benchmark protocol |
-| [bgp](https://github.com/openstack-charmers/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
+| [bgp](https://git.openstack.org/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
 | [bind-rndc](https://github.com/openstack/charm-interface-bind-rndc) | BIND RNDC interface | BIND RNDC interface |
 | [ceph-admin](https://github.com/cholcombe973/juju-interface-ceph-admin) | ceph-admin | The admin interface for ceph will provide the user with the ceph admin key |
 | [ceph-base](https://github.com/openstack/charm-layer-ceph-base) | Ceph Base Layer | Ceph base layer |
@@ -168,6 +169,7 @@ List of Interface Layers
 | [etcd-proxy](https://github.com/juju-solutions/interface-etcd-proxy) | etcd-proxy | Do you need etcd as a read/readwrite proxy to a cluster? use this interface. |
 | [etcd](https://github.com/juju-solutions/interface-etcd) | etcd | Interface for relating to etcd |
 | [flume-agent](https://github.com/juju-solutions/interface-flume-agent.git) | flume-agent | Interface layer for communication between Apache Flume charms |
+| [gcp](https://github.com/juju-solutions/interface-gcp.git) | gcp | Interface layer for connecting to the GCP integration charm |
 | [giraph](https://github.com/juju-solutions/interface-giraph) | giraph | This interface handles the communication between Apache Giraph and its clients |
 | [gluster-fuse](https://github.com/cholcombe973/juju-interface-gluster-fuse) | gluster-fuse | Distributed posix storage provided by GlusterFS |
 | [gluster-nfs](https://github.com/cholcombe973/juju-interface-gluster-client) | gluster-nfs | Scale out NFS provided by GlusterFS |
@@ -199,7 +201,6 @@ List of Interface Layers
 | [keystone-credentials](https://github.com/openstack/charm-interface-keystone-credentials) | keystone-credentials | keystone-credentials: Interface for integrating with Keystone identity credentials |
 | [keystone-domain-backend](https://github.com/openstack-charmers/charm-interface-keystone-domain-backend) | keystone-domain-backend | Interface for integration of subordinate charms providing domain specific identity backends |
 | [keystone-fid-service-provider](https://github.com/dshcherb/charm-interface-keystone-fid-service-provider) | keystone-fid-service-provider | An interface to connect a federated identity provider to the Keystone charm |
-| [websso-fid-service-provider](https://github.com/dshcherb/charm-interface-websso-fid-service-provider) | websso-fid-service-provider | An interface to connect a federated identity provider to OpenStack dashboard charm |
 | [keystone](https://github.com/openstack/charm-interface-keystone) | keystone | Keystone interface |
 | [kube-control](https://github.com/juju-solutions/interface-kube-control.git) | kube-control | master-worker control interface for Kubernetes |
 | [kube-dns](https://github.com/juju-solutions/interface-kube-dns.git) | kube-dns | Kubernetes DNS Details |
@@ -256,6 +257,7 @@ List of Interface Layers
 | [vault](https://github.com/ChrisMacNaughton/juju-interface-vault.git) | vault | Hashicorp Vault omterface |
 | [was-ihs](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-ihs/trunk) | was-ihs | This Interface handles the communication between IBM WAS Base/IBM WAS ND and IBM Http Server |
 | [was-nd](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-nd/trunk) | was-nd | This interface handles the communication between IBM WAS ND DM and other consumer charms. |
+| [websso-fid-service-provider](https://github.com/dshcherb/charm-interface-websso-fid-service-provider) | websso-fid-service-provider | An interface to connect a federated identity provider to OpenStack dashboard charm |
 | [weebl](https://github.com/autonomouse/interface-weebl) | weebl | Interface for relating to the OIL dashboard (Weebl) |
 | [wsgi](https://git.launchpad.net/~ubuntuone-hackers/charms/+source/interface-wsgi) | wsgi | Basic WSGI interface |
 | [zeppelin](https://github.com/juju-solutions/interface-zeppelin) | zeppelin | Interface layer for interacting with charms for Apache Zeppelin |
