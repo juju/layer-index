@@ -1,0 +1,6 @@
+{
+  "id": "aws",
+  "name": "aws",
+  "repo": "https://github.com/juju-solutions/interface-aws.git",
+  "summary": "Interface layer for connecting to the AWS integration charm"
+}
