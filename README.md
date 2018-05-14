@@ -217,6 +217,7 @@ List of Interface Layers
 | [mongodb-cluster](https://github.com/tkuhlman/juju-relation-mongodb) | mongodb-cluster | relation to connect to a mongo database cluster |
 | [mongodb](https://github.com/cloud-green/juju-relation-mongodb) | mongodb | relation to connect to a mongo database |
 | [monitor](https://github.com/juju-solutions/interface-monitor.git) | monitor | This interface layer for monitor protocol |
+| [mount](https://github.com/juju-solutions/interface-mount.git) | mount | Interface layer for connecting mounts to a charm such as NFS |
 | [munin-node](https://github.com/freyes/interface-munin-node) | munin-node | munin-node relation |
 | [munin](https://github.com/freyes/interface-munin) | munin | munin relation |
 | [mysql-root](https://github.com/juju-solutions/interface-mysql-root.git) | mysql-root | Administrative MySQL interface with admin access granted to connected applications |
