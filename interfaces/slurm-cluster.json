@@ -1,6 +1,6 @@
 {
   "id": "slurm-cluster",
   "name": "slurm-cluster",
-  "repo": "https://github.com/hunt-genes/interface-slurm-cluster",
+  "repo": "https://github.com/omnivector-solutions/interface-slurm-cluster",
   "summary": "Interface layer for Slurm"
 }
