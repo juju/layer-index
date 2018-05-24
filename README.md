@@ -191,6 +191,7 @@ List of Interface Layers
 | [ignite-hadoop](https://github.com/juju-solutions/interface-ignite-hadoop) | ignite-hadoop | Minimal interface layer for connecting Apache Ignite-Hadoop to Apache Hadoop slave |
 | [influxdb-api](https://github.com/ChrisMacNaughton/interface-influxdb-api.git) | influxdb-api | InfluxDB Query Interface |
 | [java](https://github.com/juju-solutions/interface-java.git) | java | Interface for relating to subordinate charms providing a Java runtime or JDK |
+| [jdbc](https://gitlab.com/spiculedata/juju/jdbc-interface.git) | jdbc | JDBC interface for generic connectivity across databases |
 | [jenkins-extension](https://github.com/juju-solutions/interface-jenkins-extension.git) | jenkins-extension | Admin interface to the jenkins master |
 | [jenkins-slave](https://github.com/freeekanayaka/interface-jenkins-slave.git) | jenkins-slave | Communication between a Jenkins master and a Jenkins slave |
 | [jenkins-zuul](https://github.com/freeekanayaka/interface-jenkins-zuul.git) | jenkins-zuul | communication between a Jenkins master and Zuul Jenkins via the zuul interface |
