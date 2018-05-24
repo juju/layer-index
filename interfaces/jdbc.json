@@ -1,6 +1,6 @@
 {
   "id": "jdbc",
   "name": "jdbc",
-  "repo": "git@gitlab.com:spiculedata/juju/jdbc-interface.git",
+  "repo": "https://gitlab.com/spiculedata/juju/jdbc-interface.git",
   "summary": "JDBC interface for generic connectivity across databases"
 }
