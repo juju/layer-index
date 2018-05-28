@@ -142,6 +142,7 @@ List of Interface Layers
 | [benchmark](https://github.com/juju-solutions/interface-benchmark.git) | benchmark | Interface layer for the benchmark protocol |
 | [bgp](https://git.openstack.org/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
 | [bind-rndc](https://github.com/openstack/charm-interface-bind-rndc) | BIND RNDC interface | BIND RNDC interface |
+| [cassandra](https://git.launchpad.net/interface-cassandra) | cassandra | Cassandra database client interface |
 | [ceph-admin](https://github.com/cholcombe973/juju-interface-ceph-admin) | ceph-admin | The admin interface for ceph will provide the user with the ceph admin key |
 | [ceph-base](https://github.com/openstack/charm-layer-ceph-base) | Ceph Base Layer | Ceph base layer |
 | [ceph-client](https://github.com/openstack-charmers/charm-interface-ceph-client) | ceph-client | Ceph Client interface |
