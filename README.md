@@ -198,7 +198,7 @@ List of Interface Layers
 | [juju-info](https://github.com/juju-solutions/interface-juju-info.git) | juju-info | Implied interface for subordinates with special behavior. This is not a substitute for a proper relationship interface.  |
 | [kafka](https://github.com/juju-solutions/interface-kafka.git) | kafka | Interface layer for communication between Kafka and its clients |
 | [kapacitor](https://github.com/tengu-team/interface-kapacitor.git) | kapacitor | Interface layer for Kapacitor |
-| [keystone-admin](https://git.launchpad.net/~canonical-is/charms/+source/interface-keystone-admin) | keystone-admin | keystone-admin:identity-admin interface to use shared admin API credentials |
+| [keystone-admin](https://github.com/openstack/charm-interface-keystone-admin) | keystone-admin | keystone-admin:identity-admin interface to use shared admin API credentials |
 | [keystone-credentials](https://github.com/openstack/charm-interface-keystone-credentials) | keystone-credentials | keystone-credentials: Interface for integrating with Keystone identity credentials |
 | [keystone-domain-backend](https://github.com/openstack-charmers/charm-interface-keystone-domain-backend) | keystone-domain-backend | Interface for integration of subordinate charms providing domain specific identity backends |
 | [keystone-fid-service-provider](https://github.com/dshcherb/charm-interface-keystone-fid-service-provider) | keystone-fid-service-provider | An interface to connect a federated identity provider to the Keystone charm |
