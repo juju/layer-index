@@ -1,0 +1,6 @@
+{
+  "id": "cassandra",
+  "name": "cassandra",
+  "repo": "https://git.launchpad.net/interface-cassandra",
+  "summary": "Cassandra database client interface"
+}
