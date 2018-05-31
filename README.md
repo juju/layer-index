@@ -137,6 +137,7 @@ List of Interface Layers
 | [arangodb](https://github.com/tengu-team/interface-arangodb.git) | arangodb | Interface layer for ArangoDB |
 | [audit](https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface) | audit | Interface for use with the auditd charm |
 | [aws](https://github.com/juju-solutions/interface-aws.git) | aws | Interface layer for connecting to the AWS integration charm |
+| [azure](https://github.com/juju-solutions/interface-azure.git) | azure | Interface layer for connecting to the Azure integration charm |
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
 | [basic-auth-check](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
 | [benchmark](https://github.com/juju-solutions/interface-benchmark.git) | benchmark | Interface layer for the benchmark protocol |
