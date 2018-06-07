@@ -1,0 +1,7 @@
+{
+  "id": "gcp-integration",
+  "name": "gcp-integration",
+  "repo": "https://github.com/juju-solutions/interface-gcp-integration.git",
+  "summary": "Interface layer for connecting to the GCP integration charm"
+}
+

@@ -1,6 +1,0 @@
-{
-  "id": "azure",
-  "name": "azure",
-  "repo": "https://github.com/juju-solutions/interface-azure.git",
-  "summary": "Interface layer for connecting to the Azure integration charm"
-}
