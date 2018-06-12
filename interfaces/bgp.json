@@ -1,6 +1,6 @@
 {
   "id": "bgp",
   "name": "bgp",
-  "repo": "https://git.openstack.org/openstack/charm-interface-bgp.git",
+  "repo": "https://github.com/openstack/charm-interface-bgp.git",
   "summary": "Interface layer for exchanging BGP neighbour information between charms"
 }
