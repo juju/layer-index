@@ -1,0 +1,6 @@
+{
+  "id": "options",
+  "name": "options",
+  "repo": "https://github.com/juju-solutions/layer-options.git",
+  "summary": "Layer for reading options defined in layer.yaml"
+}

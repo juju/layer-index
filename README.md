@@ -107,6 +107,7 @@ List of Base Layers
 | [openstack-api](https://github.com/openstack/charm-layer-openstack-api) | OpenStack API layer | OpenStack API layer |
 | [openstack-principle](https://github.com/openstack/charm-layer-openstack-principle) | OpenStack principle layer | OpenStack principle layer |
 | [openstack](https://github.com/openstack/charm-layer-openstack) | OpenStack base layer | OpenStack base layer |
+| [options](https://github.com/juju-solutions/layer-options.git) | options | Layer for reading options defined in layer.yaml |
 | [promreg-client](https://git.launchpad.net/~prometheus-registration-developers/prometheus-registration/+git/layer-promreg-client) | promreg-client | A layer to aid in registering a target with Prometheus Registration |
 | [puppet-agent](https://github.com/omnivector-solutions/layer-puppet-agent.git) | Puppet Agent | Puppet-agent layer - supports puppet 3 & 4. |
 | [puppet](https://github.com/juju-solutions/layer-puppet.git) | Puppet Layer (deprecated) | Puppet layer (deprecated; use puppet-agent) |
@@ -141,7 +142,7 @@ List of Interface Layers
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
 | [basic-auth-check](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
 | [benchmark](https://github.com/juju-solutions/interface-benchmark.git) | benchmark | Interface layer for the benchmark protocol |
-| [bgp](https://git.openstack.org/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
+| [bgp](https://github.com/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
 | [bind-rndc](https://github.com/openstack/charm-interface-bind-rndc) | BIND RNDC interface | BIND RNDC interface |
 | [cassandra](https://git.launchpad.net/interface-cassandra) | cassandra | Cassandra database client interface |
 | [ceph-admin](https://github.com/cholcombe973/juju-interface-ceph-admin) | ceph-admin | The admin interface for ceph will provide the user with the ceph admin key |
