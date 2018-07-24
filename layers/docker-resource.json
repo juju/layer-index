@@ -1,0 +1,6 @@
+{
+  "id": "docker-resource",
+  "name": "Docker Resource Layer",
+  "repo": "https://github.com/juju-solutions/layer-docker-resource.git",
+  "summary": "Layer for managing charm resources of type 'docker'"
+}
