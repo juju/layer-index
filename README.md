@@ -69,6 +69,7 @@ List of Base Layers
 | [coordinator](https://git.launchpad.net/layer-coordinator ) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
 | [debug](https://github.com/juju-solutions/layer-debug.git) | debug | Provides a troubleshooting debug action |
 | [django](https://github.com/marcoceppi/layer-django.git) | Django | Django / GUNICORN |
+| [docker-resource](https://github.com/juju-solutions/layer-docker-resource.git) | Docker Resource Layer | Layer for managing charm resources of type 'docker' |
 | [docker](https://github.com/juju-solutions/layer-docker.git) | Docker | Layer to deliver and install Docker on Ubuntu, Debian, Centos hosts. |
 | [elastic-base](https://github.com/omnivector-solutions/layer-elastic-base.git) | Elastic-Base | Base layer for Elastic.co charms |
 | [elasticsearch-client](https://github.com/omnivector-solutions/layer-elasticsearch-client) | Elasticsearch Client | Elasticsearch client layer |
