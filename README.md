@@ -212,6 +212,7 @@ List of Interface Layers
 | [kube-dns](https://github.com/juju-solutions/interface-kube-dns.git) | kube-dns | Kubernetes DNS Details |
 | [kubernetes-cni](https://github.com/juju-solutions/interface-kubernetes-cni) | kubernetes-cni | Interface for relating various CNI implementations |
 | [limeds](https://github.com/tengu-team/interface-limeds) | limeds | Interface to connect to LimeDS |
+| [livy](https://gitlab.com/spiculedata/juju/livy-relation.git) | Apache Livy relation | Relation to connect a charm to Apache Livy. |
 | [local-monitors](https://github.com/cmars/local-monitors-interface) | local-monitors | relation for registering nagios checks |
 | [logstash-client](https://github.com/juju-solutions/interface-logstash-client) | logstash-client | Interface for connecting with logstash based systems. |
 | [mahout](https://github.com/juju-solutions/interface-mahout) | mahout | This interface layer handles the communication between Apache Mahout and its clients |
