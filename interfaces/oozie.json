@@ -1,0 +1,6 @@
+{
+  "id": "oozie",
+  "name": "oozie",
+  "repo": "https://gitlab.com/spiculedata/juju/oozie-interface.git",
+  "summary": "Connection for oozie to consumers"
+}
