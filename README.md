@@ -232,6 +232,7 @@ List of Interface Layers
 | [nginx-stats](https://github.com/silph-io/interface-nginx-stats) | NGINX Stats | NGINX stats/status protocol |
 | [nrpe-external-master](https://github.com/cmars/nrpe-external-master-interface) | nrpe-external-master | relation for registering nagios checks |
 | [odl-controller-api](https://github.com/openstack/charm-interface-odl-controller-api) | odl-controller-api | Interface for intergrating with an OpenDayLight Controller RESTful API |
+| [oozie](https://gitlab.com/spiculedata/juju/oozie-interface.git) | oozie | Connection for oozie to consumers |
 | [openstack-ha](https://github.com/openstack/charm-interface-openstack-ha) | openstack-ha | Interface for managing information with peers in the same OpenStack service |
 | [opentsdb](https://github.com/tengu-team/interface-opentsdb.git) | opentsdb | Interface layer for OpenTSDB. |
 | [ovsdb-manager](https://github.com/openstack/charm-interface-ovsdb-manager) | ovsdb-manager | Interface for relating to the OVSDB manager aspect of OpenDayLight SDN |
