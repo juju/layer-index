@@ -265,6 +265,7 @@ List of Interface Layers
 | [tls](https://github.com/juju-solutions/interface-tls) | tls | The TLS interface provides a peering relationship to exchange certificates and CSR's. |
 | [vault-kv](https://github.com/openstack-charmers/charm-interface-vault-kv.git) | vault-kv | Interface layer for the vault-kv protocol |
 | [vault](https://github.com/ChrisMacNaughton/juju-interface-vault.git) | vault | Hashicorp Vault omterface |
+| [vsphere-integration](https://github.com/juju-solutions/interface-vsphere-integration.git) | vsphere-integration | Interface layer for connecting to the VMware vSphere integration charm |
 | [was-ihs](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-ihs/trunk) | was-ihs | This Interface handles the communication between IBM WAS Base/IBM WAS ND and IBM Http Server |
 | [was-nd](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-nd/trunk) | was-nd | This interface handles the communication between IBM WAS ND DM and other consumer charms. |
 | [websso-fid-service-provider](https://github.com/dshcherb/charm-interface-websso-fid-service-provider) | websso-fid-service-provider | An interface to connect a federated identity provider to OpenStack dashboard charm |
