@@ -91,6 +91,7 @@ List of Base Layers
 | [jenkins-workspace](https://github.com/juju-solutions/layer-jenkins-workspace) | Jenkins Workspace | Configure Jenkins with workspace snapshots |
 | [jenkins](https://github.com/jenkinsci/jenkins-charm.git) | jenkins | Juju charm to deploy and scale Jenkins  |
 | [juju-client](https://github.com/tengu-team/layer-juju-client.git) | juju-client | Layer for Charms which depend on Juju CLI being installed in active Model  |
+| [kubernetes-common](https://github.com/kubernetes/kubernetes.git) | Kubernetes common lib | Provides a common library for Kubernetes charms. |
 | [layer-debug](https://github.com/charms/layer-debug.git) | debug | Provides a troubleshooting debug action |
 | [leadership](https://git.launchpad.net/layer-leadership) | Leadership layer | Help reactive framework charms deal with Juju leadership |
 | [lets-encrypt](https://github.com/cmars/layer-lets-encrypt) | lets-encrypt | Automatic Let's Encrypt registration for Juju charms, just set the fqdn |
