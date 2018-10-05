@@ -139,6 +139,7 @@ List of Interface Layers
 | [apache-website](https://github.com/juju-solutions/interface-apache-website.git) | apache-website | Interface layer for the apache-website interface protocol |
 | [arangodb](https://github.com/tengu-team/interface-arangodb.git) | arangodb | Interface layer for ArangoDB |
 | [audit](https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface) | audit | Interface for use with the auditd charm |
+| [aws-elb](https://github.com/omnivector-solutions/interface-aws-elb) | AWS-ELB | AWS-ELB provides and requires interfaces. |
 | [aws-integration](https://github.com/juju-solutions/interface-aws-integration.git) | aws-integration | Interface layer for connecting to the AWS integration charm |
 | [azure-integration](https://github.com/juju-solutions/interface-azure-integration.git) | azure-integration | Interface layer for connecting to the Azure integration charm |
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
