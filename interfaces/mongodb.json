@@ -1,6 +1,6 @@
 {
   "id": "mongodb",
   "name": "mongodb",
-  "repo": "https://github.com/cloud-green/juju-relation-mongodb",
+  "repo": "https://github.com/adamisrael/juju-relation-mongodb",
   "summary": "relation to connect to a mongo database"
 }
