@@ -143,6 +143,7 @@ List of Interface Layers
 | [aws-integration](https://github.com/juju-solutions/interface-aws-integration.git) | aws-integration | Interface layer for connecting to the AWS integration charm |
 | [azure-integration](https://github.com/juju-solutions/interface-azure-integration.git) | azure-integration | Interface layer for connecting to the Azure integration charm |
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
+| [barbican-secrets](https://github.com/openstack-charmers/charm-interface-barbican-secrets.git) | barbican-secrets | Interface supporting the integration between Barbican and secrets storage plugins |
 | [basic-auth-check](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
 | [benchmark](https://github.com/juju-solutions/interface-benchmark.git) | benchmark | Interface layer for the benchmark protocol |
 | [bgp](https://github.com/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
@@ -177,6 +178,7 @@ List of Interface Layers
 | [etcd](https://github.com/juju-solutions/interface-etcd) | etcd | Interface for relating to etcd |
 | [flume-agent](https://github.com/juju-solutions/interface-flume-agent.git) | flume-agent | Interface layer for communication between Apache Flume charms |
 | [gcp-integration](https://github.com/juju-solutions/interface-gcp-integration.git) | gcp-integration | Interface layer for connecting to the GCP integration charm |
+| [generic-ip-port-user-pass](https://git.launchpad.net/generic-ip-port-user-pass-charm-interface) | generic-ip-port-user-pass | An interface for reactive charms needing to pass generic IP (or URL), port, username and password data |
 | [giraph](https://github.com/juju-solutions/interface-giraph) | giraph | This interface handles the communication between Apache Giraph and its clients |
 | [gluster-fuse](https://github.com/cholcombe973/juju-interface-gluster-fuse) | gluster-fuse | Distributed posix storage provided by GlusterFS |
 | [gluster-nfs](https://github.com/cholcombe973/juju-interface-gluster-client) | gluster-nfs | Scale out NFS provided by GlusterFS |
