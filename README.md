@@ -143,6 +143,7 @@ List of Interface Layers
 | [aws-integration](https://github.com/juju-solutions/interface-aws-integration.git) | aws-integration | Interface layer for connecting to the AWS integration charm |
 | [azure-integration](https://github.com/juju-solutions/interface-azure-integration.git) | azure-integration | Interface layer for connecting to the Azure integration charm |
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
+| [barbican-secrets](https://github.com/openstack-charmers/charm-interface-barbican-secrets.git) | barbican-secrets | Interface supporting the integration between Barbican and secrets storage plugins |
 | [basic-auth-check](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
 | [benchmark](https://github.com/juju-solutions/interface-benchmark.git) | benchmark | Interface layer for the benchmark protocol |
 | [bgp](https://github.com/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
@@ -233,6 +234,7 @@ List of Interface Layers
 | [mysql-shared](https://github.com/openstack/charm-interface-mysql-shared) | mysql-shared | MySQL Shared Database interface |
 | [mysql](https://github.com/johnsca/juju-relation-mysql.git) | mysql | Standard MySQL interface with generated, per-service databases |
 | [namenode-cluster](https://github.com/juju-solutions/interface-namenode-cluster.git) | namenode-cluster | Interface layer for running Apache Hadoop NameNode as HA |
+| [neutron-load-balancer](https://github.com/openstack-charmers/charm-interface-neutron-load-balancer.git) | neutron-load-balancer | Interface supporting the integration between Neutron and external Load Balancer services |
 | [neutron-plugin-api-subordinate](https://github.com/openstack/charm-interface-neutron-plugin-api-subordinate) | neutron-plugin-api-subordinate | This interface is used for a charm to send configuration information to the neutron-api principle charm and request a restart of a service managed by that charm. |
 | [neutron-plugin-zlmao](https://github.com/openstack/charm-interface-neutron-plugin) | neutron-plugin | Interface for intergrating Neutron SDN with the nova-compute charm |
 | [neutron-plugin](https://github.com/openstack/charm-interface-neutron-plugin) | neutron-plugin | Interface for intergrating Neutron SDN with the nova-compute charm |
