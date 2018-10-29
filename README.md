@@ -234,6 +234,7 @@ List of Interface Layers
 | [mysql-shared](https://github.com/openstack/charm-interface-mysql-shared) | mysql-shared | MySQL Shared Database interface |
 | [mysql](https://github.com/johnsca/juju-relation-mysql.git) | mysql | Standard MySQL interface with generated, per-service databases |
 | [namenode-cluster](https://github.com/juju-solutions/interface-namenode-cluster.git) | namenode-cluster | Interface layer for running Apache Hadoop NameNode as HA |
+| [neutron-load-balancer](https://github.com/openstack-charmers/charm-interface-neutron-load-balancer.git) | neutron-load-balancer | Interface supporting the integration between Neutron and external Load Balancer services |
 | [neutron-plugin-api-subordinate](https://github.com/openstack/charm-interface-neutron-plugin-api-subordinate) | neutron-plugin-api-subordinate | This interface is used for a charm to send configuration information to the neutron-api principle charm and request a restart of a service managed by that charm. |
 | [neutron-plugin-zlmao](https://github.com/openstack/charm-interface-neutron-plugin) | neutron-plugin | Interface for intergrating Neutron SDN with the nova-compute charm |
 | [neutron-plugin](https://github.com/openstack/charm-interface-neutron-plugin) | neutron-plugin | Interface for intergrating Neutron SDN with the nova-compute charm |
