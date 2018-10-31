@@ -170,6 +170,7 @@ List of Interface Layers
 | [dfs](https://github.com/juju-solutions/interface-dfs.git) | dfs | Interface layer for the hdfs interface protocol |
 | [dm-node](https://code.launchpad.net/~ibmcharmers/interface-ibm-dm-node/trunk) | dm-node | This interface handles the comunication between IBM WAS ND DM and IBM WAS ND Node charms |
 | [docker-image-host](https://github.com/tengu-team/interface-docker-image-host) | docker-image-host | Interface to send image to docker host |
+| [docker-registry](https://github.com/juju-solutions/interface-docker-registry.git) | docker-registry | Interface layer for connecting to the Docker Registry charm |
 | [dockerhost](https://github.com/juju-solutions/interface-dockerhost) | dockerhost | Docker connection information for a unit |
 | [druid-config](https://gitlab.com/spiculedata/juju/druid-config-relation) | Druid Configuration | Configuration layer for Spicule's Druid charms. |
 | [elastic-beats](https://github.com/juju-solutions/interface-elastic-beats) | elastic-beats | Interface for elastic beats |
