@@ -241,6 +241,8 @@ List of Interface Layers
 | [neutron-plugin](https://github.com/openstack/charm-interface-neutron-plugin) | neutron-plugin | Interface for intergrating Neutron SDN with the nova-compute charm |
 | [nfsstorage](https://launchpad.net/~ibmcharmers/interface-ibm-nfsstorage/trunk) | nfsstorage | This interface layer handles the communication between LSF/Spectrum Symphony Storage which is acting as a NFS Server and NFS Clients like Platform LSF Master, Spectrum Symphony Master. |
 | [nginx-stats](https://github.com/silph-io/interface-nginx-stats) | NGINX Stats | NGINX stats/status protocol |
+| [nova-cell](https://github.com/openstack-charmers/charm-interface-nova-cell.git) | nova-cell | Interface supporting the integration between Nova super conductor and nova cell |
+| [nova-compute](https://github.com/openstack-charmers/charm-interface-nova-compute.git) | nova-compute | Interface supporting the integration between Nova controller and compute nodes |
 | [nrpe-external-master](https://github.com/cmars/nrpe-external-master-interface) | nrpe-external-master | relation for registering nagios checks |
 | [odl-controller-api](https://github.com/openstack/charm-interface-odl-controller-api) | odl-controller-api | Interface for intergrating with an OpenDayLight Controller RESTful API |
 | [oozie](https://gitlab.com/spiculedata/juju/oozie-interface.git) | oozie | Connection for oozie to consumers |
