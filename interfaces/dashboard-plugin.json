@@ -1,0 +1,6 @@
+{
+  "id": "dashboard-plugin",
+  "name": "dashboard-plugin",
+  "repo": "https://github.com/openstack/charm-interface-dashboard-plugin.git",
+  "summary": "This interface is for use with OpenStack Dashboard plugin subordinate charms"
+}
