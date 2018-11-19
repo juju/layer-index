@@ -75,7 +75,7 @@ List of Base Layers
 | [elasticsearch-client](https://github.com/omnivector-solutions/layer-elasticsearch-client) | Elasticsearch Client | Elasticsearch client layer |
 | [elixir](https://github.com/battlemidget/juju-layer-elixir.git) | Elixir | Runtime layer for Elixir applications |
 | [flannel](https://github.com/juju-solutions/layer-flannel) | Flannel | Flannel Overlay Network layer for docker |
-| [flask](https://github.com/IBCNServices/layer-flask) | Flask | Layer to create Flask webservers running on nginx |
+| [flask](https://github.com/tengu-team/layer-flask) | Flask | Layer to create Flask webservers running on nginx |
 | [git-deploy](https://github.com/omnivector-solutions/layer-git-deploy.git) | Git Deploy | Layer to aid with deploying code from github |
 | [go-binary](https://github.com/cloud-green/go-binary-layer) | Go Binary Base Layer | Takes a statically compiled go binary and starts it as a service |
 | [hadoop-base](https://github.com/juju-solutions/layer-hadoop-base.git) | Hadoop Base | Base layer for a charm needing the Apache Hadoop libraries |
