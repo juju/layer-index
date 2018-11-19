@@ -1,6 +1,6 @@
 {
 	"id": "druid-config",
 	"name": "Druid Configuration",
-	"repo": "https://gitlab.com/spiculedata/juju/druid-config-relation",
+	"repo": "https://gitlab.com/spiculedata/juju/druid-config-relation.git",
 	"summary": "Configuration layer for Spicule's Druid charms."
 }
