@@ -1,0 +1,7 @@
+{
+  "id": "kubernetes-common",
+  "name": "Kubernetes common lib",
+  "repo": "https://github.com/juju-solutions/kubernetes.git",
+  "subdir": "cluster/juju/layers/kubernetes-common",
+  "summary": "Provides a common library for Kubernetes charms."
+}

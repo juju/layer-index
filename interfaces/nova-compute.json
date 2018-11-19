@@ -1,0 +1,6 @@
+{
+  "id": "nova-compute",
+  "name": "nova-compute",
+  "repo": "https://github.com/openstack-charmers/charm-interface-nova-compute.git",
+  "summary": "Interface supporting the integration between Nova controller and compute nodes"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "openstack-integration",
+  "name": "openstack-integration",
+  "repo": "https://github.com/juju-solutions/interface-openstack-integration.git",
+  "summary": "Interface layer for connecting to the OpenStack integrator charm"
+}

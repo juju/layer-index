@@ -1,0 +1,6 @@
+{
+  "id": "aws-elb",
+  "name": "AWS-ELB",
+  "repo": "https://github.com/omnivector-solutions/interface-aws-elb",
+  "summary": "AWS-ELB provides and requires interfaces."
+}

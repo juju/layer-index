@@ -1,6 +1,6 @@
 {
   "id": "keystone-admin",
   "name": "keystone-admin",
-  "repo": "https://git.launchpad.net/~canonical-is/charms/+source/interface-keystone-admin",
+  "repo": "https://github.com/openstack/charm-interface-keystone-admin",
   "summary": "keystone-admin:identity-admin interface to use shared admin API credentials"
 }

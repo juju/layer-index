@@ -1,0 +1,6 @@
+{
+	"id": "livy",
+	"name": "Apache Livy relation",
+	"repo": "https://gitlab.com/spiculedata/juju/livy-relation.git",
+	"summary": "Relation to connect a charm to Apache Livy."
+}

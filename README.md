@@ -69,6 +69,7 @@ List of Base Layers
 | [coordinator](https://git.launchpad.net/layer-coordinator ) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
 | [debug](https://github.com/juju-solutions/layer-debug.git) | debug | Provides a troubleshooting debug action |
 | [django](https://github.com/marcoceppi/layer-django.git) | Django | Django / GUNICORN |
+| [docker-resource](https://github.com/juju-solutions/layer-docker-resource.git) | Docker Resource Layer | Layer for managing charm resources of type 'docker' |
 | [docker](https://github.com/juju-solutions/layer-docker.git) | Docker | Layer to deliver and install Docker on Ubuntu, Debian, Centos hosts. |
 | [elastic-base](https://github.com/omnivector-solutions/layer-elastic-base.git) | Elastic-Base | Base layer for Elastic.co charms |
 | [elasticsearch-client](https://github.com/omnivector-solutions/layer-elasticsearch-client) | Elasticsearch Client | Elasticsearch client layer |
@@ -90,6 +91,7 @@ List of Base Layers
 | [jenkins-workspace](https://github.com/juju-solutions/layer-jenkins-workspace) | Jenkins Workspace | Configure Jenkins with workspace snapshots |
 | [jenkins](https://github.com/jenkinsci/jenkins-charm.git) | jenkins | Juju charm to deploy and scale Jenkins  |
 | [juju-client](https://github.com/tengu-team/layer-juju-client.git) | juju-client | Layer for Charms which depend on Juju CLI being installed in active Model  |
+| [kubernetes-common](https://github.com/juju-solutions/kubernetes.git) | Kubernetes common lib | Provides a common library for Kubernetes charms. |
 | [layer-debug](https://github.com/charms/layer-debug.git) | debug | Provides a troubleshooting debug action |
 | [leadership](https://git.launchpad.net/layer-leadership) | Leadership layer | Help reactive framework charms deal with Juju leadership |
 | [lets-encrypt](https://github.com/cmars/layer-lets-encrypt) | lets-encrypt | Automatic Let's Encrypt registration for Juju charms, just set the fqdn |
@@ -107,6 +109,7 @@ List of Base Layers
 | [openstack-api](https://github.com/openstack/charm-layer-openstack-api) | OpenStack API layer | OpenStack API layer |
 | [openstack-principle](https://github.com/openstack/charm-layer-openstack-principle) | OpenStack principle layer | OpenStack principle layer |
 | [openstack](https://github.com/openstack/charm-layer-openstack) | OpenStack base layer | OpenStack base layer |
+| [options](https://github.com/juju-solutions/layer-options.git) | options | Layer for reading options defined in layer.yaml |
 | [promreg-client](https://git.launchpad.net/~prometheus-registration-developers/prometheus-registration/+git/layer-promreg-client) | promreg-client | A layer to aid in registering a target with Prometheus Registration |
 | [puppet-agent](https://github.com/omnivector-solutions/layer-puppet-agent.git) | Puppet Agent | Puppet-agent layer - supports puppet 3 & 4. |
 | [puppet](https://github.com/juju-solutions/layer-puppet.git) | Puppet Layer (deprecated) | Puppet layer (deprecated; use puppet-agent) |
@@ -136,12 +139,16 @@ List of Interface Layers
 | [apache-website](https://github.com/juju-solutions/interface-apache-website.git) | apache-website | Interface layer for the apache-website interface protocol |
 | [arangodb](https://github.com/tengu-team/interface-arangodb.git) | arangodb | Interface layer for ArangoDB |
 | [audit](https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface) | audit | Interface for use with the auditd charm |
-| [aws](https://github.com/juju-solutions/interface-aws.git) | aws | Interface layer for connecting to the AWS integration charm |
+| [aws-elb](https://github.com/omnivector-solutions/interface-aws-elb) | AWS-ELB | AWS-ELB provides and requires interfaces. |
+| [aws-integration](https://github.com/juju-solutions/interface-aws-integration.git) | aws-integration | Interface layer for connecting to the AWS integration charm |
+| [azure-integration](https://github.com/juju-solutions/interface-azure-integration.git) | azure-integration | Interface layer for connecting to the Azure integration charm |
 | [barbican-hsm](https://github.com/openstack/charm-interface-barbican-hsm) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
+| [barbican-secrets](https://github.com/openstack-charmers/charm-interface-barbican-secrets.git) | barbican-secrets | Interface supporting the integration between Barbican and secrets storage plugins |
 | [basic-auth-check](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
 | [benchmark](https://github.com/juju-solutions/interface-benchmark.git) | benchmark | Interface layer for the benchmark protocol |
-| [bgp](https://git.openstack.org/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
+| [bgp](https://github.com/openstack/charm-interface-bgp.git) | bgp | Interface layer for exchanging BGP neighbour information between charms |
 | [bind-rndc](https://github.com/openstack/charm-interface-bind-rndc) | BIND RNDC interface | BIND RNDC interface |
+| [cassandra](https://git.launchpad.net/interface-cassandra) | cassandra | Cassandra database client interface |
 | [ceph-admin](https://github.com/cholcombe973/juju-interface-ceph-admin) | ceph-admin | The admin interface for ceph will provide the user with the ceph admin key |
 | [ceph-base](https://github.com/openstack/charm-layer-ceph-base) | Ceph Base Layer | Ceph base layer |
 | [ceph-client](https://github.com/openstack-charmers/charm-interface-ceph-client) | ceph-client | Ceph Client interface |
@@ -155,6 +162,7 @@ List of Interface Layers
 | [consul-agent](https://github.com/ChrisMacNaughton/juju-interface-consul.git) | consul-agent | Hashicorp Consul |
 | [consul](https://github.com/juju-solutions/interface-consul) | consul | Hashicorp Consul |
 | [cwr-ci](https://github.com/juju-solutions/interface-cwr-ci.git) | cwr-ci | Interface for relating to Cloud Weather Report (part of the Juju CI system) |
+| [dashboard-plugin](https://github.com/openstack-charmers/charm-interface-dashboard-plugin.git) | dashboard-plugin | This interface is for use with OpenStack Dashboard plugin subordinate charms |
 | [db-info](https://github.com/omnivector-solutions/interface-db-info) | DB Info | Ease the process of application <-> application database creds transference. |
 | [db2](https://launchpad.net/~ibmcharmers/interface-ibm-db2/trunk) | db2 | This interface layer handles the communication between  IBM DB2 and Consumer charms. |
 | [dbname](https://github.com/omnivector-solutions/interface-dbname.git) | DB Name | Interface to coordinate database name between applications. |
@@ -163,13 +171,15 @@ List of Interface Layers
 | [dfs](https://github.com/juju-solutions/interface-dfs.git) | dfs | Interface layer for the hdfs interface protocol |
 | [dm-node](https://code.launchpad.net/~ibmcharmers/interface-ibm-dm-node/trunk) | dm-node | This interface handles the comunication between IBM WAS ND DM and IBM WAS ND Node charms |
 | [docker-image-host](https://github.com/tengu-team/interface-docker-image-host) | docker-image-host | Interface to send image to docker host |
+| [docker-registry](https://github.com/juju-solutions/interface-docker-registry.git) | docker-registry | Interface layer for connecting to the Docker Registry charm |
 | [dockerhost](https://github.com/juju-solutions/interface-dockerhost) | dockerhost | Docker connection information for a unit |
+| [druid-config](https://gitlab.com/spiculedata/juju/druid-config-relation) | Druid Configuration | Configuration layer for Spicule's Druid charms. |
 | [elastic-beats](https://github.com/juju-solutions/interface-elastic-beats) | elastic-beats | Interface for elastic beats |
 | [elasticsearch](http://github.com/juju-solutions/interface-elasticsearch ) | elasticsearch | Interface to connect with elasticsearch. |
 | [etcd-proxy](https://github.com/juju-solutions/interface-etcd-proxy) | etcd-proxy | Do you need etcd as a read/readwrite proxy to a cluster? use this interface. |
 | [etcd](https://github.com/juju-solutions/interface-etcd) | etcd | Interface for relating to etcd |
 | [flume-agent](https://github.com/juju-solutions/interface-flume-agent.git) | flume-agent | Interface layer for communication between Apache Flume charms |
-| [gcp](https://github.com/juju-solutions/interface-gcp.git) | gcp | Interface layer for connecting to the GCP integration charm |
+| [gcp-integration](https://github.com/juju-solutions/interface-gcp-integration.git) | gcp-integration | Interface layer for connecting to the GCP integration charm |
 | [giraph](https://github.com/juju-solutions/interface-giraph) | giraph | This interface handles the communication between Apache Giraph and its clients |
 | [gluster-fuse](https://github.com/cholcombe973/juju-interface-gluster-fuse) | gluster-fuse | Distributed posix storage provided by GlusterFS |
 | [gluster-nfs](https://github.com/cholcombe973/juju-interface-gluster-client) | gluster-nfs | Scale out NFS provided by GlusterFS |
@@ -198,7 +208,7 @@ List of Interface Layers
 | [juju-info](https://github.com/juju-solutions/interface-juju-info.git) | juju-info | Implied interface for subordinates with special behavior. This is not a substitute for a proper relationship interface.  |
 | [kafka](https://github.com/juju-solutions/interface-kafka.git) | kafka | Interface layer for communication between Kafka and its clients |
 | [kapacitor](https://github.com/tengu-team/interface-kapacitor.git) | kapacitor | Interface layer for Kapacitor |
-| [keystone-admin](https://git.launchpad.net/~canonical-is/charms/+source/interface-keystone-admin) | keystone-admin | keystone-admin:identity-admin interface to use shared admin API credentials |
+| [keystone-admin](https://github.com/openstack/charm-interface-keystone-admin) | keystone-admin | keystone-admin:identity-admin interface to use shared admin API credentials |
 | [keystone-credentials](https://github.com/openstack/charm-interface-keystone-credentials) | keystone-credentials | keystone-credentials: Interface for integrating with Keystone identity credentials |
 | [keystone-domain-backend](https://github.com/openstack-charmers/charm-interface-keystone-domain-backend) | keystone-domain-backend | Interface for integration of subordinate charms providing domain specific identity backends |
 | [keystone-fid-service-provider](https://github.com/dshcherb/charm-interface-keystone-fid-service-provider) | keystone-fid-service-provider | An interface to connect a federated identity provider to the Keystone charm |
@@ -207,6 +217,7 @@ List of Interface Layers
 | [kube-dns](https://github.com/juju-solutions/interface-kube-dns.git) | kube-dns | Kubernetes DNS Details |
 | [kubernetes-cni](https://github.com/juju-solutions/interface-kubernetes-cni) | kubernetes-cni | Interface for relating various CNI implementations |
 | [limeds](https://github.com/tengu-team/interface-limeds) | limeds | Interface to connect to LimeDS |
+| [livy](https://gitlab.com/spiculedata/juju/livy-relation.git) | Apache Livy relation | Relation to connect a charm to Apache Livy. |
 | [local-monitors](https://github.com/cmars/local-monitors-interface) | local-monitors | relation for registering nagios checks |
 | [logstash-client](https://github.com/juju-solutions/interface-logstash-client) | logstash-client | Interface for connecting with logstash based systems. |
 | [mahout](https://github.com/juju-solutions/interface-mahout) | mahout | This interface layer handles the communication between Apache Mahout and its clients |
@@ -225,15 +236,19 @@ List of Interface Layers
 | [mysql-shared](https://github.com/openstack/charm-interface-mysql-shared) | mysql-shared | MySQL Shared Database interface |
 | [mysql](https://github.com/johnsca/juju-relation-mysql.git) | mysql | Standard MySQL interface with generated, per-service databases |
 | [namenode-cluster](https://github.com/juju-solutions/interface-namenode-cluster.git) | namenode-cluster | Interface layer for running Apache Hadoop NameNode as HA |
+| [neutron-load-balancer](https://github.com/openstack-charmers/charm-interface-neutron-load-balancer.git) | neutron-load-balancer | Interface supporting the integration between Neutron and external Load Balancer services |
 | [neutron-plugin-api-subordinate](https://github.com/openstack/charm-interface-neutron-plugin-api-subordinate) | neutron-plugin-api-subordinate | This interface is used for a charm to send configuration information to the neutron-api principle charm and request a restart of a service managed by that charm. |
 | [neutron-plugin-zlmao](https://github.com/openstack/charm-interface-neutron-plugin) | neutron-plugin | Interface for intergrating Neutron SDN with the nova-compute charm |
 | [neutron-plugin](https://github.com/openstack/charm-interface-neutron-plugin) | neutron-plugin | Interface for intergrating Neutron SDN with the nova-compute charm |
 | [nfsstorage](https://launchpad.net/~ibmcharmers/interface-ibm-nfsstorage/trunk) | nfsstorage | This interface layer handles the communication between LSF/Spectrum Symphony Storage which is acting as a NFS Server and NFS Clients like Platform LSF Master, Spectrum Symphony Master. |
 | [nginx-stats](https://github.com/silph-io/interface-nginx-stats) | NGINX Stats | NGINX stats/status protocol |
+| [nova-cell](https://github.com/openstack-charmers/charm-interface-nova-cell.git) | nova-cell | Interface supporting the integration between Nova super conductor and nova cell |
+| [nova-compute](https://github.com/openstack-charmers/charm-interface-nova-compute.git) | nova-compute | Interface supporting the integration between Nova controller and compute nodes |
 | [nrpe-external-master](https://github.com/cmars/nrpe-external-master-interface) | nrpe-external-master | relation for registering nagios checks |
 | [odl-controller-api](https://github.com/openstack/charm-interface-odl-controller-api) | odl-controller-api | Interface for intergrating with an OpenDayLight Controller RESTful API |
 | [oozie](https://gitlab.com/spiculedata/juju/oozie-interface.git) | oozie | Connection for oozie to consumers |
 | [openstack-ha](https://github.com/openstack/charm-interface-openstack-ha) | openstack-ha | Interface for managing information with peers in the same OpenStack service |
+| [openstack-integration](https://github.com/juju-solutions/interface-openstack-integration.git) | openstack-integration | Interface layer for connecting to the OpenStack integrator charm |
 | [opentsdb](https://github.com/tengu-team/interface-opentsdb.git) | opentsdb | Interface layer for OpenTSDB. |
 | [ovsdb-manager](https://github.com/openstack/charm-interface-ovsdb-manager) | ovsdb-manager | Interface for relating to the OVSDB manager aspect of OpenDayLight SDN |
 | [panko](https://github.com/openstack-charmers/charm-interface-panko) | panko | Panko Event Service interface |
@@ -258,6 +273,7 @@ List of Interface Layers
 | [tls](https://github.com/juju-solutions/interface-tls) | tls | The TLS interface provides a peering relationship to exchange certificates and CSR's. |
 | [vault-kv](https://github.com/openstack-charmers/charm-interface-vault-kv.git) | vault-kv | Interface layer for the vault-kv protocol |
 | [vault](https://github.com/ChrisMacNaughton/juju-interface-vault.git) | vault | Hashicorp Vault omterface |
+| [vsphere-integration](https://github.com/juju-solutions/interface-vsphere-integration.git) | vsphere-integration | Interface layer for connecting to the VMware vSphere integration charm |
 | [was-ihs](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-ihs/trunk) | was-ihs | This Interface handles the communication between IBM WAS Base/IBM WAS ND and IBM Http Server |
 | [was-nd](https://code.launchpad.net/~ibmcharmers/interface-ibm-was-nd/trunk) | was-nd | This interface handles the communication between IBM WAS ND DM and other consumer charms. |
 | [websso-fid-service-provider](https://github.com/dshcherb/charm-interface-websso-fid-service-provider) | websso-fid-service-provider | An interface to connect a federated identity provider to OpenStack dashboard charm |
