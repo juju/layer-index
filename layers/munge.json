@@ -1,0 +1,6 @@
+{
+  "id": "munge",
+  "name": "munge",
+  "repo": "https://github.com/omnivector-solutions/layer-munge",
+  "summary": "Reactive layer for Munge authentication service."
+}
