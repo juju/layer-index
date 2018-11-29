@@ -1,0 +1,6 @@
+{
+  "id": "vaultlocker",
+  "name": "VaultLocker layer",
+  "repo": "https://github.com/juju-solutions/layer-vaultlocker",
+  "summary": "Layer for managing secure disk storage locations using VaultLocker"
+}

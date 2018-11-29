@@ -126,6 +126,8 @@ List of Base Layers
 | [tls-client](https://github.com/juju-solutions/layer-tls-client.git) | tls-client | A layer to handle interface:tls-certificates requires side. |
 | [tls](https://github.com/juju-solutions/layer-tls) | tls | The tls charm layer creates certificates and keys for each peer unit of a charm. |
 | [uwsgi](https://github.com/marcoceppi/layer-uwsgi) | uWSGI | uWSGI layer |
+| [vault-kv](https://github.com/juju-solutions/layer-vault-kv) | Vault KV layer | Layer for using Vault as a secure KV store |
+| [vaultlocker](https://github.com/juju-solutions/layer-vaultlocker) | VaultLocker layer | Layer for managing secure disk storage locations using VaultLocker |
 | [vnfproxy](https://github.com/AdamIsrael/vnfproxy.git) | vnfproxy | A layer to ease development of "proxy" charms that operate against VNF images |
 
 <!-- /list-of-layers -->
