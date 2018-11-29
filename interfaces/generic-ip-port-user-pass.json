@@ -1,0 +1,6 @@
+{
+  "id": "generic-ip-port-user-pass",
+  "name": "generic-ip-port-user-pass",
+  "repo": "https://git.launchpad.net/generic-ip-port-user-pass-charm-interface",
+  "summary": "An interface for reactive charms needing to pass generic IP (or URL), port, username and password data"
+}

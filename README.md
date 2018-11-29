@@ -181,6 +181,7 @@ List of Interface Layers
 | [etcd](https://github.com/juju-solutions/interface-etcd) | etcd | Interface for relating to etcd |
 | [flume-agent](https://github.com/juju-solutions/interface-flume-agent.git) | flume-agent | Interface layer for communication between Apache Flume charms |
 | [gcp-integration](https://github.com/juju-solutions/interface-gcp-integration.git) | gcp-integration | Interface layer for connecting to the GCP integration charm |
+| [generic-ip-port-user-pass](https://git.launchpad.net/generic-ip-port-user-pass-charm-interface) | generic-ip-port-user-pass | An interface for reactive charms needing to pass generic IP (or URL), port, username and password data |
 | [giraph](https://github.com/juju-solutions/interface-giraph) | giraph | This interface handles the communication between Apache Giraph and its clients |
 | [gluster-fuse](https://github.com/cholcombe973/juju-interface-gluster-fuse) | gluster-fuse | Distributed posix storage provided by GlusterFS |
 | [gluster-nfs](https://github.com/cholcombe973/juju-interface-gluster-client) | gluster-nfs | Scale out NFS provided by GlusterFS |
