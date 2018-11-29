@@ -1,0 +1,6 @@
+{
+  "id": "slurm-dbd",
+  "name": "slurm-dbd",
+  "repo": "https://github.com/omnivector-solutions/interface-slurm-dbd",
+  "summary": "Interface layer for Slurm-DBD"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "slurm-dbd-ha",
+  "name": "slurm-dbd-ha",
+  "repo": "https://github.com/omnivector-solutions/interface-slurm-dbd-ha",
+  "summary": "Interface layer for Slurm-DBD-HA"
+}

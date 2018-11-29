@@ -98,6 +98,7 @@ List of Base Layers
 | [lxd-proxy](https://github.com/omnivector-solutions/layer-lxd-proxy) | LXD Proxy | iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju |
 | [memcache-client](https://github.com/omnivector-solutions/layer-memcache-client) | Memcache Client | Client layer for Memcache |
 | [metrics](https://github.com/CanonicalLtd/layer-metrics) | Metrics Layer | Reactive charm layer supporting Juju metrics collection |
+| [munge](https://github.com/omnivector-solutions/layer-munge) | munge | Reactive layer for Munge authentication service. |
 | [munin](https://github.com/freyes/layer-munin) | munin | munin server |
 | [nagios](https://git.launchpad.net/nagios-layer) | Nagios Layer | Provide boilerplate required to relate services to the cs:nrpe subordinate |
 | [nginx-passenger](https://github.com/omnivector-solutions/layer-nginx-passenger) | Nginx Passenger | Reactive layer for nginx-passenger |
@@ -162,7 +163,7 @@ List of Interface Layers
 | [consul-agent](https://github.com/ChrisMacNaughton/juju-interface-consul.git) | consul-agent | Hashicorp Consul |
 | [consul](https://github.com/juju-solutions/interface-consul) | consul | Hashicorp Consul |
 | [cwr-ci](https://github.com/juju-solutions/interface-cwr-ci.git) | cwr-ci | Interface for relating to Cloud Weather Report (part of the Juju CI system) |
-| [dashboard-plugin](https://github.com/openstack-charmers/charm-interface-dashboard-plugin.git) | dashboard-plugin | This interface is for use with OpenStack Dashboard plugin subordinate charms |
+| [dashboard-plugin](https://github.com/openstack/charm-interface-dashboard-plugin.git) | dashboard-plugin | This interface is for use with OpenStack Dashboard plugin subordinate charms |
 | [db-info](https://github.com/omnivector-solutions/interface-db-info) | DB Info | Ease the process of application <-> application database creds transference. |
 | [db2](https://launchpad.net/~ibmcharmers/interface-ibm-db2/trunk) | db2 | This interface layer handles the communication between  IBM DB2 and Consumer charms. |
 | [dbname](https://github.com/omnivector-solutions/interface-dbname.git) | DB Name | Interface to coordinate database name between applications. |
@@ -230,6 +231,7 @@ List of Interface Layers
 | [mongodb](https://github.com/cloud-green/juju-relation-mongodb) | mongodb | relation to connect to a mongo database |
 | [monitor](https://github.com/juju-solutions/interface-monitor.git) | monitor | This interface layer for monitor protocol |
 | [mount](https://github.com/juju-solutions/interface-mount.git) | mount | Interface layer for connecting mounts to a charm such as NFS |
+| [munge-auth](https://github.com/omnivector-solutions/interface-munge-auth) | munge-auth | Interface layer for Munge Auth |
 | [munin-node](https://github.com/freyes/interface-munin-node) | munin-node | munin-node relation |
 | [munin](https://github.com/freyes/interface-munin) | munin | munin relation |
 | [mysql-root](https://github.com/juju-solutions/interface-mysql-root.git) | mysql-root | Administrative MySQL interface with admin access granted to connected applications |
@@ -264,6 +266,9 @@ List of Interface Layers
 | [sdn-plugin](https://github.com/juju-solutions/interface-sdn-plugin) | sdn-plugin | An abstraction of common configurations for SDN providers, to be consumed by charms |
 | [service-control](https://github.com/openstack/charm-interface-service-control) | service-control | This interface is used for a charm to request a restart of a service managed by another charm. |
 | [slurm-cluster](https://github.com/omnivector-solutions/interface-slurm-cluster) | slurm-cluster | Interface layer for Slurm |
+| [slurm-controller-ha](https://github.com/omnivector-solutions/interface-controller-ha) | slurm-controller-ha | Interface layer for Slurm-Controller-HA |
+| [slurm-dbd-ha](https://github.com/omnivector-solutions/interface-slurm-dbd-ha) | slurm-dbd-ha | Interface layer for Slurm-DBD-HA |
+| [slurm-dbd](https://github.com/omnivector-solutions/interface-slurm-dbd) | slurm-dbd | Interface layer for Slurm-DBD |
 | [solr](https://github.com/buggtb/interface-solr) | solr | Solr Charm Interface |
 | [spark-quorum](https://github.com/juju-solutions/interface-spark-quorum.git) | spark quorum | This interface layer handles the communication among Apache Spark peers |
 | [spark](https://github.com/juju-solutions/interface-spark.git) | spark | Interface layer for the spark interface protocol |
