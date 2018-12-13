@@ -269,7 +269,7 @@ List of Interface Layers
 | [sdn-plugin](https://github.com/juju-solutions/interface-sdn-plugin) | sdn-plugin | An abstraction of common configurations for SDN providers, to be consumed by charms |
 | [service-control](https://github.com/openstack/charm-interface-service-control) | service-control | This interface is used for a charm to request a restart of a service managed by another charm. |
 | [slurm-cluster](https://github.com/omnivector-solutions/interface-slurm-cluster) | slurm-cluster | Interface layer for Slurm |
-| [slurm-controller-ha](https://github.com/omnivector-solutions/interface-controller-ha) | slurm-controller-ha | Interface layer for Slurm-Controller-HA |
+| [slurm-controller-ha](https://github.com/omnivector-solutions/interface-slurm-controller-ha) | slurm-controller-ha | Interface layer for Slurm-Controller-HA |
 | [slurm-dbd-ha](https://github.com/omnivector-solutions/interface-slurm-dbd-ha) | slurm-dbd-ha | Interface layer for Slurm-DBD-HA |
 | [slurm-dbd](https://github.com/omnivector-solutions/interface-slurm-dbd) | slurm-dbd | Interface layer for Slurm-DBD |
 | [solr](https://github.com/buggtb/interface-solr) | solr | Solr Charm Interface |
