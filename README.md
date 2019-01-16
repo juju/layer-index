@@ -52,7 +52,7 @@ List of Base Layers
 | [apache-hadoop-slave](https://github.com/juju-solutions/layer-apache-hadoop-slave.git) | apache-hadoop-slave | Combined slave node (DataNode + NodeManager) for Apache Hadoop |
 | [apache-php](https://github.com/juju-solutions/layer-apache-php.git) | Apache PHP base layer | Configurable base for Apache PHP charms |
 | [apache-wsgi](https://git.launchpad.net/~jacekn/charms/+source/apache-wsgi) | Apache WSGI base layer | Configurable base for Apache WSGI charms |
-| [apt](https://git.launchpad.net/layer-apt) | Apt layer | Easily deal with apt sources and deb packages |
+| [apt](https://github.com/stub42/layer-apt) | Apt layer | Easily deal with apt sources and deb packages |
 | [barbican-client](https://github.com/omnivector-solutions/layer-barbican-client) | Barbican Client | Reactive layer to help pull secrets from barbican |
 | [basic](https://github.com/juju-solutions/layer-basic.git) | Basic Layer | Base layer for charms with the Reactive framework |
 | [beats-base](https://github.com/juju-solutions/layer-beats-base) | Beats Base | Base layer for Elastic Beats |
