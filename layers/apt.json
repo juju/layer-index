@@ -1,6 +1,6 @@
 {
   "id": "apt",
   "name": "Apt layer",
-  "repo": "https://git.launchpad.net/layer-apt",
+  "repo": "https://github.com/stub42/layer-apt",
   "summary": "Easily deal with apt sources and deb packages"
 }
