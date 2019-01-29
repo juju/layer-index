@@ -164,6 +164,7 @@ List of Interface Layers
 | ceph-radosgw | [Repo](https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw#readme) | ceph-radosgw | Ceph RadosGW interface |
 | ceph | [Repo](https://github.com/ChrisMacNaughton/juju-interface-ceph) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-ceph#readme) | ceph | ceph mon peer interface |
 | charms-ci | [Repo](https://github.com/juju-solutions/interface-charms-ci.git) | [Docs](https://github.com/juju-solutions/interface-charms-ci.git#readme) | charms-ci | Juju charms CI interface |
+| cinder-backend | [Repo](https://github.com/openstack/charm-interface-cinder-backend.git) | [Docs](https://github.com/openstack/charm-interface-cinder-backend/blob/master/README.md) | cinder-backend | Cinder Storage subordinate interface |
 | conda | [Repo](https://github.com/omnivector-solutions/interface-conda) | [Docs](https://github.com/omnivector-solutions/interface-conda#readme) | Conda | Conda provides and requires interfaces |
 | conn-check | [Repo](https://git.launchpad.net/~ubuntuone-hackers/conn-check/+git/interface-conn-check) | [Docs](https://git.launchpad.net/~ubuntuone-hackers/conn-check/+git/tree/README.md) | conn-check | conn-check interface |
 | consul-agent | [Repo](https://github.com/ChrisMacNaughton/juju-interface-consul.git) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-consul.git#readme) | consul-agent | Hashicorp Consul |
