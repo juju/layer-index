@@ -96,6 +96,7 @@ List of Base Layers
 | jenkins | [Repo](https://github.com/jenkinsci/jenkins-charm.git) | [Docs](https://github.com/jenkinsci/jenkins-charm.git#readme) | jenkins | Juju charm to deploy and scale Jenkins  |
 | juju-client | [Repo](https://github.com/tengu-team/layer-juju-client.git) | [Docs](https://github.com/tengu-team/layer-juju-client.git#readme) | juju-client | Layer for Charms which depend on Juju CLI being installed in active Model  |
 | kubernetes-common | [Repo](https://github.com/juju-solutions/kubernetes.git) | [Docs](https://github.com/juju-solutions/kubernetes.git#readme) | Kubernetes common lib | Provides a common library for Kubernetes charms. |
+| kubernetes-master-worker-base | [Repo](https://github.com/juju-solutions/kubernetes.git) | [Docs](https://github.com/juju-solutions/kubernetes/blob/master/cluster/juju/layers/kubernetes-master-worker-base/README.md) | kubernetes-master-worker-base | Base layer for kubernetes-master and kubernetes-worker. |
 | layer-debug | [Repo](https://github.com/charms/layer-debug.git) | [Docs](https://github.com/charms/layer-debug.git#readme) | debug | Provides a troubleshooting debug action |
 | leadership | [Repo](https://git.launchpad.net/layer-leadership) | [Docs](https://git.launchpad.net/tree/README.md) | Leadership layer | Help reactive framework charms deal with Juju leadership |
 | lets-encrypt | [Repo](https://github.com/cmars/layer-lets-encrypt) | [Docs](https://github.com/cmars/layer-lets-encrypt#readme) | lets-encrypt | Automatic Let's Encrypt registration for Juju charms, just set the fqdn |
