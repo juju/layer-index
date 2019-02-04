@@ -1,6 +1,6 @@
 {
   "id": "neutron-load-balancer",
   "name": "neutron-load-balancer",
-  "repo": "https://github.com/openstack-charmers/charm-interface-neutron-load-balancer.git",
+  "repo": "https://github.com/openstack/charm-interface-neutron-load-balancer.git",
   "summary": "Interface supporting the integration between Neutron and external Load Balancer services"
 }
