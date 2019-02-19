@@ -1,6 +1,6 @@
 {
   "id": "designate",
   "name": "designate",
-  "repo": "https://github.com/openstack-charmers/charm-interface-designate",
+  "repo": "https://github.com/openstack/charm-interface-designate",
   "summary": "Designate DNS as a Service interface"
 }

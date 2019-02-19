@@ -1,6 +1,6 @@
 {
   "id": "keystone-domain-backend",
   "name": "keystone-domain-backend",
-  "repo": "https://github.com/openstack-charmers/charm-interface-keystone-domain-backend",
+  "repo": "https://github.com/openstack/charm-interface-keystone-domain-backend",
   "summary": "Interface for integration of subordinate charms providing domain specific identity backends"
 }
