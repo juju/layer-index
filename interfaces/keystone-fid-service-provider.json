@@ -1,6 +1,6 @@
 {
   "id": "keystone-fid-service-provider",
   "name": "keystone-fid-service-provider",
-  "repo": "https://github.com/dshcherb/charm-interface-keystone-fid-service-provider",
+  "repo": "https://github.com/openstack-charmers/charm-interface-keystone-fid-service-provider",
   "summary": "An interface to connect a federated identity provider to the Keystone charm"
 }
