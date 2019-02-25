@@ -67,6 +67,7 @@ List of Base Layers
 | ceph-base | [Repo](https://github.com/ChrisMacNaughton/layer-ceph-base) | [Docs](https://github.com/ChrisMacNaughton/layer-ceph-base#readme) | EXPERIMENTAL Ceph Base Layer | EXPERIMENTAL Ceph base layer |
 | ceph-basic | [Repo](https://github.com/ChrisMacNaughton/layer-ceph-basic) | [Docs](https://github.com/ChrisMacNaughton/layer-ceph-basic#readme) | EXPERIMENTAL ceph-basic | EXPERIMENTAL ceph-basic layer |
 | ceph-mon | [Repo](https://github.com/ChrisMacNaughton/juju-layer-ceph-mon) | [Docs](https://github.com/ChrisMacNaughton/juju-layer-ceph-mon#readme) | EXPERIMENTAL Ceph Mon layer | EXPERIMENTAL Ceph Mon layer |
+| ceph | [Repo](https://github.com/openstack/charm-layer-ceph.git) | [Docs](https://github.com/openstack/charm-layer-ceph.git#readme) | Ceph Layer | Ceph base layer |
 | charmscaler-base | [Repo](https://github.com/elastisys/layer-charmscaler-base) | [Docs](https://github.com/elastisys/layer-charmscaler-base#readme) | Charmscaler Base | Charmscaler base layer |
 | conda-api | [Repo](https://github.com/omnivector-solutions/layer-conda-api) | [Docs](https://github.com/omnivector-solutions/layer-conda-api#readme) | Conda API | Conda API layer |
 | consul-base | [Repo](https://github.com/omnivector-solutions/layer-consul-base) | [Docs](https://github.com/omnivector-solutions/layer-consul-base#readme) | Consul Base | Reactive base layer for consul |
@@ -164,6 +165,7 @@ List of Interface Layers
 | ceph-mds | [Repo](https://github.com/openstack/charm-interface-ceph-mds) | [Docs](https://github.com/openstack/charm-interface-ceph-mds#readme) | ceph-mds | CephFS interface to the MDS relation on ceph-mon |
 | ceph-osd | [Repo](https://github.com/ChrisMacNaughton/juju-interface-ceph-osd) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-ceph-osd#readme) | ceph-osd | ceph osd relation |
 | ceph-radosgw | [Repo](https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw#readme) | ceph-radosgw | Ceph RadosGW interface |
+| ceph-rbd-mirror | [Repo](https://github.com/openstack/charm-interface-ceph-rbd-mirror.git) | [Docs](https://github.com/openstack/charm-interface-ceph-rbd-mirror.git#readme) | ceph-rbd-mirror | Ceph RBD Mirror interface |
 | ceph | [Repo](https://github.com/ChrisMacNaughton/juju-interface-ceph) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-ceph#readme) | ceph | ceph mon peer interface |
 | charms-ci | [Repo](https://github.com/juju-solutions/interface-charms-ci.git) | [Docs](https://github.com/juju-solutions/interface-charms-ci.git#readme) | charms-ci | Juju charms CI interface |
 | cinder-backend | [Repo](https://github.com/openstack/charm-interface-cinder-backend.git) | [Docs](https://github.com/openstack/charm-interface-cinder-backend.git#readme) | cinder-backend | Interface for sending Cinder subordinate backend configuration to principle Cinder charms. |

@@ -1,0 +1,6 @@
+{
+  "id": "ceph",
+  "name": "Ceph Layer",
+  "repo": "https://github.com/openstack/charm-layer-ceph.git",
+  "summary": "Ceph base layer"
+}
