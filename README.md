@@ -82,6 +82,7 @@ List of Base Layers
 | flask | [Repo](https://github.com/tengu-team/layer-flask) | [Docs](https://github.com/tengu-team/layer-flask#readme) | Flask | Layer to create Flask webservers running on nginx |
 | git-deploy | [Repo](https://github.com/omnivector-solutions/layer-git-deploy.git) | [Docs](https://github.com/omnivector-solutions/layer-git-deploy.git#readme) | Git Deploy | Layer to aid with deploying code from github |
 | go-binary | [Repo](https://github.com/cloud-green/go-binary-layer) | [Docs](https://github.com/cloud-green/go-binary-layer#readme) | Go Binary Base Layer | Takes a statically compiled go binary and starts it as a service |
+| hacluster | [Repo](https://github.com/juju-solutions/layer-hacluster.git) | [Docs](https://github.com/juju-solutions/layer-hacluster.git#readme) | Hacluster | Layer that provides hacluster for high availability |
 | hadoop-base | [Repo](https://github.com/juju-solutions/layer-hadoop-base.git) | [Docs](https://github.com/juju-solutions/layer-hadoop-base.git#readme) | Hadoop Base | Base layer for a charm needing the Apache Hadoop libraries |
 | hadoop-client | [Repo](https://github.com/juju-solutions/layer-hadoop-client.git) | [Docs](https://github.com/juju-solutions/layer-hadoop-client.git#readme) | hadoop-client | Base and charm layer for Hadoop clients |
 | hadoop-datanode | [Repo](https://github.com/juju-solutions/layer-hadoop-datanode) | [Docs](https://github.com/juju-solutions/layer-hadoop-datanode#readme) | hadoop-datanode | Base layer for DataNode from Apache BigTop |
