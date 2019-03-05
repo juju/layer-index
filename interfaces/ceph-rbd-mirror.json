@@ -1,0 +1,6 @@
+{
+  "id": "ceph-rbd-mirror",
+  "name": "ceph-rbd-mirror",
+  "repo": "https://github.com/openstack/charm-interface-ceph-rbd-mirror.git",
+  "summary": "Ceph RBD Mirror interface"
+}
