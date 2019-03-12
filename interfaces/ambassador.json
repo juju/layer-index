@@ -1,0 +1,6 @@
+{
+  "id": "ambassador",
+  "name": "ambassador",
+  "repo": "https://github.com/juju-solutions/interface-ambassador.git",
+  "summary": "Interface layer for the Ambassador API Gateway"
+}

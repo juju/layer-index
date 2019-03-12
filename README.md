@@ -146,6 +146,7 @@ List of Interface Layers
 
 | ID | Repo | Docs | Name | Summary |
 | --- | --- | --- | --- | --- |
+| ambassador | [Repo](https://github.com/juju-solutions/interface-ambassador.git) | [Docs](https://github.com/juju-solutions/interface-ambassador.git#readme) | ambassador | Interface layer for the Ambassador API Gateway |
 | apache-website | [Repo](https://github.com/juju-solutions/interface-apache-website.git) | [Docs](https://github.com/juju-solutions/interface-apache-website.git#readme) | apache-website | Interface layer for the apache-website interface protocol |
 | arangodb | [Repo](https://github.com/tengu-team/interface-arangodb.git) | [Docs](https://github.com/tengu-team/interface-arangodb.git#readme) | arangodb | Interface layer for ArangoDB |
 | audit | [Repo](https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface) | [Docs](https://bazaar.launchpad.net/~timkuhlman/charm-layer-auditd/files/README.md) | audit | Interface for use with the auditd charm |
