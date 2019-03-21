@@ -1,0 +1,6 @@
+{
+  "id": "infoblox",
+  "name": "infoblox",
+  "repo": "https://github.com/openstack-charmers/interface-infoblox.git",
+  "summary": "Interface layer between infoblox and neutron-api"
+}
