@@ -1,6 +1,6 @@
 {
   "id": "nagios",
   "name": "Nagios Layer",
-  "repo": "https://github.com/charmed-kubernetes/nagios-layer",
+  "repo": "https://github.com/charmed-kubernetes/layer-nagios",
   "summary": "Provide boilerplate required to relate services to the cs:nrpe subordinate"
 }
