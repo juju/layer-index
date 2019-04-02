@@ -1,8 +1,6 @@
 {
   "id": "kubernetes-master-worker-base",
   "name": "kubernetes-master-worker-base",
-  "repo": "https://github.com/juju-solutions/kubernetes.git",
-  "subdir": "cluster/juju/layers/kubernetes-master-worker-base",
+  "repo": "https://github.com/charmed-kubernetes/layer-kubernetes-master-worker-base",
   "summary": "Base layer for kubernetes-master and kubernetes-worker.",
-  "docs": "https://github.com/juju-solutions/kubernetes/blob/master/cluster/juju/layers/kubernetes-master-worker-base/README.md"
 }
