@@ -1,6 +1,6 @@
 {
   "id": "vault-kv",
   "name": "Vault KV layer",
-  "repo": "https://github.com/juju-solutions/layer-vault-kv",
+  "repo": "https://github.com/charmed-kubernetes/layer-vault-kv",
   "summary": "Layer for using Vault as a secure KV store"
 }

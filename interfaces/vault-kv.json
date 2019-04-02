@@ -1,6 +1,6 @@
 {
   "id": "vault-kv",
   "name": "vault-kv",
-  "repo": "https://github.com/openstack-charmers/charm-interface-vault-kv.git",
+  "repo": "https://github.com/charmed-kubernetes/charm-interface-vault-kv.git",
   "summary": "Interface layer for the vault-kv protocol"
 }

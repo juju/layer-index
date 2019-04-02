@@ -1,6 +1,6 @@
 {
   "id": "tls-client",
   "name": "tls-client",
-  "repo": "https://github.com/juju-solutions/layer-tls-client.git",
+  "repo": "https://github.com/charmed-kubernetes/layer-tls-client.git",
   "summary": "A layer to handle interface:tls-certificates requires side."
 }

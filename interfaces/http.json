@@ -1,6 +1,6 @@
 {
   "id": "http",
   "name": "http",
-  "repo": "https://github.com/juju-solutions/interface-http.git",
+  "repo": "https://github.com/charmed-kubernetes/interface-http.git",
   "summary": "HTTP Relation Stub"
 }

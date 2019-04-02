@@ -1,6 +1,6 @@
 {
   "id": "etcd",
   "name": "etcd",
-  "repo": "https://github.com/juju-solutions/interface-etcd",
+  "repo": "https://github.com/charmed-kubernetes/interface-etcd",
   "summary": "Interface for relating to etcd"
 }

@@ -1,6 +1,6 @@
 {
   "id": "tls-certificates",
   "name": "tls-certificates",
-  "repo": "https://github.com/juju-solutions/interface-tls-certificates",
+  "repo": "https://github.com/charmed-kubernetes/interface-tls-certificates",
   "summary": "An interface for exchanging tls certificates using provides and requres relations."
 }
