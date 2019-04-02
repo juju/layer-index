@@ -1,6 +1,6 @@
 {
   "id": "status",
   "name": "Status management layer",
-  "repo": "https://github.com/juju-solutions/layer-status",
+  "repo": "https://github.com/charmed-kubernetes/layer-status",
   "summary": "Manage workload status in reactive charms"
 }

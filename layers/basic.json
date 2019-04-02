@@ -1,6 +1,6 @@
 {
   "id": "basic",
   "name": "Basic Layer",
-  "repo": "https://github.com/juju-solutions/layer-basic.git",
+  "repo": "https://github.com/charmed-kubernetes/layer-basic.git",
   "summary": "Base layer for charms with the Reactive framework"
 }

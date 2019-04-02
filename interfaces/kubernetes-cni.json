@@ -1,6 +1,6 @@
 {
   "id": "kubernetes-cni",
   "name": "kubernetes-cni",
-  "repo": "https://github.com/juju-solutions/interface-kubernetes-cni",
+  "repo": "https://github.com/charmed-kubernetes/interface-kubernetes-cni",
   "summary": "Interface for relating various CNI implementations"
 }

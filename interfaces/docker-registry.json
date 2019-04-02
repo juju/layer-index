@@ -1,6 +1,6 @@
 {
   "id": "docker-registry",
   "name": "docker-registry",
-  "repo": "https://github.com/juju-solutions/interface-docker-registry.git",
+  "repo": "https://github.com/charmed-kubernetes/interface-docker-registry.git",
   "summary": "Interface layer for connecting to the Docker Registry charm"
 }

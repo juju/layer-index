@@ -1,6 +1,6 @@
 {
   "id": "azure-integration",
   "name": "azure-integration",
-  "repo": "https://github.com/juju-solutions/interface-azure-integration.git",
+  "repo": "https://github.com/charmed-kubernetes/interface-azure-integration.git",
   "summary": "Interface layer for connecting to the Azure integration charm"
 }

@@ -1,6 +1,6 @@
 {
   "id": "hacluster",
   "name": "Hacluster",
-  "repo": "https://github.com/juju-solutions/layer-hacluster.git",
+  "repo": "https://github.com/charmed-kubernetes/layer-hacluster.git",
   "summary": "Layer that provides hacluster for high availability"
 }

@@ -1,6 +1,6 @@
 {
   "id": "nginx",
   "name": "NGINX",
-  "repo": "https://github.com/battlemidget/juju-layer-nginx.git",
+  "repo": "https://github.com/charmed-kubernetes/juju-layer-nginx.git",
   "summary": "NGINX layer for deploying web applications"
 }

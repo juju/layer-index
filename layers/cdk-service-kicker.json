@@ -1,6 +1,6 @@
 {
   "id": "cdk-service-kicker",
   "name": "CDK Service Kicker",
-  "repo": "https://github.com/juju-solutions/layer-cdk-service-kicker.git",
+  "repo": "https://github.com/charmed-kubernetes/layer-cdk-service-kicker.git",
   "summary": "Installs a background service, cdk-service-kicker, for kicking cdk services."
 }

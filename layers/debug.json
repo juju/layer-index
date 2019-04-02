@@ -1,6 +1,6 @@
 {
   "id": "debug",
   "name": "debug",
-  "repo": "https://github.com/juju-solutions/layer-debug.git",
+  "repo": "https://github.com/charmed-kubernetes/layer-debug.git",
   "summary": "Provides a troubleshooting debug action"
 }

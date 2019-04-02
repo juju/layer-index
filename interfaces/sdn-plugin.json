@@ -1,6 +1,6 @@
 {
   "id": "sdn-plugin",
   "name": "sdn-plugin",
-  "repo": "https://github.com/juju-solutions/interface-sdn-plugin",
+  "repo": "https://github.com/charmed-kubernetes/interface-sdn-plugin",
   "summary": "An abstraction of common configurations for SDN providers, to be consumed by charms"
 }

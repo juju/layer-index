@@ -1,6 +1,6 @@
 {
   "id": "mount",
   "name": "mount",
-  "repo": "https://github.com/juju-solutions/interface-mount.git",
+  "repo": "https://github.com/charmed-kubernetes/interface-mount.git",
   "summary": "Interface layer for connecting mounts to a charm such as NFS"
 }
