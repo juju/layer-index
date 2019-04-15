@@ -1,0 +1,6 @@
+{
+  "id": "slurm-controller-ha",
+  "name": "slurm-controller-ha",
+  "repo": "https://github.com/omnivector-solutions/interface-slurm-controller-ha",
+  "summary": "Interface layer for Slurm-Controller-HA"
+}

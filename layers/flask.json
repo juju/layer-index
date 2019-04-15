@@ -1,6 +1,6 @@
 {
   "id": "flask",
   "name": "Flask",
-  "repo": "https://github.com/IBCNServices/layer-flask",
+  "repo": "https://github.com/tengu-team/layer-flask",
   "summary": "Layer to create Flask webservers running on nginx"
 }

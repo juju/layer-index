@@ -1,0 +1,6 @@
+{
+  "id": "cinder-backend",
+  "name": "cinder-backend",
+  "repo": "https://github.com/openstack/charm-interface-cinder-backend.git",
+  "summary": "Interface for sending Cinder subordinate backend configuration to principle Cinder charms."
+}

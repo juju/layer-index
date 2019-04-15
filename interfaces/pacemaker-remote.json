@@ -1,0 +1,6 @@
+{
+  "id": "pacemaker-remote",
+  "name": "pacemaker-remote",
+  "repo": "https://github.com/openstack/charm-interface-pacemaker-remote.git",
+  "summary": "Interface for registering a pacemaker remote node with a cluster."
+}

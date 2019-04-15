@@ -1,0 +1,6 @@
+{
+  "id": "nova-cell",
+  "name": "nova-cell",
+  "repo": "https://github.com/openstack/charm-interface-nova-cell.git",
+  "summary": "Interface supporting the integration between Nova super conductor and nova cell"
+}
