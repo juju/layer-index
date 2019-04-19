@@ -2,5 +2,6 @@
   "id": "pgsql",
   "name": "pgsql",
   "repo": "https://git.launchpad.net/interface-pgsql",
+  "docs": "https://interface-pgsql.readthedocs.io/en/stable/",
   "summary": "Postgresql database client interface"
 }
