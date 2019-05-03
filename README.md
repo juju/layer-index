@@ -136,6 +136,7 @@ List of Base Layers
 | uwsgi | [Repo](https://github.com/marcoceppi/layer-uwsgi) | [Docs](https://github.com/marcoceppi/layer-uwsgi#readme) | uWSGI | uWSGI layer |
 | vault-kv | [Repo](https://github.com/juju-solutions/layer-vault-kv) | [Docs](https://github.com/juju-solutions/layer-vault-kv#readme) | Vault KV layer | Layer for using Vault as a secure KV store |
 | vaultlocker | [Repo](https://github.com/juju-solutions/layer-vaultlocker) | [Docs](https://github.com/juju-solutions/layer-vaultlocker#readme) | VaultLocker layer | Layer for managing secure disk storage locations using VaultLocker |
+| venv | [Repo](https://github.com/omnivector-solutions/layer-venv.git) | [Docs](https://github.com/omnivector-solutions/layer-venv.git#readme) | venv | Layer for installing pip packages in a python3 venv |
 | vnfproxy | [Repo](https://github.com/AdamIsrael/vnfproxy.git) | [Docs](https://github.com/AdamIsrael/vnfproxy.git#readme) | vnfproxy | A layer to ease development of "proxy" charms that operate against VNF images |
 
 <!-- /list-of-layers -->

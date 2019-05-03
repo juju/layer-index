@@ -1,0 +1,6 @@
+{
+  "id": "venv",
+  "name": "venv",
+  "repo": "https://github.com/omnivector-solutions/layer-venv.git",
+  "summary": "Layer for installing pip packages in a python3 venv"
+}
