@@ -1,6 +1,6 @@
 {
   "id": "ceph-client",
   "name": "ceph-client",
-  "repo": "https://github.com/openstack/charm-interface-ceph-client",
+  "repo": "https://github.com/charmed-kubernetes/charm-interface-ceph-client",
   "summary": "Ceph Client interface"
 }
