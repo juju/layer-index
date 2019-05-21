@@ -1,6 +1,6 @@
 {
   "id": "websso-fid-service-provider",
   "name": "websso-fid-service-provider",
-  "repo": "https://github.com/openstack-charmers/charm-interface-websso-fid-service-provider",
+  "repo": "https://github.com/openstack/charm-interface-websso-fid-service-provider",
   "summary": "An interface to connect a federated identity provider to OpenStack dashboard charm"
 }
