@@ -1,0 +1,6 @@
+{
+  "id": "container-runtime-common",
+  "name": "Container Runtime Common",
+  "repo": "https://github.com/charmed-kubernetes/layer-container-runtime-common.git",
+  "summary": "Shared between container runtimes"
+}

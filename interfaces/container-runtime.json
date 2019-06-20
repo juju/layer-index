@@ -1,0 +1,6 @@
+{
+  "id": "container-runtime",
+  "name": "Container Runtime",
+  "repo": "https://github.com/charmed-kubernetes/interface-container-runtime.git",
+  "summary": "Interface for container runtimes"
+}
