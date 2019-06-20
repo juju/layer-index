@@ -102,6 +102,7 @@ List of Base Layers
 | layer-debug | [Repo](https://github.com/charms/layer-debug.git) | [Docs](https://github.com/charms/layer-debug.git#readme) | debug | Provides a troubleshooting debug action |
 | leadership | [Repo](https://git.launchpad.net/layer-leadership) | [Docs](https://git.launchpad.net/tree/README.md) | Leadership layer | Help reactive framework charms deal with Juju leadership |
 | lets-encrypt | [Repo](https://github.com/cmars/layer-lets-encrypt) | [Docs](https://github.com/cmars/layer-lets-encrypt#readme) | lets-encrypt | Automatic Let's Encrypt registration for Juju charms, just set the fqdn |
+| Logrotate | [Repo](https://github.com/tbaumann/charm-layer-logrotate) | [Docs](https://github.com/tbaumann/charm-layer-logrotate#readme) | Logrotate layer | Logrotate layer to add logrotate entries in charms |
 | lxd-proxy | [Repo](https://github.com/omnivector-solutions/layer-lxd-proxy) | [Docs](https://github.com/omnivector-solutions/layer-lxd-proxy#readme) | LXD Proxy | iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju |
 | memcache-client | [Repo](https://github.com/omnivector-solutions/layer-memcache-client) | [Docs](https://github.com/omnivector-solutions/layer-memcache-client#readme) | Memcache Client | Client layer for Memcache |
 | metrics | [Repo](https://github.com/CanonicalLtd/layer-metrics) | [Docs](https://github.com/CanonicalLtd/layer-metrics#readme) | Metrics Layer | Reactive charm layer supporting Juju metrics collection |

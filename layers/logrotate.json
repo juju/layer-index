@@ -1,0 +1,6 @@
+{
+  "id": "Logrotate",
+  "name": "Logrotate layer",
+  "repo": "https://github.com/tbaumann/charm-layer-logrotate",
+  "summary": "Logrotate layer to add logrotate entries in charms"
+}
