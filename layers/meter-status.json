@@ -1,0 +1,6 @@
+{
+  "id": "meter-status",
+  "name": "Meter Status Layer",
+  "repo": "https://github.com/CanonicalLtd/layer-meter-status",
+  "summary": "Reactive charm layer supporting Juju meter status hooks"
+}
