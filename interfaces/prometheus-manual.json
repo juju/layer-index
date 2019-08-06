@@ -1,0 +1,6 @@
+{
+  "id": "prometheus-manual",
+  "name": "prometheus-manual",
+  "repo": "https://github.com/juju-solutions/interface-prometheus-manual",
+  "summary": "Interface layer for register manual scrape job configuration stanzas with Prometheus 2"
+}
