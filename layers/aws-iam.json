@@ -1,0 +1,6 @@
+{
+  "id": "aws-iam",
+  "name": "AWS-IAM",
+  "repo": "https://github.com/juju-solutions/charm-aws-iam",
+  "summary": "AWS-IAM subrodinate charm for Kubernetes charm integration."
+}

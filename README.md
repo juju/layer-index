@@ -57,6 +57,7 @@ List of Base Layers
 | apache-php | [Repo](https://github.com/juju-solutions/layer-apache-php.git) | [Docs](https://github.com/juju-solutions/layer-apache-php.git#readme) | Apache PHP base layer | Configurable base for Apache PHP charms |
 | apache-wsgi | [Repo](https://git.launchpad.net/~jacekn/charms/+source/apache-wsgi) | [Docs](https://git.launchpad.net/~jacekn/charms/+source/tree/README.md) | Apache WSGI base layer | Configurable base for Apache WSGI charms |
 | apt | [Repo](https://git.launchpad.net/layer-apt) | [Docs](https://github.com/stub42/layer-apt#readme) | Apt layer | Easily deal with apt sources and deb packages |
+| aws-iam | [Repo](https://github.com/juju-solutions/charm-aws-iam) | [Docs](https://github.com/juju-solutions/charm-aws-iam#readme) | AWS-IAM | AWS-IAM subrodinate charm for Kubernetes charm integration. |
 | barbican-client | [Repo](https://github.com/omnivector-solutions/layer-barbican-client) | [Docs](https://github.com/omnivector-solutions/layer-barbican-client#readme) | Barbican Client | Reactive layer to help pull secrets from barbican |
 | basic | [Repo](https://github.com/juju-solutions/layer-basic.git) | [Docs](https://github.com/juju-solutions/layer-basic.git#readme) | Basic Layer | Base layer for charms with the Reactive framework |
 | beats-base | [Repo](https://github.com/juju-solutions/layer-beats-base) | [Docs](https://github.com/juju-solutions/layer-beats-base#readme) | Beats Base | Base layer for Elastic Beats |
@@ -156,6 +157,7 @@ List of Interface Layers
 | arangodb | [Repo](https://github.com/tengu-team/interface-arangodb.git) | [Docs](https://github.com/tengu-team/interface-arangodb.git#readme) | arangodb | Interface layer for ArangoDB |
 | audit | [Repo](https://launchpad.net/~timkuhlman/charm-layer-auditd/audit-interface) | [Docs](https://bazaar.launchpad.net/~timkuhlman/charm-layer-auditd/files/README.md) | audit | Interface for use with the auditd charm |
 | aws-elb | [Repo](https://github.com/omnivector-solutions/interface-aws-elb) | [Docs](https://github.com/omnivector-solutions/interface-aws-elb#readme) | AWS-ELB | AWS-ELB provides and requires interfaces. |
+| aws-iam | [Repo](https://github.com/juju-solutions/interface-aws-iam) | [Docs](https://github.com/juju-solutions/interface-aws-iam#readme) | AWS-IAM | AWS-IAM interface for Kubernetes charm integration. |
 | aws-integration | [Repo](https://github.com/juju-solutions/interface-aws-integration.git) | [Docs](https://github.com/juju-solutions/interface-aws-integration.git#readme) | aws-integration | Interface layer for connecting to the AWS integration charm |
 | azure-integration | [Repo](https://github.com/juju-solutions/interface-azure-integration.git) | [Docs](https://github.com/juju-solutions/interface-azure-integration.git#readme) | azure-integration | Interface layer for connecting to the Azure integration charm |
 | barbican-hsm | [Repo](https://github.com/openstack/charm-interface-barbican-hsm) | [Docs](https://github.com/openstack/charm-interface-barbican-hsm#readme) | barbican-hsm | Interface supporting the integration between Barbican and HSM devices |
