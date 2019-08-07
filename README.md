@@ -57,7 +57,6 @@ List of Base Layers
 | apache-php | [Repo](https://github.com/juju-solutions/layer-apache-php.git) | [Docs](https://github.com/juju-solutions/layer-apache-php.git#readme) | Apache PHP base layer | Configurable base for Apache PHP charms |
 | apache-wsgi | [Repo](https://git.launchpad.net/~jacekn/charms/+source/apache-wsgi) | [Docs](https://git.launchpad.net/~jacekn/charms/+source/tree/README.md) | Apache WSGI base layer | Configurable base for Apache WSGI charms |
 | apt | [Repo](https://git.launchpad.net/layer-apt) | [Docs](https://github.com/stub42/layer-apt#readme) | Apt layer | Easily deal with apt sources and deb packages |
-| aws-iam | [Repo](https://github.com/juju-solutions/charm-aws-iam) | [Docs](https://github.com/juju-solutions/charm-aws-iam#readme) | AWS-IAM | AWS-IAM subrodinate charm for Kubernetes charm integration. |
 | barbican-client | [Repo](https://github.com/omnivector-solutions/layer-barbican-client) | [Docs](https://github.com/omnivector-solutions/layer-barbican-client#readme) | Barbican Client | Reactive layer to help pull secrets from barbican |
 | basic | [Repo](https://github.com/juju-solutions/layer-basic.git) | [Docs](https://github.com/juju-solutions/layer-basic.git#readme) | Basic Layer | Base layer for charms with the Reactive framework |
 | beats-base | [Repo](https://github.com/juju-solutions/layer-beats-base) | [Docs](https://github.com/juju-solutions/layer-beats-base#readme) | Beats Base | Base layer for Elastic Beats |
