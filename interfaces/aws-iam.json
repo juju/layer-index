@@ -1,0 +1,6 @@
+{
+  "id": "aws-iam",
+  "name": "AWS-IAM",
+  "repo": "https://github.com/juju-solutions/interface-aws-iam",
+  "summary": "AWS-IAM interface for Kubernetes charm integration."
+}
