@@ -166,7 +166,7 @@ List of Interface Layers
 | bgp | [Repo](https://github.com/openstack/charm-interface-bgp.git) | [Docs](https://github.com/openstack/charm-interface-bgp.git#readme) | bgp | Interface layer for exchanging BGP neighbour information between charms |
 | bind-rndc | [Repo](https://github.com/openstack/charm-interface-bind-rndc) | [Docs](https://github.com/openstack/charm-interface-bind-rndc#readme) | BIND RNDC interface | BIND RNDC interface |
 | cassandra | [Repo](https://git.launchpad.net/interface-cassandra) | [Docs](https://git.launchpad.net/tree/README.md) | cassandra | Cassandra database client interface |
-| ceph-admin | [Repo](https://github.com/cholcombe973/juju-interface-ceph-admin) | [Docs](https://github.com/cholcombe973/juju-interface-ceph-admin#readme) | ceph-admin | The admin interface for ceph will provide the user with the ceph admin key |
+| ceph-admin | [Repo](https://github.com/openstack-charmers/juju-interface-ceph-admin) | [Docs](https://github.com/openstack-charmers/juju-interface-ceph-admin#readme) | ceph-admin | EXPERIMENTAL: The admin interface for ceph will provide the user with the ceph admin key |
 | ceph-base | [Repo](https://github.com/openstack/charm-layer-ceph-base) | [Docs](https://github.com/openstack/charm-layer-ceph-base#readme) | Ceph Base Layer | Ceph base layer |
 | ceph-client | [Repo](https://github.com/openstack/charm-interface-ceph-client) | [Docs](https://github.com/openstack/charm-interface-ceph-client#readme) | ceph-client | Ceph Client interface |
 | ceph-mds | [Repo](https://github.com/openstack/charm-interface-ceph-mds) | [Docs](https://github.com/openstack/charm-interface-ceph-mds#readme) | ceph-mds | CephFS interface to the MDS relation on ceph-mon |
