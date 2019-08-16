@@ -1,6 +1,6 @@
 {
   "id": "ceph-admin",
   "name": "ceph-admin",
-  "repo": "https://github.com/cholcombe973/juju-interface-ceph-admin",
-  "summary": "The admin interface for ceph will provide the user with the ceph admin key"
+  "repo": "https://github.com/openstack-charmers/juju-interface-ceph-admin",
+  "summary": "EXPERIMENTAL: The admin interface for ceph will provide the user with the ceph admin key"
 }
