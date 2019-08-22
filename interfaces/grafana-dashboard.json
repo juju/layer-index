@@ -1,0 +1,6 @@
+{
+  "id": "grafana-dashboard",
+  "name": "grafana-dashboard",
+  "repo": "https://github.com/juju-solutions/interface-grafana-dashboard",
+  "summary": "Interface layer for importing dashboards into Grafana"
+}
