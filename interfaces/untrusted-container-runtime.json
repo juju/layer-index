@@ -1,0 +1,6 @@
+{
+  "id": "untrusted-container-runtime",
+  "name": "Untrusted Container Runtime",
+  "repo": "https://github.com/charmed-kubernetes/interface-untrusted-container-runtime",
+  "summary": "Interface for a runtime to handle untrusted workloads."
+}
