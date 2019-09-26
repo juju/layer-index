@@ -249,7 +249,7 @@ List of Interface Layers
 | mapred | [Repo](https://github.com/juju-solutions/interface-mapred.git) | [Docs](https://github.com/juju-solutions/interface-mapred.git#readme) | mapred | Interface for the YARN client protocol |
 | memcache | [Repo](https://github.com/omnivector-solutions/interface-memcache.git) | [Docs](https://github.com/omnivector-solutions/interface-memcache.git#readme) | Memcache | Interface for relating memcache. |
 | midonet-api | [Repo](https://github.com/celebdor/interface-midonet-api.git) | [Docs](https://github.com/celebdor/interface-midonet-api.git#readme) | MidoNet API | MidoNet API interface between provider and consuming charms |
-| mongodb-cluster | [Repo](https://github.com/tkuhlman/juju-relation-mongodb) | [Docs](https://github.com/tkuhlman/juju-relation-mongodb#readme) | mongodb-cluster | relation to connect to a mongo database cluster |
+| mongodb-cluster | [Repo](https://github.com/Vultaire/juju-relation-mongodb) | [Docs](https://github.com/Vultaire/juju-relation-mongodb#readme) | mongodb-cluster | relation to connect to a mongo database cluster |
 | mongodb | [Repo](https://github.com/cloud-green/juju-relation-mongodb) | [Docs](https://github.com/cloud-green/juju-relation-mongodb#readme) | mongodb | relation to connect to a mongo database |
 | monitor | [Repo](https://github.com/juju-solutions/interface-monitor.git) | [Docs](https://github.com/juju-solutions/interface-monitor.git#readme) | monitor | This interface layer for monitor protocol |
 | mount | [Repo](https://github.com/juju-solutions/interface-mount.git) | [Docs](https://github.com/juju-solutions/interface-mount.git#readme) | mount | Interface layer for connecting mounts to a charm such as NFS |
