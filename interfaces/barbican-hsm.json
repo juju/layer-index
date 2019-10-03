@@ -1,6 +1,6 @@
 {
   "id": "barbican-hsm",
   "name": "barbican-hsm",
-  "repo": "https://github.com/openstack/charm-interface-barbican-hsm",
+  "repo": "https://opendev.org/x/charm-interface-barbican-hsm",
   "summary": "Interface supporting the integration between Barbican and HSM devices"
 }
