@@ -1,0 +1,6 @@
+{
+  "id": "placement",
+  "name": "placement",
+  "repo": "https://opendev.org/openstack/charm-interface-placement",
+  "summary": "Interface for migrating placement API from nova-cloud-controller to placement charm."
+}
