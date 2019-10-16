@@ -1,0 +1,7 @@
+{
+  "id": "mysql-router",
+  "name": "mysql-router",
+  "repo": "https://github.com/openstack/charm-interface-mysql-router.git",
+  "docs": "https://github.com/openstack/charm-interface-mysql-router/blob/master/README.md",
+  "summary": "MySQL Router provides and requiers interfaces"
+}

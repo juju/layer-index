@@ -1,0 +1,7 @@
+{
+  "id": "mysql-innodb-cluster",
+  "name": "mysql-innodb-cluster",
+  "repo": "https://github.com/openstack/charm-interface-mysql-innodb-cluster.git",
+  "docs": "https://github.com/openstack/charm-interface-mysql-innodb-cluster/blob/master/README.md",
+  "summary": "MySQL InnoDB Cluster peer interface"
+}
