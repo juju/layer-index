@@ -128,7 +128,7 @@ List of Base Layers
 | ruby | [Repo](https://github.com/battlemidget/juju-layer-ruby.git) | [Docs](https://github.com/battlemidget/juju-layer-ruby.git#readme) | Ruby | Build layer for Ruby applications |
 | slurm | [Repo](https://github.com/omnivector-solutions/layer-slurm) | [Docs](https://github.com/omnivector-solutions/layer-slurm#readme) | slurm | Base layer for Slurm |
 | snap-action | [Repo](https://github.com/lutostag/layer-snap-action.git) | [Docs](https://github.com/lutostag/layer-snap-action.git#readme) | snap-action | Perform snap commands via an action |
-| snap | [Repo](https://git.launchpad.net/layer-snap) | [Docs](https://git.launchpad.net/tree/README.md) | Snap layer | Snap layer for installing and updating Snap packages |
+| snap | [Repo](https://git.launchpad.net/layer-snap) | [Docs](https://git.launchpad.net/layer-snap/tree/README.md) | Snap layer | Snap layer for installing and updating Snap packages |
 | sshproxy | [Repo](https://github.com/AdamIsrael/layer-sshproxy) | [Docs](https://github.com/AdamIsrael/layer-sshproxy#readme) | sshproxy | A layer intended to ease the development of charms that need to execute commands over SSH. |
 | status | [Repo](https://github.com/juju-solutions/layer-status) | [Docs](https://github.com/juju-solutions/layer-status#readme) | Status management layer | Manage workload status in reactive charms |
 | storage | [Repo](https://github.com/juju-solutions/layer-storage) | [Docs](https://github.com/juju-solutions/layer-storage#readme) | Storage | A charm layer to handle Juju attached storage devices. |
