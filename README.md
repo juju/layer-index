@@ -72,7 +72,7 @@ List of Base Layers
 | conda-api | [Repo](https://github.com/omnivector-solutions/layer-conda-api) | [Docs](https://github.com/omnivector-solutions/layer-conda-api#readme) | Conda API | Conda API layer |
 | consul-base | [Repo](https://github.com/omnivector-solutions/layer-consul-base) | [Docs](https://github.com/omnivector-solutions/layer-consul-base#readme) | Consul Base | Reactive base layer for consul |
 | container-runtime-common | [Repo](https://github.com/charmed-kubernetes/layer-container-runtime-common.git) | [Docs](https://github.com/charmed-kubernetes/layer-container-runtime-common.git#readme) | Container Runtime Common | Shared between container runtimes |
-| coordinator | [Repo](https://git.launchpad.net/layer-coordinator ) | [Docs](https://git.launchpad.net/tree/README.md) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
+| coordinator | [Repo](https://git.launchpad.net/layer-coordinator ) | [Docs](https://git.launchpad.net/layer-coordinator/tree/README.md) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
 | debug | [Repo](https://github.com/juju-solutions/layer-debug.git) | [Docs](https://github.com/juju-solutions/layer-debug.git#readme) | debug | Provides a troubleshooting debug action |
 | django | [Repo](https://github.com/marcoceppi/layer-django.git) | [Docs](https://github.com/marcoceppi/layer-django.git#readme) | Django | Django / GUNICORN |
 | docker-resource | [Repo](https://github.com/juju-solutions/layer-docker-resource.git) | [Docs](https://github.com/juju-solutions/layer-docker-resource.git#readme) | Docker Resource Layer | Layer for managing charm resources of type 'docker' |

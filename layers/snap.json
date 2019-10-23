@@ -2,5 +2,6 @@
   "id": "snap",
   "name": "Snap layer",
   "repo": "https://git.launchpad.net/layer-snap",
-  "summary": "Snap layer for installing and updating Snap packages"
+  "summary": "Snap layer for installing and updating Snap packages",
+  "docs": "https://git.launchpad.net/layer-snap/tree/README.md"
 }
