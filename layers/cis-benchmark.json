@@ -1,0 +1,6 @@
+{
+  "id": "cis-benchmark",
+  "name": "CIS Benchmark base layer",
+  "repo": "https://github.com/charmed-kubernetes/layer-cis-benchmark",
+  "summary": "Provides a cis-benchmark action for the CIS Kubernetes benchmark."
+}

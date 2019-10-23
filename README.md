@@ -69,6 +69,7 @@ List of Base Layers
 | ceph-mon | [Repo](https://github.com/ChrisMacNaughton/juju-layer-ceph-mon) | [Docs](https://github.com/ChrisMacNaughton/juju-layer-ceph-mon#readme) | EXPERIMENTAL Ceph Mon layer | EXPERIMENTAL Ceph Mon layer |
 | ceph | [Repo](https://github.com/openstack/charm-layer-ceph.git) | [Docs](https://github.com/openstack/charm-layer-ceph.git#readme) | Ceph Layer | Ceph base layer |
 | charmscaler-base | [Repo](https://github.com/elastisys/layer-charmscaler-base) | [Docs](https://github.com/elastisys/layer-charmscaler-base#readme) | Charmscaler Base | Charmscaler base layer |
+| cis-benchmark | [Repo](https://github.com/charmed-kubernetes/layer-cis-benchmark) | [Docs](https://github.com/charmed-kubernetes/layer-cis-benchmark#readme) | CIS Benchmark base layer | Provides a cis-benchmark action for the CIS Kubernetes benchmark. |
 | conda-api | [Repo](https://github.com/omnivector-solutions/layer-conda-api) | [Docs](https://github.com/omnivector-solutions/layer-conda-api#readme) | Conda API | Conda API layer |
 | consul-base | [Repo](https://github.com/omnivector-solutions/layer-consul-base) | [Docs](https://github.com/omnivector-solutions/layer-consul-base#readme) | Consul Base | Reactive base layer for consul |
 | container-runtime-common | [Repo](https://github.com/charmed-kubernetes/layer-container-runtime-common.git) | [Docs](https://github.com/charmed-kubernetes/layer-container-runtime-common.git#readme) | Container Runtime Common | Shared between container runtimes |
