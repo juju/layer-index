@@ -1,8 +1,8 @@
 {
   "id": "ovsdb-cluster",
   "name": "ovsdb-cluster",
-  "repo": "https://github.com/openstack-charmers/charm-interface-ovsdb.git",
-  "docs": "https://github.com/openstack-charmers/charm-interface-ovsdb/blob/master/src/ovsdb_cluster/README.md",
+  "repo": "https://opendev.org/x/charm-interface-ovsdb.git",
+  "docs": "https://opendev.org/x/charm-interface-ovsdb/src/branch/master/src/ovsdb_cluster/README.md",
   "subdir": "src/ovsdb_cluster",
   "summary": "Interface for OVN OVSDB Cluster"
 }

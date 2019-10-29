@@ -1,0 +1,6 @@
+{
+  "id": "OVN",
+  "name": "OVN Layer",
+  "repo": "https://github.com/openstack-charmers/charm-layer-ovn.git",
+  "summary": "Base layer for Open Virtual Network Charms"
+}
