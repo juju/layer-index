@@ -1,8 +1,8 @@
 {
   "id": "ovsdb-cms",
   "name": "ovsdb-cms",
-  "repo": "https://github.com/openstack-charmers/charm-interface-ovsdb.git",
-  "docs": "https://github.com/openstack-charmers/charm-interface-ovsdb/blob/master/src/ovsdb_cms/README.md",
+  "repo": "https://opendev.org/x/charm-interface-ovsdb.git",
+  "docs": "https://opendev.org/x/charm-interface-ovsdb/src/branch/master/src/ovsdb_cms/README.md",
   "subdir": "src/ovsdb_cms",
   "summary": "Interface for a OVN CMS to talk to a OVSDB Cluster"
 }

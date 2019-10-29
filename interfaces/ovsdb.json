@@ -1,8 +1,8 @@
 {
   "id": "ovsdb",
   "name": "ovsdb",
-  "repo": "https://github.com/openstack-charmers/charm-interface-ovsdb.git",
-  "docs": "https://github.com/openstack-charmers/charm-interface-ovsdb/blob/master/src/ovsdb/README.md",
+  "repo": "https://opendev.org/x/charm-interface-ovsdb.git",
+  "docs": "https://opendev.org/x/charm-interface-ovsdb/src/branch/master/src/ovsdb/README.md",
   "subdir": "src/ovsdb",
   "summary": "Interface for OVN consumers to talk to a OVSDB Cluster"
 }
