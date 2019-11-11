@@ -240,6 +240,7 @@ List of Interface Layers
 | keystone | [Repo](https://github.com/openstack/charm-interface-keystone) | [Docs](https://github.com/openstack/charm-interface-keystone#readme) | keystone | Keystone interface |
 | kube-control | [Repo](https://github.com/juju-solutions/interface-kube-control.git) | [Docs](https://github.com/juju-solutions/interface-kube-control.git#readme) | kube-control | master-worker control interface for Kubernetes |
 | kube-dns | [Repo](https://github.com/juju-solutions/interface-kube-dns.git) | [Docs](https://github.com/juju-solutions/interface-kube-dns.git#readme) | kube-dns | Kubernetes DNS Details |
+| kube-masters | [Repo](https://github.com/charmed-kubernetes/interface-kube-masters.git) | [Docs](https://github.com/charmed-kubernetes/interface-kube-masters.git#readme) | Kubernetes Master Peers | Interface for kubernetes-master peers |
 | kubernetes-cni | [Repo](https://github.com/juju-solutions/interface-kubernetes-cni) | [Docs](https://github.com/juju-solutions/interface-kubernetes-cni#readme) | kubernetes-cni | Interface for relating various CNI implementations |
 | limeds | [Repo](https://github.com/tengu-team/interface-limeds) | [Docs](https://github.com/tengu-team/interface-limeds#readme) | limeds | Interface to connect to LimeDS |
 | livy | [Repo](https://gitlab.com/spiculedata/juju/livy-relation.git) | [Docs](https://gitlab.com/spiculedata/juju/livy-relation.git) | Apache Livy relation | Relation to connect a charm to Apache Livy. |

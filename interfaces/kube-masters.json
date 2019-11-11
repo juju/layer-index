@@ -1,0 +1,6 @@
+{
+  "id": "kube-masters",
+  "name": "Kubernetes Master Peers",
+  "repo": "https://github.com/charmed-kubernetes/interface-kube-masters.git",
+  "summary": "Interface for kubernetes-master peers"
+}
