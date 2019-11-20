@@ -1,0 +1,6 @@
+{
+  "id": "cluster-dns",
+  "name": "cluster-dns",
+  "repo": "https://github.com/charmed-kubernetes/interface-cluster-dns",
+  "summary": "Cluster DNS Details for Charmed Kubernetes"
+}
