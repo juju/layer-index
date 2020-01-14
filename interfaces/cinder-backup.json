@@ -1,0 +1,6 @@
+{
+  "id": "cinder-backup",
+  "name": "cinder-backup",
+  "repo": "https://github.com/openstack/charm-interface-cinder-backup.git",
+  "summary": "Interface for sending Cinder-Backup external subordinate backend configuration."
+}
