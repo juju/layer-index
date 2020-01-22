@@ -1,0 +1,6 @@
+{
+  "id": "oidc-client",
+  "name": "oidc-client",
+  "repo": "https://github.com/juju-solutions/interface-oidc-client.git",
+  "summary": "Interface layer for the OIDC Clients"
+}
