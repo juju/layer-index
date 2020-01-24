@@ -1,0 +1,6 @@
+{
+  "id": "keystone-notifications",
+  "name": "keystone-notifications",
+  "repo": "https://github.com/openstack/charm-interface-keystone-notifications",
+  "summary": "keystone-notifications: Interface for integrating with Keystone notifications"
+}
