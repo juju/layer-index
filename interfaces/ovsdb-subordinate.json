@@ -1,8 +1,8 @@
 {
   "id": "ovsdb-subordinate",
   "name": "ovsdb-subordinate",
-  "repo": "https://github.com/openstack-charmers/charm-interface-ovsdb.git",
-  "docs": "https://github.com/openstack-charmers/charm-interface-ovsdb/blob/master/src/ovsdb_subordinate/README.md",
+  "repo": "https://opendev.org/x/charm-interface-ovsdb.git",
+  "docs": "https://opendev.org/x/charm-interface-ovsdb/src/branch/master/src/ovsdb_subordinate/README.md",
   "subdir": "src/ovsdb_subordinate",
   "summary": "Interface for subordinate relation between ovn-chassis and principle"
 }
