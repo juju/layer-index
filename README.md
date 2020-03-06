@@ -122,7 +122,7 @@ List of Base Layers
 | openstack-principle | [Repo](https://github.com/openstack/charm-layer-openstack-principle) | [Docs](https://github.com/openstack/charm-layer-openstack-principle#readme) | OpenStack principle layer | OpenStack principle layer |
 | openstack | [Repo](https://github.com/openstack/charm-layer-openstack) | [Docs](https://github.com/openstack/charm-layer-openstack#readme) | OpenStack base layer | OpenStack base layer |
 | options | [Repo](https://github.com/juju-solutions/layer-options.git) | [Docs](https://github.com/juju-solutions/layer-options.git#readme) | options | Layer for reading options defined in layer.yaml |
-| osm-ns | [Repo](https://github.com/AdamIsrael/layer-osm-ns) | [Docs](https://github.com/AdamIsrael/layer-osm-ns#readme) | osm-ns | A layer to build Open Source Mano (OSM) Network Service (NS) charms, to orchestrate the execution of actions across other charms within a model. |
+| osm-ns | [Repo](https://github.com/charmed-osm/layer-osm-ns) | [Docs](https://github.com/charmed-osm/layer-osm-ns#readme) | osm-ns | A layer to build Open Source Mano (OSM) Network Service (NS) charms, to orchestrate the execution of actions across other charms within a model. |
 | OVN | [Repo](https://github.com/openstack-charmers/charm-layer-ovn.git) | [Docs](https://github.com/openstack-charmers/charm-layer-ovn.git#readme) | OVN Layer | Base layer for Open Virtual Network Charms |
 | promreg-client | [Repo](https://git.launchpad.net/~prometheus-registration-developers/prometheus-registration/+git/layer-promreg-client) | [Docs](https://git.launchpad.net/~prometheus-registration-developers/prometheus-registration/+git/tree/README.md) | promreg-client | A layer to aid in registering a target with Prometheus Registration |
 | puppet-agent | [Repo](https://github.com/omnivector-solutions/layer-puppet-agent.git) | [Docs](https://github.com/omnivector-solutions/layer-puppet-agent.git#readme) | Puppet Agent | Puppet-agent layer - supports puppet 3 & 4. |
@@ -131,7 +131,7 @@ List of Base Layers
 | slurm | [Repo](https://github.com/omnivector-solutions/layer-slurm) | [Docs](https://github.com/omnivector-solutions/layer-slurm#readme) | slurm | Base layer for Slurm |
 | snap-action | [Repo](https://github.com/lutostag/layer-snap-action.git) | [Docs](https://github.com/lutostag/layer-snap-action.git#readme) | snap-action | Perform snap commands via an action |
 | snap | [Repo](https://git.launchpad.net/layer-snap) | [Docs](https://git.launchpad.net/layer-snap/tree/README.md) | Snap layer | Snap layer for installing and updating Snap packages |
-| sshproxy | [Repo](https://github.com/AdamIsrael/layer-sshproxy) | [Docs](https://github.com/AdamIsrael/layer-sshproxy#readme) | sshproxy | A layer intended to ease the development of charms that need to execute commands over SSH. |
+| sshproxy | [Repo](https://github.com/charmed-osm/layer-sshproxy) | [Docs](https://github.com/charmed-osm/layer-sshproxy#readme) | sshproxy | A layer intended to ease the development of charms that need to execute commands over SSH. |
 | status | [Repo](https://github.com/juju-solutions/layer-status) | [Docs](https://github.com/juju-solutions/layer-status#readme) | Status management layer | Manage workload status in reactive charms |
 | storage | [Repo](https://github.com/juju-solutions/layer-storage) | [Docs](https://github.com/juju-solutions/layer-storage#readme) | Storage | A charm layer to handle Juju attached storage devices. |
 | supervisor | [Repo](https://github.com/omnivector-solutions/layer-supervisor) | [Docs](https://github.com/omnivector-solutions/layer-supervisor#readme) | Supervisor | Layer for Supervisor |
@@ -142,7 +142,7 @@ List of Base Layers
 | vault-kv | [Repo](https://github.com/juju-solutions/layer-vault-kv) | [Docs](https://github.com/juju-solutions/layer-vault-kv#readme) | Vault KV layer | Layer for using Vault as a secure KV store |
 | vaultlocker | [Repo](https://github.com/juju-solutions/layer-vaultlocker) | [Docs](https://github.com/juju-solutions/layer-vaultlocker#readme) | VaultLocker layer | Layer for managing secure disk storage locations using VaultLocker |
 | venv | [Repo](https://github.com/omnivector-solutions/layer-venv.git) | [Docs](https://github.com/omnivector-solutions/layer-venv.git#readme) | venv | Layer for installing pip packages in a python3 venv |
-| vnfproxy | [Repo](https://github.com/AdamIsrael/vnfproxy.git) | [Docs](https://github.com/AdamIsrael/vnfproxy.git#readme) | vnfproxy | A layer to ease development of "proxy" charms that operate against VNF images |
+| vnfproxy | [Repo](https://github.com/charmed-osm/vnfproxy.git) | [Docs](https://github.com/charmed-osm/vnfproxy.git#readme) | vnfproxy | A layer to ease development of "proxy" charms that operate against VNF images |
 
 <!-- /list-of-layers -->
 
