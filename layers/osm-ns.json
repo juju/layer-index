@@ -1,6 +1,6 @@
 {
   "id": "osm-ns",
   "name": "osm-ns",
-  "repo": "https://github.com/AdamIsrael/layer-osm-ns",
+  "repo": "https://github.com/charmed-osm/layer-osm-ns",
   "summary": "A layer to build Open Source Mano (OSM) Network Service (NS) charms, to orchestrate the execution of actions across other charms within a model."
 }

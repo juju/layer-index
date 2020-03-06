@@ -1,6 +1,6 @@
 {
   "id": "sshproxy",
   "name": "sshproxy",
-  "repo": "https://github.com/AdamIsrael/layer-sshproxy",
+  "repo": "https://github.com/charmed-osm/layer-sshproxy",
   "summary": "A layer intended to ease the development of charms that need to execute commands over SSH."
 }
