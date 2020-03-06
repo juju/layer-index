@@ -1,6 +1,6 @@
 {
   "id": "vnfproxy",
   "name": "vnfproxy",
-  "repo": "https://github.com/AdamIsrael/vnfproxy.git",
+  "repo": "https://github.com/charmed-osm/vnfproxy.git",
   "summary": "A layer to ease development of \"proxy\" charms that operate against VNF images"
 }
