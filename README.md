@@ -107,8 +107,6 @@ List of Base Layers
 | Logrotate | [Repo](https://github.com/tbaumann/charm-layer-logrotate) | [Docs](https://github.com/tbaumann/charm-layer-logrotate#readme) | Logrotate layer | Logrotate layer to add logrotate entries in charms |
 | lxd-proxy | [Repo](https://github.com/omnivector-solutions/layer-lxd-proxy) | [Docs](https://github.com/omnivector-solutions/layer-lxd-proxy#readme) | LXD Proxy | iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju |
 | memcache-client | [Repo](https://github.com/omnivector-solutions/layer-memcache-client) | [Docs](https://github.com/omnivector-solutions/layer-memcache-client#readme) | Memcache Client | Client layer for Memcache |
-| meter-status | [Repo](https://github.com/CanonicalLtd/layer-meter-status) | [Docs](https://github.com/CanonicalLtd/layer-meter-status#readme) | Meter Status Layer | Reactive charm layer supporting Juju meter status hooks |
-| metrics | [Repo](https://github.com/CanonicalLtd/layer-metrics) | [Docs](https://github.com/CanonicalLtd/layer-metrics#readme) | Metrics Layer | Reactive charm layer supporting Juju metrics collection |
 | munge | [Repo](https://github.com/omnivector-solutions/layer-munge) | [Docs](https://github.com/omnivector-solutions/layer-munge#readme) | munge | Reactive layer for Munge authentication service. |
 | munin | [Repo](https://github.com/freyes/layer-munin) | [Docs](https://github.com/freyes/layer-munin#readme) | munin | munin server |
 | nagios | [Repo](https://git.launchpad.net/nagios-layer) | [Docs](https://git.launchpad.net/tree/README.md) | Nagios Layer | Provide boilerplate required to relate services to the cs:nrpe subordinate |
