@@ -1,6 +1,6 @@
 {
   "id": "metrics",
   "name": "Metrics Layer",
-  "repo": "https://github.com/CanonicalLtd/layer-metrics",
+  "repo": "https://github.com/canonical/layer-metrics",
   "summary": "Reactive charm layer supporting Juju metrics collection"
 }
