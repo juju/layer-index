@@ -1,6 +1,8 @@
 {
   "id": "ceph-client",
   "name": "ceph-client",
-  "repo": "https://github.com/openstack/charm-interface-ceph-client",
+  "repo": "https://opendev.org/openstack/charm-interface-ceph-client.git",
+  "subdir": "src/ceph_client",
+  "docs": "https://opendev.org/openstack/charm-interface-ceph-client/src/branch/master/src/ceph_client/README.md",
   "summary": "Ceph Client interface"
 }

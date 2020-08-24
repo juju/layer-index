@@ -1,6 +1,8 @@
 {
   "id": "ceph-mds",
   "name": "ceph-mds",
-  "repo": "https://github.com/openstack/charm-interface-ceph-mds",
+  "repo": "https://opendev.org/openstack/charm-interface-ceph-client.git",
+  "subdir": "src/ceph_mds",
+  "docs": "https://opendev.org/openstack/charm-interface-ceph-client/src/branch/master/src/ceph_mds/README.md",
   "summary": "CephFS interface to the MDS relation on ceph-mon"
 }
