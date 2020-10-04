@@ -1,0 +1,7 @@
+{
+  "id": "ironic-api",
+  "name": "ironic-api",
+  "repo": "https://opendev.org/openstack/charm-interface-ironic-api.git",
+  "docs": "https://opendev.org/openstack/charm-interface-ironic-api/src/branch/master/README.md",
+  "summary": "Ironic API provides and requires interfaces"
+}
