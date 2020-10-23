@@ -1,0 +1,6 @@
+{
+  "id": "service-mesh",
+  "name": "service-mesh",
+  "repo": "https://github.com/juju-solutions/interface-service-mesh.git",
+  "summary": "Generic Service Mesh interface layer"
+}
