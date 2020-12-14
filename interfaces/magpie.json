@@ -1,0 +1,6 @@
+{
+  "id": "magpie",
+  "name": "magpie",
+  "repo": "https://opendev.org/openstack/charm-interface-magpie.git",
+  "summary": "This interface layer handles the communication among Magpie peers."
+}
