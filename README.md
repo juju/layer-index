@@ -264,6 +264,7 @@ List of Interface Layers
 | munge-auth | [Repo](https://github.com/omnivector-solutions/interface-munge-auth) | [Docs](https://github.com/omnivector-solutions/interface-munge-auth#readme) | munge-auth | Interface layer for Munge Auth |
 | munin-node | [Repo](https://github.com/freyes/interface-munin-node) | [Docs](https://github.com/freyes/interface-munin-node#readme) | munin-node | munin-node relation |
 | munin | [Repo](https://github.com/freyes/interface-munin) | [Docs](https://github.com/freyes/interface-munin#readme) | munin | munin relation |
+| mysql-admin | [Repo](https://github.com/charmed-osm/mysql-interface) | [Docs](https://github.com/charmed-osm/mysql-interface#readme) | mysql-admin | Administrative MySQL interface with admin access granted to connected applications |
 | mysql-innodb-cluster | [Repo](https://github.com/openstack/charm-interface-mysql-innodb-cluster.git) | [Docs](https://github.com/openstack/charm-interface-mysql-innodb-cluster/blob/master/README.md) | mysql-innodb-cluster | MySQL InnoDB Cluster peer interface |
 | mysql-root | [Repo](https://github.com/juju-solutions/interface-mysql-root.git) | [Docs](https://github.com/juju-solutions/interface-mysql-root.git#readme) | mysql-root | Administrative MySQL interface with admin access granted to connected applications |
 | mysql-router | [Repo](https://github.com/openstack/charm-interface-mysql-router.git) | [Docs](https://github.com/openstack/charm-interface-mysql-router/blob/master/README.md) | mysql-router | MySQL Router provides and requiers interfaces |

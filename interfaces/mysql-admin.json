@@ -1,0 +1,6 @@
+{
+  "id": "mysql-admin",
+  "name": "mysql-admin",
+  "repo": "https://github.com/charmed-osm/mysql-interface",
+  "summary": "Administrative MySQL interface with admin access granted to connected applications"
+}
