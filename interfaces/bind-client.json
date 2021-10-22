@@ -1,0 +1,6 @@
+{
+    "id": "bind-client",
+    "name": "BIND CLIENT interface",
+    "repo": "https://github.com/canonical/interface-bind-client",
+    "summary": "BIND CLIENT interface"
+}
