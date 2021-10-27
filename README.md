@@ -166,6 +166,7 @@ List of Interface Layers
 | basic-auth-check | [Repo](https://github.com/CanonicalLtd/juju-interface-basic-auth-check) | [Docs](https://github.com/CanonicalLtd/juju-interface-basic-auth-check#readme) | basic-auth-check | Interface for the basic-auth-service to validate HTTP Basic-Auth credentials |
 | benchmark | [Repo](https://github.com/juju-solutions/interface-benchmark.git) | [Docs](https://github.com/juju-solutions/interface-benchmark.git#readme) | benchmark | Interface layer for the benchmark protocol |
 | bgp | [Repo](https://github.com/openstack/charm-interface-bgp.git) | [Docs](https://github.com/openstack/charm-interface-bgp.git#readme) | bgp | Interface layer for exchanging BGP neighbour information between charms |
+| bind-client | [Repo](https://github.com/canonical/interface-bind-client) | [Docs](https://github.com/canonical/interface-bind-client#readme) | BIND CLIENT interface | BIND CLIENT interface |
 | bind-rndc | [Repo](https://github.com/openstack/charm-interface-bind-rndc) | [Docs](https://github.com/openstack/charm-interface-bind-rndc#readme) | BIND RNDC interface | BIND RNDC interface |
 | cassandra | [Repo](https://git.launchpad.net/interface-cassandra) | [Docs](https://git.launchpad.net/tree/README.md) | cassandra | Cassandra database client interface |
 | ceph-admin | [Repo](https://github.com/openstack-charmers/juju-interface-ceph-admin) | [Docs](https://github.com/openstack-charmers/juju-interface-ceph-admin#readme) | ceph-admin | EXPERIMENTAL: The admin interface for ceph will provide the user with the ceph admin key |
