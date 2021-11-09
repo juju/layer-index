@@ -1,0 +1,6 @@
+{
+    "id": "pgbouncer-extra-config",
+    "name": "pgbouncer-extra-config",
+    "repo": "https://github.com/aym-frikha/interface-pgbouncer-extra-config",
+    "summary": "[proposal] simple and temporary interface to add extra configuration to the pgbouncer service"
+}
