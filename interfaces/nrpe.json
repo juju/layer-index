@@ -1,0 +1,6 @@
+{
+  "id": "nrpe",
+  "name": "nrpe",
+  "repo": "https://github.com/alejdg/nrpe-interface",
+  "summary": "relation for registering nagios checks"
+}
