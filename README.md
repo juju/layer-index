@@ -111,7 +111,7 @@ List of Base Layers
 | metrics | [Repo](https://github.com/canonical/layer-metrics) | [Docs](https://github.com/canonical/layer-metrics#readme) | Metrics Layer | Reactive charm layer supporting Juju metrics collection |
 | munge | [Repo](https://github.com/omnivector-solutions/layer-munge) | [Docs](https://github.com/omnivector-solutions/layer-munge#readme) | munge | Reactive layer for Munge authentication service. |
 | munin | [Repo](https://github.com/freyes/layer-munin) | [Docs](https://github.com/freyes/layer-munin#readme) | munin | munin server |
-| nagios | [Repo](https://git.launchpad.net/nagios-layer) | [Docs](https://git.launchpad.net/tree/README.md) | Nagios Layer | Provide boilerplate required to relate services to the cs:nrpe subordinate |
+| nagios | [Repo](https://git.launchpad.net/nagios-layer) | [Docs](https://git.launchpad.net/nagios-layer/tree/README.md) | Nagios Layer | Provide boilerplate required to relate services to the cs:nrpe subordinate |
 | nginx-passenger | [Repo](https://github.com/omnivector-solutions/layer-nginx-passenger) | [Docs](https://github.com/omnivector-solutions/layer-nginx-passenger#readme) | Nginx Passenger | Reactive layer for nginx-passenger |
 | nginx | [Repo](https://github.com/battlemidget/juju-layer-nginx.git) | [Docs](https://github.com/battlemidget/juju-layer-nginx.git#readme) | NGINX | NGINX layer for deploying web applications |
 | nodejs | [Repo](https://github.com/battlemidget/juju-layer-node.git) | [Docs](https://github.com/battlemidget/juju-layer-node.git#readme) | NodeJS | Runtime layer for NodeJS applications |
