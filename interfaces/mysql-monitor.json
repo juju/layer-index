@@ -1,0 +1,6 @@
+{
+  "id": "mysql-monitor",
+  "name": "mysql-monitor",
+  "repo": "https://github.com/canonical/interface-mysql-monitor",
+  "summary": "MySQL interface with read-only admin access granted to connected applications"
+}
