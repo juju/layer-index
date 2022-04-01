@@ -1,0 +1,6 @@
+{
+  "id": "kubernetes-node-base",
+  "name": "kubernetes-node-base",
+  "repo": "https://github.com/charmed-kubernetes/layer-kubernetes-node-base",
+  "summary": "Base layer for kubernetes-control-plane and kubernetes-worker."
+}
