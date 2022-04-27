@@ -1,6 +1,0 @@
-{
-  "id": "conda",
-  "name": "Conda",
-  "repo": "https://github.com/omnivector-solutions/interface-conda",
-  "summary": "Conda provides and requires interfaces"
-}

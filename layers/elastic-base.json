@@ -1,6 +1,0 @@
-{
-  "id": "elastic-base",
-  "name": "Elastic-Base",
-  "repo": "https://github.com/omnivector-solutions/layer-elastic-base.git",
-  "summary": "Base layer for Elastic.co charms"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "dbname",
-  "name": "DB Name",
-  "repo": "https://github.com/omnivector-solutions/interface-dbname.git",
-  "summary": "Interface to coordinate database name between applications."
-}

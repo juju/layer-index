@@ -1,6 +1,0 @@
-{
-  "id": "git-deploy",
-  "name": "Git Deploy",
-  "repo": "https://github.com/omnivector-solutions/layer-git-deploy.git",
-  "summary": "Layer to aid with deploying code from github"
-}
