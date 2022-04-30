@@ -1,6 +1,6 @@
 {
   "id": "memcache",
   "name": "Memcache",
-  "repo": "https://github.com/omnivector-solutions/interface-memcache.git",
+  "repo": "https://github.com/canonical/interface-memcache.git",
   "summary": "Interface for relating memcache."
 }
