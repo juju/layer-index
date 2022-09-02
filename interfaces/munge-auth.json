@@ -1,6 +1,0 @@
-{
-  "id": "munge-auth",
-  "name": "munge-auth",
-  "repo": "https://github.com/omnivector-solutions/interface-munge-auth",
-  "summary": "Interface layer for Munge Auth"
-}

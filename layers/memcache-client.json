@@ -1,6 +1,0 @@
-{
-  "id": "memcache-client",
-  "name": "Memcache Client",
-  "repo": "https://github.com/omnivector-solutions/layer-memcache-client",
-  "summary": "Client layer for Memcache"
-}

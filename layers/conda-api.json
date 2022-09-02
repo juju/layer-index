@@ -1,6 +1,0 @@
-{
-  "id": "conda-api",
-  "name": "Conda API",
-  "repo": "https://github.com/omnivector-solutions/layer-conda-api",
-  "summary": "Conda API layer"
-}

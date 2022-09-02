@@ -1,6 +1,0 @@
-{
-  "id": "elasticsearch-client",
-  "name": "Elasticsearch Client",
-  "repo": "https://github.com/omnivector-solutions/layer-elasticsearch-client",
-  "summary": "Elasticsearch client layer"
-}

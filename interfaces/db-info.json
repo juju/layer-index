@@ -1,6 +1,0 @@
-{
-  "id": "db-info",
-  "name": "DB Info",
-  "repo": "https://github.com/omnivector-solutions/interface-db-info",
-  "summary": "Ease the process of application <-> application database creds transference."
-}

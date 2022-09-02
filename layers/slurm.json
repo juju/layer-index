@@ -1,6 +1,0 @@
-{
-  "id": "slurm",
-  "name": "slurm",
-  "repo": "https://github.com/omnivector-solutions/layer-slurm",
-  "summary": "Base layer for Slurm"
-}

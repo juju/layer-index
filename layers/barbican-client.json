@@ -1,6 +1,0 @@
-{
-  "id": "barbican-client",
-  "name": "Barbican Client",
-  "repo": "https://github.com/omnivector-solutions/layer-barbican-client",
-  "summary": "Reactive layer to help pull secrets from barbican"
-}

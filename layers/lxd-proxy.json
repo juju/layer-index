@@ -1,6 +1,0 @@
-{
-  "id": "lxd-proxy",
-  "name": "LXD Proxy",
-  "repo": "https://github.com/omnivector-solutions/layer-lxd-proxy",
-  "summary": "iptables proxy that adds and removes PREROUTING rules to ease host -> container proxying with juju"
-}

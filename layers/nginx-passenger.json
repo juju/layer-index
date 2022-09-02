@@ -1,6 +1,0 @@
-{
-  "id": "nginx-passenger",
-  "name": "Nginx Passenger",
-  "repo": "https://github.com/omnivector-solutions/layer-nginx-passenger",
-  "summary": "Reactive layer for nginx-passenger"
-}
