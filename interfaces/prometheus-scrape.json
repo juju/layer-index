@@ -1,0 +1,6 @@
+{
+  "id": "prometheus-scrape",
+  "name": "prometheus-scrape",
+  "repo": "https://github.com/openstack-charmers/charm-interface-prometheus-scrape",
+  "summary": "Prometheus Scrape interface"
+}
