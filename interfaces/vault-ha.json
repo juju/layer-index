@@ -1,0 +1,6 @@
+{
+  "id": "vault-ha",
+  "name": "vault-ha",
+  "repo": "https://github.com/rodrigogansobarbieri/charm-interface-vault-peer",
+  "summary": "Interface for managing information with peers in the same Vault service"
+}
