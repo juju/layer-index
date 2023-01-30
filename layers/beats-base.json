@@ -1,6 +1,6 @@
 {
   "id": "beats-base",
   "name": "Beats Base",
-  "repo": "https://github.com/juju-solutions/layer-beats-base",
+  "repo": "https://github.com/canonical/layer-beats-base",
   "summary": "Base layer for Elastic Beats"
 }
