@@ -1,0 +1,8 @@
+{
+  "id": "cos-agent",
+  "name": "cos-agent",
+  "repo": "https://github.com/canonical/charm-interface-cos-agent.git",
+  "docs": "https://github.com/canonical/charm-interface-cos-agent/blob/main/README.md",
+  "subdir": "src/",
+  "summary": "COS Agent 'provider' interface for integration with grafana-agent charm."
+}
