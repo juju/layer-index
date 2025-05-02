@@ -106,7 +106,7 @@ List of Base Layers
 | nagios | [Repo](https://git.launchpad.net/nagios-layer) | [Docs](https://git.launchpad.net/tree/README.md) | Nagios Layer | Provide boilerplate required to relate services to the cs:nrpe subordinate |
 | nginx | [Repo](https://github.com/battlemidget/juju-layer-nginx.git) | [Docs](https://github.com/battlemidget/juju-layer-nginx.git#readme) | NGINX | NGINX layer for deploying web applications |
 | nodejs | [Repo](https://github.com/battlemidget/juju-layer-node.git) | [Docs](https://github.com/battlemidget/juju-layer-node.git#readme) | NodeJS | Runtime layer for NodeJS applications |
-| ntpmon | [Repo](https://git.launchpad.net/ntpmon) | [Docs](https://git.launchpad.net/tree/README.md) | ntpmon | NTP monitoring for telegraf |
+| ntpmon | [Repo](https://github.com/canonical/ntpmon) | [Docs](https://github.com/canonical/ntpmon#readme) | ntpmon | NTP monitoring for telegraf |
 | nvidia-cuda | [Repo](https://github.com/juju-solutions/layer-nvidia-cuda) | [Docs](https://github.com/juju-solutions/layer-nvidia-cuda#readme) | Nvidia CUDA | Installs CUDA and Nvidia drivers when supported GPU hardware is detected |
 | openjdk | [Repo](https://github.com/juju-solutions/layer-openjdk.git) | [Docs](https://github.com/juju-solutions/layer-openjdk.git#readme) | OpenJDK | OpenJDK using the java layer |
 | openstack-api | [Repo](https://github.com/openstack/charm-layer-openstack-api) | [Docs](https://github.com/openstack/charm-layer-openstack-api#readme) | OpenStack API layer | OpenStack API layer |
